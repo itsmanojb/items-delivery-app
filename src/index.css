@@ -9,9 +9,18 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
+
+  --container-max-width: 1280px;
 }
 
 body,
 html {
   scroll-behavior: smooth;
+}
+
+@layer components{
+  ._container{
+    @apply mx-auto flex-1;
+    max-width: var(--container-max-width);
+  }
 }

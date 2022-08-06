@@ -1,0 +1,4501 @@
+[
+  {
+    "tracking": {
+      "widget_meta": {
+        "name": "Static Banner",
+        "title": "paan corner banner",
+        "minimum_time_between_impressions": 5000,
+        "variation_id": null,
+        "revision_id": "11581611",
+        "id": "7f5a5242-5b1e-419f-bdc5-8e55f616e413"
+      }
+    },
+    "type": 55,
+    "action": {
+      "default_uri": "grofers://web-external?web_url=/paan"
+    },
+    "grid_span": 12,
+    "data": {
+      "image": "https://cdn.grofers.com/layout-engine/2022-05/new-mweb-1.jpg",
+      "id": "paan corner banner"
+    },
+    "layout_config": {
+      "max_width": 1280,
+      "margin_right": 0,
+      "margin_top": 0,
+      "margin_left": 0,
+      "border_radius": -1,
+      "aspect_ratio": 2.43,
+      "margin_bottom": 0
+    }
+  },
+  {
+    "tracking": {
+      "widget_meta": {
+        "name": "Static Banner",
+        "title": "pb_mweb_downloadapp",
+        "minimum_time_between_impressions": 5000,
+        "variation_id": null,
+        "revision_id": "11623997",
+        "id": "ab45eac0-8d87-44c3-a75b-0cdfa33b72db"
+      }
+    },
+    "type": 55,
+    "action": {
+      "default_uri": "grofers://web-external?web_url=https://link.blinkit.com/jcJJsOsofpb?utm_source=desktop_feed_banner"
+    },
+    "grid_span": 12,
+    "data": {
+      "image": "https://cdn.grofers.com/layout-engine/2022-06/Frame-36256.png",
+      "id": "pb_mweb_downloadapp"
+    },
+    "layout_config": {
+      "max_width": 1280,
+      "margin_right": 0,
+      "margin_top": 0,
+      "margin_left": 0,
+      "border_radius": -1,
+      "aspect_ratio": 2.02,
+      "margin_bottom": 0
+    }
+  },
+  {
+    "tracking": {
+      "widget_meta": {
+        "name": "Horizontal Image Products",
+        "title": "masthead slider card",
+        "minimum_time_between_impressions": 5000,
+        "variation_id": null,
+        "revision_id": "11757522",
+        "id": "1928d540-81aa-491d-b3a3-95efff1a55d2"
+      }
+    },
+    "type": 66,
+    "objects": [
+      {
+        "action": {
+          "tnc_uri": "",
+          "default_uri": "grofers://collection-products?collection_id=62e3c0f967a21a00178d49f1&collection_mapping=113408765744582106563255797477710"
+        },
+        "data": {
+          "image_url": "https://cdn.grofers.com/layout-engine/2022-08/HFS_RN-with-products_4.jpg",
+          "id": ""
+        },
+        "meta": {
+          "slider_type": null,
+          "name": "pb_hfs_with_products_aug_22_web"
+        },
+        "type": 64,
+        "layout_config": {
+          "width": 258,
+          "height": 150
+        }
+      },
+      {
+        "action": {
+          "tnc_uri": "",
+          "default_uri": "grofers://layout?widget_layout_id=thums"
+        },
+        "data": {
+          "image_url": "https://cdn.grofers.com/layout-engine/2022-07/Thumps-Up_RN-1.jpg",
+          "id": ""
+        },
+        "meta": {
+          "slider_type": null,
+          "name": "pb_monet_coca_cola_thums_up"
+        },
+        "type": 64,
+        "layout_config": {
+          "width": 258,
+          "height": 150
+        }
+      },
+      {
+        "action": {
+          "tnc_uri": "",
+          "default_uri": "grofers://layout?widget_layout_id=rakhi"
+        },
+        "data": {
+          "image_url": "https://cdn.grofers.com/layout-engine/2022-08/RB_offer_RN-South-Cities_0.jpg",
+          "id": ""
+        },
+        "meta": {
+          "slider_type": null,
+          "name": "pb_rakhi_pan_india_web"
+        },
+        "type": 64,
+        "layout_config": {
+          "width": 258,
+          "height": 150
+        }
+      },
+      {
+        "action": {
+          "tnc_uri": "",
+          "default_uri": "grofers://collection-products?collection_id=61f25cbb1777dc001700bf08&collection_mapping=218565153208347981263417468625234"
+        },
+        "data": {
+          "image_url": "https://cdn.grofers.com/layout-engine/2022-08/Sleepy-Owl_RN.jpg",
+          "id": ""
+        },
+        "meta": {
+          "slider_type": null,
+          "name": "pb_monet_sleepy_owl_1"
+        },
+        "type": 64,
+        "layout_config": {
+          "width": 258,
+          "height": 150
+        }
+      },
+      {
+        "action": {
+          "tnc_uri": "",
+          "default_uri": "grofers://collection-products?collection_id=62e9fd1e22ded40017f555e0&collection_mapping=678629556126434102504541726952918"
+        },
+        "data": {
+          "image_url": "https://cdn.grofers.com/layout-engine/2022-08/chocolate_RN-1.jpg",
+          "id": ""
+        },
+        "meta": {
+          "slider_type": null,
+          "name": "pb_chocolate_aug"
+        },
+        "type": 64,
+        "layout_config": {
+          "width": 258,
+          "height": 150
+        }
+      },
+      {
+        "action": {
+          "tnc_uri": "",
+          "default_uri": "grofers://layout?widget_layout_id=its_chai_oclock"
+        },
+        "data": {
+          "image_url": "https://cdn.grofers.com/layout-engine/2022-04/chai-evening-time-zomato.jpg",
+          "id": ""
+        },
+        "meta": {
+          "slider_type": null,
+          "name": "pb_evening_chai_and_snacks_time"
+        },
+        "type": 64,
+        "layout_config": {
+          "width": 258,
+          "height": 150
+        }
+      },
+      {
+        "action": {
+          "tnc_uri": "",
+          "default_uri": "grofers://collection-products?collection_id=621875196ca2f1001774488d&collection_mapping=685914119517605770425479753131586"
+        },
+        "data": {
+          "image_url": "https://cdn.grofers.com/layout-engine/2022-04/kids-zone_zomato.jpg",
+          "id": ""
+        },
+        "meta": {
+          "slider_type": null,
+          "name": "pb_stationery_games_web"
+        },
+        "type": 64,
+        "layout_config": {
+          "width": 258,
+          "height": 150
+        }
+      },
+      {
+        "action": {
+          "tnc_uri": "",
+          "default_uri": "grofers://category?expr=%22c1160%22&facet=all"
+        },
+        "data": {
+          "image_url": "https://cdn.grofers.com/layout-engine/2022-04/dry-fruits_zomato.jpg",
+          "id": ""
+        },
+        "meta": {
+          "slider_type": null,
+          "name": "pb_dryfruit_generic"
+        },
+        "type": 64,
+        "layout_config": {
+          "width": 258,
+          "height": 150
+        }
+      },
+      {
+        "action": {
+          "tnc_uri": "",
+          "default_uri": "grofers://category?expr=%22c926%22&facet=all"
+        },
+        "data": {
+          "image_url": "https://cdn.grofers.com/layout-engine/2022-04/repllents_zomato.png",
+          "id": ""
+        },
+        "meta": {
+          "slider_type": null,
+          "name": "pb_repellents_generic"
+        },
+        "type": 64,
+        "layout_config": {
+          "width": 258,
+          "height": 150
+        }
+      }
+    ],
+    "grid_span": 12,
+    "data": {
+      "title": "masthead slider card"
+    },
+    "layout_config": {
+      "max_width": 1280,
+      "background_image_url": "https://cdn.grofers.com/layout-engine/2021-10/white-bg-1.png",
+      "margin_right": 0,
+      "margin_top": 0,
+      "margin_left": 0,
+      "aspect_ratio": 2.4,
+      "margin_bottom": 0
+    }
+  },
+  {
+    "type": 52,
+    "grid_span": 12,
+    "tracking": {
+      "widget_meta": {
+        "name": "Image Grid",
+        "title": "grid5x4_shop_by_category_category_tab_test_set_web",
+        "minimum_time_between_impressions": 5000,
+        "variation_id": "vertical_plp_new",
+        "revision_id": "11580351",
+        "id": "a0e6f7c1-1064-4137-bbc3-7a985049b46f"
+      }
+    },
+    "data": {
+      "click_source": null,
+      "view_type": "grid",
+      "items": [
+        {
+          "desktop_aspect_ratio": 0.68,
+          "image": "https://cdn.grofers.com/layout-engine/2022-05/Slice-21_0.png",
+          "aspect_ratio": 0.67,
+          "desktop_image_url": "https://cdn.grofers.com/layout-engine/2022-05/Slice-4.png",
+          "deeplink": "grofers://listing?l0_cat=1487&l1_cat=1489",
+          "image_title": "1",
+          "id": "8134044"
+        },
+        {
+          "desktop_aspect_ratio": 0.68,
+          "image": "https://cdn.grofers.com/layout-engine/2022-05/Slice-24.png",
+          "aspect_ratio": 0.67,
+          "desktop_image_url": "https://cdn.grofers.com/layout-engine/2022-05/Slice-1.png",
+          "deeplink": "grofers://listing?l0_cat=14&l1_cat=922",
+          "image_title": "2",
+          "id": "8134045"
+        },
+        {
+          "desktop_aspect_ratio": 0.68,
+          "image": "https://cdn.grofers.com/layout-engine/2022-05/Slice-23.png",
+          "aspect_ratio": 0.67,
+          "desktop_image_url": "https://cdn.grofers.com/layout-engine/2022-05/Slice-9.png",
+          "deeplink": "grofers://listing?l0_cat=1237&l1_cat=940",
+          "image_title": "3",
+          "id": "8134046"
+        },
+        {
+          "desktop_aspect_ratio": 0.68,
+          "image": "https://cdn.grofers.com/layout-engine/2022-05/Slice-22.png",
+          "aspect_ratio": 0.67,
+          "desktop_image_url": "https://cdn.grofers.com/layout-engine/2022-05/Slice-6.png",
+          "deeplink": "grofers://listing?l0_cat=888&l1_cat=28",
+          "image_title": "4",
+          "id": "8134047"
+        },
+        {
+          "desktop_aspect_ratio": 0.68,
+          "image": "https://cdn.grofers.com/layout-engine/2022-05/Slice-25_0.png",
+          "aspect_ratio": 0.67,
+          "desktop_image_url": "https://cdn.grofers.com/layout-engine/2022-05/Slice-2_0.png",
+          "deeplink": "grofers://listing?l0_cat=15&l1_cat=954",
+          "image_title": "5",
+          "id": "8134048"
+        },
+        {
+          "desktop_aspect_ratio": 0.68,
+          "image": "https://cdn.grofers.com/layout-engine/2022-05/Slice-28.png",
+          "aspect_ratio": 0.67,
+          "desktop_image_url": "https://cdn.grofers.com/layout-engine/2022-05/Slice-7.png",
+          "deeplink": "grofers://listing?l0_cat=12&l1_cat=957",
+          "image_title": "6",
+          "id": "8134049"
+        },
+        {
+          "desktop_aspect_ratio": 0.68,
+          "image": "https://cdn.grofers.com/layout-engine/2022-05/Slice-27_0.png",
+          "aspect_ratio": 0.67,
+          "desktop_image_url": "https://cdn.grofers.com/layout-engine/2022-05/Slice-3.png",
+          "deeplink": "grofers://listing?l0_cat=332&l1_cat=1102",
+          "image_title": "7",
+          "id": "8134050"
+        },
+        {
+          "desktop_aspect_ratio": 0.68,
+          "image": "https://cdn.grofers.com/layout-engine/2022-05/Slice-26_0.png",
+          "aspect_ratio": 0.67,
+          "desktop_image_url": "https://cdn.grofers.com/layout-engine/2022-05/Slice-5.png",
+          "deeplink": "grofers://listing?l0_cat=9&l1_cat=944",
+          "image_title": "8",
+          "id": "8134051"
+        },
+        {
+          "desktop_aspect_ratio": 0.68,
+          "image": "https://cdn.grofers.com/layout-engine/2022-05/Slice-29.png",
+          "aspect_ratio": 0.67,
+          "desktop_image_url": "https://cdn.grofers.com/layout-engine/2022-05/Slice-8.png",
+          "deeplink": "grofers://listing?l0_cat=16&l1_cat=1165",
+          "image_title": "9",
+          "id": "8134052"
+        },
+        {
+          "desktop_aspect_ratio": 0.68,
+          "image": "https://cdn.grofers.com/layout-engine/2022-05/Slice-32_0.png",
+          "aspect_ratio": 0.67,
+          "desktop_image_url": "https://cdn.grofers.com/layout-engine/2022-05/Slice-10_0.png",
+          "deeplink": "grofers://listing?l0_cat=1557&l1_cat=50",
+          "image_title": "10",
+          "id": "8134053"
+        },
+        {
+          "desktop_aspect_ratio": 0.68,
+          "image": "https://cdn.grofers.com/layout-engine/2022-05/Slice-31_0.png",
+          "aspect_ratio": 0.67,
+          "desktop_image_url": "https://cdn.grofers.com/layout-engine/2022-05/Slice-16.png",
+          "deeplink": "grofers://listing?l0_cat=972&l1_cat=1131",
+          "image_title": "11",
+          "id": "8134054"
+        },
+        {
+          "desktop_aspect_ratio": 0.68,
+          "image": "https://cdn.grofers.com/layout-engine/2022-05/Slice-30.png",
+          "aspect_ratio": 0.67,
+          "desktop_image_url": "https://cdn.grofers.com/layout-engine/2022-05/Slice-12_0.png",
+          "deeplink": "grofers://listing?l0_cat=4&l1_cat=1362",
+          "image_title": "12",
+          "id": "8134055"
+        },
+        {
+          "desktop_aspect_ratio": 0.68,
+          "image": "https://cdn.grofers.com/layout-engine/2022-05/Slice-33_0.png",
+          "aspect_ratio": 0.67,
+          "desktop_image_url": "https://cdn.grofers.com/layout-engine/2022-05/Slice-15.png",
+          "deeplink": "grofers://listing?l0_cat=175&l1_cat=801",
+          "image_title": "13",
+          "id": "8134056"
+        },
+        {
+          "desktop_aspect_ratio": 0.68,
+          "image": "https://cdn.grofers.com/layout-engine/2022-05/Slice-36_1.png",
+          "aspect_ratio": 0.67,
+          "desktop_image_url": "https://cdn.grofers.com/layout-engine/2022-05/Slice-16_0.png",
+          "deeplink": "grofers://listing?l0_cat=229&l1_cat=1982",
+          "image_title": "14",
+          "id": "8134057"
+        },
+        {
+          "desktop_aspect_ratio": 0.68,
+          "image": "https://cdn.grofers.com/layout-engine/2022-05/Slice-35.png",
+          "aspect_ratio": 0.67,
+          "desktop_image_url": "https://cdn.grofers.com/layout-engine/2022-05/Slice-14.png",
+          "deeplink": "grofers://listing?l0_cat=7&l1_cat=1000",
+          "image_title": "15",
+          "id": "8134058"
+        },
+        {
+          "desktop_aspect_ratio": 0.68,
+          "image": "https://cdn.grofers.com/layout-engine/2022-05/Slice-34_0.png",
+          "aspect_ratio": 0.67,
+          "desktop_image_url": "https://cdn.grofers.com/layout-engine/2022-05/Slice-13.png",
+          "deeplink": "grofers://listing?l0_cat=287&l1_cat=1826",
+          "image_title": "16",
+          "id": "8134059"
+        },
+        {
+          "desktop_aspect_ratio": 0.68,
+          "image": "https://cdn.grofers.com/layout-engine/2022-05/Slice-37.png",
+          "aspect_ratio": 0.67,
+          "desktop_image_url": "https://cdn.grofers.com/layout-engine/2022-05/Slice-17.png",
+          "deeplink": "grofers://listing?l0_cat=18&l1_cat=986",
+          "image_title": "17",
+          "id": "8134060"
+        },
+        {
+          "desktop_aspect_ratio": 0.68,
+          "image": "https://cdn.grofers.com/layout-engine/2022-05/Slice-40.png",
+          "aspect_ratio": 0.67,
+          "desktop_image_url": "https://cdn.grofers.com/layout-engine/2022-05/Slice-19_0.png",
+          "deeplink": "grofers://listing?l0_cat=1379&l1_cat=1075",
+          "image_title": "18",
+          "id": "8134061"
+        },
+        {
+          "desktop_aspect_ratio": 0.68,
+          "image": "https://cdn.grofers.com/layout-engine/2022-05/Slice-39.png",
+          "aspect_ratio": 0.67,
+          "desktop_image_url": "https://cdn.grofers.com/layout-engine/2022-05/Slice-18.png",
+          "deeplink": "grofers://listing?l0_cat=163&l1_cat=696",
+          "image_title": "19",
+          "id": "8134062"
+        },
+        {
+          "desktop_aspect_ratio": 0.68,
+          "image": "https://cdn.grofers.com/layout-engine/2022-05/Slice-38.png",
+          "aspect_ratio": 0.67,
+          "desktop_image_url": "https://cdn.grofers.com/layout-engine/2022-05/Slice-20_0.png",
+          "deeplink": "grofers://listing?l0_cat=5&l1_cat=133",
+          "image_title": "20",
+          "id": "8134063"
+        }
+      ],
+      "widget_name": "grid5x4_shop_by_category_category_tab_test_set_web",
+      "column_count": 4,
+      "scale_type": null
+    },
+    "layout_config": {
+      "bg_color": "#DDDDDD",
+      "max_width": 1280,
+      "margin_right": 0,
+      "margin_top": 8,
+      "margin_left": 0,
+      "margin_bottom": 0
+    }
+  },
+  {
+    "type": 126,
+    "grid_span": 12,
+    "tracking": {
+      "widget_meta": {
+        "name": "Bank Offers Widget",
+        "title": "Bank & Wallet Offers Mweb",
+        "minimum_time_between_impressions": 5000,
+        "variation_id": null,
+        "revision_id": "11741027",
+        "id": "ceb77229-a195-41c0-bb79-5a9f50bbbcc2"
+      }
+    },
+    "data": {
+      "title": "Bank & Wallet Offers",
+      "offers": [
+        {
+          "button_cta_text": "COPY CODE",
+          "bank_name": "RBL MoneyTap credit card offer",
+          "subtitle": "No min txn",
+          "offer_color": "#FFD15D",
+          "bottomsheet_image_url": "https://notifly-coupons.grofers.com/notifly/2021-07/Group%2023765_0.png",
+          "offer": {
+            "value": "MONEYTAP",
+            "key": "Code:"
+          },
+          "text_color": "#FFFFFF",
+          "content": [
+            {
+              "data": [
+                "No minimum order value required",
+                "Maximum Discount is ₹150 per transaction ",
+                "Discount not applicable on ghee, edible oil, cigarettes and baby food products",
+                "Offer can be applied 2 times in a month",
+                "Other T&Cs may apply"
+              ],
+              "heading": "Terms & Conditions"
+            }
+          ],
+          "bg_color": "#1B3280",
+          "image_url": "https://notifly-coupons.grofers.com/notifly/2021-07/rblmoney_card_logo_1.png",
+          "title": "Flat 10% off",
+          "deeplink": "grofers://promo-code-bottomsheet"
+        },
+        {
+          "button_cta_text": "COPY CODE",
+          "bank_name": "HSBC Cashback Credit Card Offer",
+          "subtitle": "Min txn: ₹499 | Applicable on HSBC Cashback Credit Card",
+          "offer_color": "#FFD15D",
+          "bottomsheet_image_url": "https://notifly-coupons.grofers.com/notifly/2022-06/hsbc_bottomsheet%20%284%29.png",
+          "offer": {
+            "value": "HSBC10",
+            "key": "Code:"
+          },
+          "text_color": "#FFFFFF",
+          "content": [
+            {
+              "data": [
+                "Maximum Discount is ₹100 per transaction",
+                "Total value of items must be ₹499 or more",
+                "Offer valid only on transactions through HSBC Cashback Credit Card",
+                "Discount not applicable on ghee, edible oil, cigarettes and baby food products",
+                "Offer can be applied 3 times in a month",
+                "Other T&Cs may apply"
+              ],
+              "heading": "Terms & Conditions"
+            }
+          ],
+          "bg_color": "#EC1C24",
+          "image_url": "https://notifly-coupons.grofers.com/notifly/2022-06/hsbc_card_logo%20%282%29_0.png",
+          "title": "Flat 10% off ",
+          "deeplink": "grofers://promo-code-bottomsheet"
+        },
+        {
+          "button_cta_text": "COPY CODE",
+          "bank_name": "AU Bank Credit and Debit Card Offer",
+          "subtitle": "Min txn: ₹750",
+          "offer_color": "#FFD15D",
+          "bottomsheet_image_url": "https://notifly-coupons.grofers.com/notifly/2022-01/au_bottomsheet.png",
+          "offer": {
+            "value": "AU300",
+            "key": "Code:"
+          },
+          "text_color": "#FFFFFF",
+          "content": [
+            {
+              "data": [
+                "Maximum Discount is ₹150 per transaction",
+                "Total value of items must be ₹750 or more",
+                "Discount not applicable on ghee, edible oil, cigarettes and baby food products",
+                "The coupon is valid for 2 transactions in a month",
+                "Other T&Cs may apply"
+              ],
+              "heading": "Terms & Conditions"
+            }
+          ],
+          "bg_color": "#6D276D",
+          "image_url": "https://notifly-coupons.grofers.com/notifly/2022-01/au_card_logo.png",
+          "title": "Flat 10% off",
+          "deeplink": "grofers://promo-code-bottomsheet"
+        },
+        {
+          "button_cta_text": "COPY CODE",
+          "bank_name": "Axis NEO Credit Card Offer",
+          "subtitle": "min txn: ₹750",
+          "offer_color": "#FFD15D",
+          "bottomsheet_image_url": "https://notifly-coupons.grofers.com/notifly/2021-07/axis%20neo_bottomsheet.png",
+          "offer": {
+            "value": "AXISNEO",
+            "key": "Code:"
+          },
+          "text_color": "#FFFFFF",
+          "content": [
+            {
+              "data": [
+                "Maximum discount that can be availed is Rs.250",
+                "Offer is valid once per card in a month",
+                "Total value of items must be ₹750 or more",
+                "Discount not applicable on ghee, edible oil, cigarettes and baby food products",
+                "Offer valid only on payment via Axis Neo credit card",
+                "Other T&Cs may apply"
+              ],
+              "heading": "Terms & Conditions"
+            }
+          ],
+          "bg_color": "#AE275F",
+          "image_url": "https://notifly-coupons.grofers.com/notifly/2021-07/axisneo_card_logo.png",
+          "title": "Flat 10% off ",
+          "deeplink": "grofers://promo-code-bottomsheet"
+        },
+        {
+          "button_cta_text": "COPY CODE",
+          "bank_name": "DigiSmart credit card offer ",
+          "subtitle": "No min txn",
+          "offer_color": "#FFD15D",
+          "bottomsheet_image_url": "https://notifly-coupons.grofers.com/notifly/2021-07/Group%2023752.png",
+          "offer": {
+            "value": "DIGISMART",
+            "key": "Code:"
+          },
+          "text_color": "#FFFFFF",
+          "content": [
+            {
+              "data": [
+                "No minimum order value required",
+                "Maximum Discount is ₹200 per transaction",
+                "Discount not applicable on ghee, edible oil, cigarettes and baby food products",
+                "Offer can be used 5 times in a month",
+                "Other T&Cs may apply"
+              ],
+              "heading": "Terms & Conditions"
+            }
+          ],
+          "bg_color": "#0172AF",
+          "image_url": "https://notifly-coupons.grofers.com/notifly/2021-07/digi_card_logo%20%281%29.png",
+          "title": "Flat 10% off",
+          "deeplink": "grofers://promo-code-bottomsheet"
+        },
+        {
+          "button_cta_text": "COPY CODE",
+          "bank_name": "RBL Cookies credit card offer",
+          "subtitle": "No min txn",
+          "offer_color": "#FFD15D",
+          "bottomsheet_image_url": "https://notifly-coupons.grofers.com/notifly/2021-07/Group%2023766.png",
+          "offer": {
+            "value": "COOKIES",
+            "key": "Code:"
+          },
+          "text_color": "#FFFFFF",
+          "content": [
+            {
+              "data": [
+                "No minimum order value required",
+                "Maximum Discount is ₹75 per transaction",
+                "Discount not applicable on ghee, edible oil, cigarettes and baby food products",
+                "Offer can be availed 4 times in a month",
+                "Other T&Cs may apply"
+              ],
+              "heading": "Terms & Conditions"
+            }
+          ],
+          "bg_color": "#1B3280",
+          "image_url": "https://notifly-coupons.grofers.com/notifly/2021-07/rblcookies_card_logo.png",
+          "title": "Flat 10% off",
+          "deeplink": "grofers://promo-code-bottomsheet"
+        },
+        {
+          "button_cta_text": "COPY CODE",
+          "bank_name": "Bank of Baroda Credit Card Offer",
+          "subtitle": "Min txn: ₹750",
+          "offer_color": "#FFD15D",
+          "bottomsheet_image_url": "https://notifly-coupons.grofers.com/notifly/2022-03/bank_of_%20baroda_bottomsheet.png",
+          "offer": {
+            "value": "BOB10",
+            "key": "Code:"
+          },
+          "text_color": "#FFFFFF",
+          "content": [
+            {
+              "data": [
+                "Maximum Discount is ₹100 per transaction",
+                "Total value of items must be ₹750 or more",
+                "Discount not applicable on ghee, edible oil, cigarettes and baby food products",
+                "Offer can be used 3 times in a month",
+                "Other T&Cs may apply"
+              ],
+              "heading": "Terms & Conditions"
+            }
+          ],
+          "bg_color": "#E74923",
+          "image_url": "https://notifly-coupons.grofers.com/notifly/2022-03/bank_of_%20baroda_logo.png",
+          "title": "Flat 10% off",
+          "deeplink": "grofers://promo-code-bottomsheet"
+        }
+      ],
+      "explore_more": {
+        "deeplink": "",
+        "icon": "ˆ",
+        "title": "More offers coming soon"
+      }
+    },
+    "layout_config": {
+      "bg_color": "#FFFFFF",
+      "max_width": 1280,
+      "margin_right": 0,
+      "margin_top": 0,
+      "margin_left": 0,
+      "margin_bottom": 0
+    }
+  },
+  {
+    "tracking": {
+      "widget_meta": {
+        "name": "Promotional Carousel",
+        "title": "Brand Banner carousel - Old users",
+        "minimum_time_between_impressions": 5000,
+        "variation_id": null,
+        "revision_id": "10263568",
+        "id": "7ff8ab75-ba63-432b-b9ea-a4691a1119fd"
+      }
+    },
+    "header_config": {
+      "title": null,
+      "button_deeplink": null,
+      "theme": "LIGHT",
+      "title_image_url": null,
+      "background_image_url": null,
+      "bg_color": null,
+      "show_header": false,
+      "show_button": false,
+      "button_text": "see more"
+    },
+    "data": {
+      "full_width": false,
+      "adjacent_views_width": 8,
+      "carousel_speed": 2000,
+      "adjust_layout_with_screen_width": true,
+      "indicator_position": "outside",
+      "rounded_cards": true,
+      "adjacent_views_padding": 4
+    },
+    "objects": [
+      {
+        "action": {
+          "default_uri": "grofers://collection-products?collection_id=621c94e906b5b10017d71173&collection_mapping=887076817237660904940069050262307"
+        },
+        "type": 4,
+        "tracking": {
+          "widget_meta": {
+            "name": "Promotional Carousel Banner",
+            "title": "pb_Brand_Licious_Delightful Gourmet_2112",
+            "minimum_time_between_impressions": 5000,
+            "variation_id": null,
+            "revision_id": "10263568",
+            "id": "9be0c874-8e88-4f32-9b8d-b899677598e7"
+          }
+        },
+        "data": {
+          "merchant": {
+            "id": "31189"
+          },
+          "headline_2": "",
+          "headline_1": "",
+          "title": "pb_Brand_Licious_Delightful Gourmet_2112",
+          "image": "https://cdn.grofers.com/layout-engine/automation/pb_Brand_Licious_Delightful%20Gourmet_211208-05-2022-164227.jpg",
+          "banner_category": "Best Value",
+          "id": "9be0c874-8e88-4f32-9b8d-b899677598e7"
+        }
+      },
+      {
+        "action": {
+          "default_uri": "grofers://collection-products?collection_id=62878eacbab7460018c9606d&collection_mapping=108132696820906707925794400328335"
+        },
+        "type": 4,
+        "tracking": {
+          "widget_meta": {
+            "name": "Promotional Carousel Banner",
+            "title": "pb_Brand_WOW_KApco_2081",
+            "minimum_time_between_impressions": 5000,
+            "variation_id": null,
+            "revision_id": "10263568",
+            "id": "1bbd6615-418d-4a99-b340-58e63729adcf"
+          }
+        },
+        "data": {
+          "merchant": {
+            "id": "31189"
+          },
+          "headline_2": "",
+          "headline_1": "",
+          "title": "pb_Brand_WOW_KApco_2081",
+          "image": "https://cdn.grofers.com/layout-engine/automation/pb_Brand_WOW_KApco_208108-02-2022-084247.jpg",
+          "banner_category": "Best Value",
+          "id": "1bbd6615-418d-4a99-b340-58e63729adcf"
+        }
+      },
+      {
+        "action": {
+          "default_uri": "grofers://collection-products?collection_id=62ced8a9e4dde8001780c3e3&collection_mapping=524242041900196988868452429351898"
+        },
+        "type": 4,
+        "tracking": {
+          "widget_meta": {
+            "name": "Promotional Carousel Banner",
+            "title": "pb_Brand_Grameen_Walko_2059",
+            "minimum_time_between_impressions": 5000,
+            "variation_id": null,
+            "revision_id": "10263568",
+            "id": "41a30dc9-920b-4202-b5ed-dd919bf1c2df"
+          }
+        },
+        "data": {
+          "merchant": {
+            "id": "31189"
+          },
+          "headline_2": "",
+          "headline_1": "",
+          "title": "pb_Brand_Grameen_Walko_2059",
+          "image": "https://cdn.grofers.com/layout-engine/automation/pb_Brand_Grameen_Walko_205907-28-2022-094146.jpg",
+          "banner_category": "Best Value",
+          "id": "41a30dc9-920b-4202-b5ed-dd919bf1c2df"
+        }
+      },
+      {
+        "action": {
+          "default_uri": "grofers://collection-products?collection_id=62e37d5e382b8a0017e4c3f2&collection_mapping=690221847469624955656378145174659"
+        },
+        "type": 4,
+        "tracking": {
+          "widget_meta": {
+            "name": "Promotional Carousel Banner",
+            "title": "pb_Brand_Harpic_rb hyho_2108",
+            "minimum_time_between_impressions": 5000,
+            "variation_id": null,
+            "revision_id": "10263568",
+            "id": "b35f3ac9-1967-4735-9f27-017c62b9f64d"
+          }
+        },
+        "data": {
+          "merchant": {
+            "id": "31189"
+          },
+          "headline_2": "",
+          "headline_1": "",
+          "title": "pb_Brand_Harpic_rb hyho_2108",
+          "image": "https://cdn.grofers.com/layout-engine/automation/pb_Brand_Harpic_rb%20hyho_210808-04-2022-184248.jpg",
+          "banner_category": "Best Value",
+          "id": "b35f3ac9-1967-4735-9f27-017c62b9f64d"
+        }
+      },
+      {
+        "action": {
+          "default_uri": "grofers://collection-products?collection_id=5dd3ac0a24726d00121d8210&collection_mapping=287506739684407812090867061462702"
+        },
+        "type": 4,
+        "tracking": {
+          "widget_meta": {
+            "name": "Promotional Carousel Banner",
+            "title": "pb_Brand_Boro plus_Emami_2109",
+            "minimum_time_between_impressions": 5000,
+            "variation_id": null,
+            "revision_id": "10263568",
+            "id": "7e499bb9-02e4-4203-8bba-42914ecf7fb2"
+          }
+        },
+        "data": {
+          "merchant": {
+            "id": "31189"
+          },
+          "headline_2": "",
+          "headline_1": "",
+          "title": "pb_Brand_Boro plus_Emami_2109",
+          "image": "https://cdn.grofers.com/layout-engine/automation/pb_Brand_Boro%20plus_Emami_210908-05-2022-084406.jpg",
+          "banner_category": "Best Value",
+          "id": "7e499bb9-02e4-4203-8bba-42914ecf7fb2"
+        }
+      },
+      {
+        "action": {
+          "default_uri": "grofers://collection-products?collection_id=62da4f0de4dde8001780c41c&collection_mapping=902349490334402008783212598972424"
+        },
+        "type": 4,
+        "tracking": {
+          "widget_meta": {
+            "name": "Promotional Carousel Banner",
+            "title": "pb_Brand_Garnier_loreal_2034",
+            "minimum_time_between_impressions": 5000,
+            "variation_id": null,
+            "revision_id": "10263568",
+            "id": "0b96ba56-4f68-46c8-9ee3-daabc97fe44c"
+          }
+        },
+        "data": {
+          "merchant": {
+            "id": "31189"
+          },
+          "headline_2": "",
+          "headline_1": "",
+          "title": "pb_Brand_Garnier_loreal_2034",
+          "image": "https://cdn.grofers.com/layout-engine/automation/pb_Brand_Garnier_loreal_203408-04-2022-094216.",
+          "banner_category": "Best Value",
+          "id": "0b96ba56-4f68-46c8-9ee3-daabc97fe44c"
+        }
+      },
+      {
+        "action": {
+          "default_uri": "grofers://collection-products?collection_id=62a3464bbd42ab00175d39ec&collection_mapping=768557277337124335557281888406779"
+        },
+        "type": 4,
+        "tracking": {
+          "widget_meta": {
+            "name": "Promotional Carousel Banner",
+            "title": "pb_Brand_Keya_Keya_2089",
+            "minimum_time_between_impressions": 5000,
+            "variation_id": null,
+            "revision_id": "10263568",
+            "id": "d0edca2f-f0df-44be-ac9b-c51a9b9c68e8"
+          }
+        },
+        "data": {
+          "merchant": {
+            "id": "31189"
+          },
+          "headline_2": "",
+          "headline_1": "",
+          "title": "pb_Brand_Keya_Keya_2089",
+          "image": "https://cdn.grofers.com/layout-engine/automation/pb_Brand_Keya_Keya_208908-04-2022-104248.jpg",
+          "banner_category": "Best Value",
+          "id": "d0edca2f-f0df-44be-ac9b-c51a9b9c68e8"
+        }
+      },
+      {
+        "action": {
+          "default_uri": "grofers://collection-products?collection_id=616975e53e22880016498b72&collection_mapping=957122429516501274835280311570023"
+        },
+        "type": 4,
+        "tracking": {
+          "widget_meta": {
+            "name": "Promotional Carousel Banner",
+            "title": "pb_Brand_Dabur_oral care_2093",
+            "minimum_time_between_impressions": 5000,
+            "variation_id": null,
+            "revision_id": "10263568",
+            "id": "dff5ca4c-4d29-49b6-8649-18d209ef9738"
+          }
+        },
+        "data": {
+          "merchant": {
+            "id": "31189"
+          },
+          "headline_2": "",
+          "headline_1": "",
+          "title": "pb_Brand_Dabur_oral care_2093",
+          "image": "https://cdn.grofers.com/layout-engine/automation/pb_Brand_Dabur_oral%20care_209308-04-2022-104259.",
+          "banner_category": "Best Value",
+          "id": "dff5ca4c-4d29-49b6-8649-18d209ef9738"
+        }
+      },
+      {
+        "action": {
+          "default_uri": "grofers://collection-products?collection_id=617948517f8bf00016164cc6&collection_mapping=578491647279772577615882497616287"
+        },
+        "type": 4,
+        "tracking": {
+          "widget_meta": {
+            "name": "Promotional Carousel Banner",
+            "title": "pb_Brand_Nestle chocolates_Nestle_2096",
+            "minimum_time_between_impressions": 5000,
+            "variation_id": null,
+            "revision_id": "10263568",
+            "id": "da681de4-f764-42a0-846a-a484be225bcd"
+          }
+        },
+        "data": {
+          "merchant": {
+            "id": "31189"
+          },
+          "headline_2": "",
+          "headline_1": "",
+          "title": "pb_Brand_Nestle chocolates_Nestle_2096",
+          "image": "https://cdn.grofers.com/layout-engine/automation/pb_Brand_Nestle%20chocolates_Nestle_209608-04-2022-114238.jpg",
+          "banner_category": "Best Value",
+          "id": "da681de4-f764-42a0-846a-a484be225bcd"
+        }
+      },
+      {
+        "action": {
+          "default_uri": "grofers://collection-products?collection_id=61c55b6cd660a900164b9e04&collection_mapping=516551625579172359104408849170549"
+        },
+        "type": 4,
+        "tracking": {
+          "widget_meta": {
+            "name": "Promotional Carousel Banner",
+            "title": "pb_Brand_Plum_Plum_2106",
+            "minimum_time_between_impressions": 5000,
+            "variation_id": null,
+            "revision_id": "10263568",
+            "id": "baa517b5-6c45-4173-955f-23135cf97538"
+          }
+        },
+        "data": {
+          "merchant": {
+            "id": "31189"
+          },
+          "headline_2": "",
+          "headline_1": "",
+          "title": "pb_Brand_Plum_Plum_2106",
+          "image": "https://cdn.grofers.com/layout-engine/automation/pb_Brand_Plum_Plum_210608-04-2022-184238.jpg",
+          "banner_category": "Best Value",
+          "id": "baa517b5-6c45-4173-955f-23135cf97538"
+        }
+      }
+    ],
+    "grid_span": 12,
+    "type": 0,
+    "layout_config": {
+      "bg_color": "#DDDDDD",
+      "max_width": 1280,
+      "single_margin_right": 0,
+      "single_margin_top": 16,
+      "single_margin_left": 0,
+      "aspect_ratio": 2,
+      "single_margin_bottom": 6
+    }
+  },
+  {
+    "tracking": {
+      "widget_meta": {
+        "name": "Super Kvi Widget",
+        "title": "chemist store KVI",
+        "minimum_time_between_impressions": 5000,
+        "variation_id": null,
+        "revision_id": "11626104",
+        "id": "96c3ca62-9e38-4cce-949e-86b7220cff44"
+      }
+    },
+    "header_config": {
+      "title": "Chemist store",
+      "button_deeplink": "grofers://collection-products?collection_id=61652ccb297bc50016519100",
+      "theme": "LIGHT",
+      "title_image_url": null,
+      "background_image_url": null,
+      "bg_color": "#ffffff",
+      "show_header": true,
+      "show_button": true,
+      "button_text": "see all"
+    },
+    "type": 77,
+    "variation_id": "",
+    "objects": [
+      {
+        "action": {
+          "default_uri": "grofers://collection-products?collection_id=61652ccb297bc50016519100"
+        },
+        "type": 21,
+        "data": {
+          "merchant": {
+            "delivery_type": "",
+            "delivery_charge": 19,
+            "name": "Super Store - Kolkata NSC Bose Road ES30",
+            "min_order": 99,
+            "actual_name": "Super Store",
+            "id": 31189
+          },
+          "show_view_all": true,
+          "should_display_atc_button": true,
+          "title_action": "see all",
+          "card_type": 5,
+          "products": [
+            [
+              {
+                "rating": 0,
+                "type_id": 10999,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 480693,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 111942285,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "3 pieces",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 287,
+                    "level": null,
+                    "name": "Healthcare Devices",
+                    "m_score": null,
+                    "id": 62
+                  }
+                ],
+                "unit_price": 102.6666666667,
+                "unit_type": "pieces",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "Plush Preg-oh! Pregnancy Test Kit (Midstream)",
+                "sbc_enabled": false,
+                "type": "Pregnancy Test Kit",
+                "brand": "Plush",
+                "inventory": 4,
+                "recommended_purchase_quantity": 0,
+                "offer": "11% OFF",
+                "price": 308,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 11,
+                "level0_category": [
+                  {
+                    "parent_id": 287,
+                    "level": null,
+                    "name": "Pharma & Wellness",
+                    "m_score": null,
+                    "id": 287
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Plush Preg-oh! Pregnancy Test Kit (Midstream)",
+                "rating_flag": false,
+                "mrp": 349,
+                "leaf_category": {
+                  "parent_id": 287,
+                  "level": "l1",
+                  "name": "Healthcare Devices",
+                  "m_score": null,
+                  "id": 62
+                },
+                "received_at_ts": 0,
+                "product_id": 480693,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/480693a.jpg?ts=1650977521",
+                "group_id": 617192,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 7871,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 434549,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94855835,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "10 units",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 287,
+                    "level": null,
+                    "name": "Sexual Wellness",
+                    "m_score": null,
+                    "id": 707
+                  }
+                ],
+                "unit_price": 33.5,
+                "unit_type": "units",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "",
+                "sbc_enabled": false,
+                "type": "Condom",
+                "brand": "Durex",
+                "inventory": 3,
+                "recommended_purchase_quantity": 0,
+                "offer": "23% OFF",
+                "price": 335,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 23,
+                "level0_category": [
+                  {
+                    "parent_id": 287,
+                    "level": null,
+                    "name": "Pharma & Wellness",
+                    "m_score": null,
+                    "id": 287
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Durex Invisible Super Ultra Thin Condom",
+                "rating_flag": false,
+                "mrp": 440,
+                "leaf_category": {
+                  "parent_id": 287,
+                  "level": "l1",
+                  "name": "Sexual Wellness",
+                  "m_score": null,
+                  "id": 707
+                },
+                "received_at_ts": 0,
+                "product_id": 434549,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/434549a.jpg?ts=1633497471",
+                "group_id": 448393,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 2699,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 36700,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94734774,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "50 ml",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 287,
+                    "level": null,
+                    "name": "Sexual Wellness",
+                    "m_score": null,
+                    "id": 707
+                  }
+                ],
+                "unit_price": 7.6,
+                "unit_type": "ml",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "",
+                "sbc_enabled": false,
+                "type": "Lubricant",
+                "brand": "Durex",
+                "inventory": 2,
+                "recommended_purchase_quantity": 0,
+                "offer": "23% OFF",
+                "price": 380,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 23,
+                "level0_category": [
+                  {
+                    "parent_id": 287,
+                    "level": null,
+                    "name": "Pharma & Wellness",
+                    "m_score": null,
+                    "id": 287
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Durex Play Intimate Sweet Strawberry Lubricant",
+                "rating_flag": false,
+                "mrp": 499,
+                "leaf_category": {
+                  "parent_id": 287,
+                  "level": "l1",
+                  "name": "Sexual Wellness",
+                  "m_score": null,
+                  "id": 707
+                },
+                "received_at_ts": 0,
+                "product_id": 36700,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/36700a.jpg?ts=1633495615",
+                "group_id": 214735,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 10759,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 18862,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94729666,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "80 g",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 287,
+                    "level": null,
+                    "name": "Wound Care And Pain Relief",
+                    "m_score": null,
+                    "id": 155
+                  }
+                ],
+                "unit_price": 3.2,
+                "unit_type": "g",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "",
+                "sbc_enabled": false,
+                "type": "Spray",
+                "brand": "Moov",
+                "inventory": 3,
+                "recommended_purchase_quantity": 2,
+                "offer": "11% OFF",
+                "price": 256,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 11,
+                "level0_category": [
+                  {
+                    "parent_id": 287,
+                    "level": null,
+                    "name": "Pharma & Wellness",
+                    "m_score": null,
+                    "id": 287
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Moov Instant Pain Relief Spray",
+                "rating_flag": false,
+                "mrp": 290,
+                "leaf_category": {
+                  "parent_id": 287,
+                  "level": "l1",
+                  "name": "Wound Care And Pain Relief",
+                  "m_score": null,
+                  "id": 155
+                },
+                "received_at_ts": 0,
+                "product_id": 18862,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/18862a.jpg?ts=1643966797",
+                "group_id": 531267,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 12098,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 479302,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94868332,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "1 unit",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 287,
+                    "level": null,
+                    "name": "Healthcare Devices",
+                    "m_score": null,
+                    "id": 62
+                  }
+                ],
+                "unit_price": 1205,
+                "unit_type": "unit",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "Dr. Morepen Pulse Oximeter",
+                "sbc_enabled": false,
+                "type": "Oximeter",
+                "brand": "Dr. Morepen",
+                "inventory": 2,
+                "recommended_purchase_quantity": 0,
+                "offer": "19% OFF",
+                "price": 1205,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 19,
+                "level0_category": [
+                  {
+                    "parent_id": 287,
+                    "level": null,
+                    "name": "Pharma & Wellness",
+                    "m_score": null,
+                    "id": 287
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Dr. Morepen Pulse Oximeter",
+                "rating_flag": false,
+                "mrp": 1500,
+                "leaf_category": {
+                  "parent_id": 287,
+                  "level": "l1",
+                  "name": "Healthcare Devices",
+                  "m_score": null,
+                  "id": 62
+                },
+                "received_at_ts": 0,
+                "product_id": 479302,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/479302a.jpg",
+                "group_id": 524741,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 1703,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 479305,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94868335,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "1 unit",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 287,
+                    "level": null,
+                    "name": "Masks & Sanitizers",
+                    "m_score": null,
+                    "id": 1826
+                  }
+                ],
+                "unit_price": 498,
+                "unit_type": "unit",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "Krishna PPE Kit",
+                "sbc_enabled": false,
+                "type": "PPE Kit",
+                "brand": "Krishna",
+                "inventory": 1,
+                "recommended_purchase_quantity": 0,
+                "offer": "37% OFF",
+                "price": 498,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 37,
+                "level0_category": [
+                  {
+                    "parent_id": 287,
+                    "level": null,
+                    "name": "Pharma & Wellness",
+                    "m_score": null,
+                    "id": 287
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Krishna PPE Kit",
+                "rating_flag": false,
+                "mrp": 799,
+                "leaf_category": {
+                  "parent_id": 287,
+                  "level": "l1",
+                  "name": "Masks & Sanitizers",
+                  "m_score": null,
+                  "id": 1826
+                },
+                "received_at_ts": 0,
+                "product_id": 479305,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/479305a.jpg?ts=1641301819",
+                "group_id": 524679,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 3875,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 436985,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94856277,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "1 piece",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 287,
+                    "level": null,
+                    "name": "Masks & Sanitizers",
+                    "m_score": null,
+                    "id": 1826
+                  }
+                ],
+                "unit_price": 79,
+                "unit_type": "piece",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "Savlon Small Mask",
+                "sbc_enabled": false,
+                "type": "Mask",
+                "brand": "Savlon",
+                "inventory": 5,
+                "recommended_purchase_quantity": 0,
+                "offer": "16% OFF",
+                "price": 79,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 16,
+                "level0_category": [
+                  {
+                    "parent_id": 287,
+                    "level": null,
+                    "name": "Pharma & Wellness",
+                    "m_score": null,
+                    "id": 287
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Savlon Small Mask (White)",
+                "rating_flag": false,
+                "mrp": 95,
+                "leaf_category": {
+                  "parent_id": 287,
+                  "level": "l1",
+                  "name": "Masks & Sanitizers",
+                  "m_score": null,
+                  "id": 1826
+                },
+                "received_at_ts": 0,
+                "product_id": 436985,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/436985a.jpg",
+                "group_id": 540843,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 11091,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 467014,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94864363,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "500 ml",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 287,
+                    "level": null,
+                    "name": "Masks & Sanitizers",
+                    "m_score": null,
+                    "id": 1826
+                  }
+                ],
+                "unit_price": 0.46,
+                "unit_type": "ml",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "Dettol Clinical Strength Hand Sanitizer",
+                "sbc_enabled": false,
+                "type": "Hand Sanitizer",
+                "brand": "Dettol",
+                "inventory": 2,
+                "recommended_purchase_quantity": 3,
+                "offer": "8% OFF",
+                "price": 230,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 8,
+                "level0_category": [
+                  {
+                    "parent_id": 287,
+                    "level": null,
+                    "name": "Pharma & Wellness",
+                    "m_score": null,
+                    "id": 287
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Dettol Clinical Strength Hand Sanitizer",
+                "rating_flag": false,
+                "mrp": 250,
+                "leaf_category": {
+                  "parent_id": 287,
+                  "level": "l1",
+                  "name": "Masks & Sanitizers",
+                  "m_score": null,
+                  "id": 1826
+                },
+                "received_at_ts": 0,
+                "product_id": 467014,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/467014a.jpg",
+                "group_id": 521070,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 10352,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 990,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94726713,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "30 ml",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 287,
+                    "level": null,
+                    "name": "Digestive Care",
+                    "m_score": null,
+                    "id": 298
+                  }
+                ],
+                "unit_price": 1.7666666667,
+                "unit_type": "ml",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "",
+                "sbc_enabled": false,
+                "type": "Drops",
+                "brand": "Dabur Pudin Hara",
+                "inventory": 3,
+                "recommended_purchase_quantity": 0,
+                "offer": null,
+                "price": 53,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 3,
+                "level0_category": [
+                  {
+                    "parent_id": 287,
+                    "level": null,
+                    "name": "Pharma & Wellness",
+                    "m_score": null,
+                    "id": 287
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Dabur Pudin Hara Active Drops",
+                "rating_flag": false,
+                "mrp": 55,
+                "leaf_category": {
+                  "parent_id": 287,
+                  "level": "l1",
+                  "name": "Digestive Care",
+                  "m_score": null,
+                  "id": 298
+                },
+                "received_at_ts": 0,
+                "product_id": 990,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/990a.jpg",
+                "group_id": 525067,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 11100,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 476976,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94866181,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "8 units",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 287,
+                    "level": null,
+                    "name": "Wound Care And Pain Relief",
+                    "m_score": null,
+                    "id": 155
+                  }
+                ],
+                "unit_price": 2.75,
+                "unit_type": "units",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "",
+                "sbc_enabled": false,
+                "type": "Adhesive Bandage",
+                "brand": "Hansaplast",
+                "inventory": 3,
+                "recommended_purchase_quantity": 0,
+                "offer": null,
+                "price": 22,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 0,
+                "level0_category": [
+                  {
+                    "parent_id": 287,
+                    "level": null,
+                    "name": "Pharma & Wellness",
+                    "m_score": null,
+                    "id": 287
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Hansaplast Washproof Adhesive Bandage (8 pieces)",
+                "rating_flag": false,
+                "mrp": 22,
+                "leaf_category": {
+                  "parent_id": 287,
+                  "level": "l1",
+                  "name": "Wound Care And Pain Relief",
+                  "m_score": null,
+                  "id": 155
+                },
+                "received_at_ts": 0,
+                "product_id": 476976,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/476976a.jpg",
+                "group_id": 635042,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 177,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 477209,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94866406,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "10 units",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 287,
+                    "level": null,
+                    "name": "Adult Diapers",
+                    "m_score": null,
+                    "id": 629
+                  }
+                ],
+                "unit_price": 48.4,
+                "unit_type": "units",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "",
+                "sbc_enabled": false,
+                "type": "Adult Diaper",
+                "brand": "Friends",
+                "inventory": 3,
+                "recommended_purchase_quantity": 0,
+                "offer": "12% OFF",
+                "price": 484,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 12,
+                "level0_category": [
+                  {
+                    "parent_id": 287,
+                    "level": null,
+                    "name": "Pharma & Wellness",
+                    "m_score": null,
+                    "id": 287
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Friends Classic Dry Adult Diaper (Large)",
+                "rating_flag": false,
+                "mrp": 550,
+                "leaf_category": {
+                  "parent_id": 287,
+                  "level": "l1",
+                  "name": "Adult Diapers",
+                  "m_score": null,
+                  "id": 629
+                },
+                "received_at_ts": 0,
+                "product_id": 477209,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/477209a.jpg",
+                "group_id": 531591,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 57,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 309634,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94760852,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "300 g",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 7,
+                    "level": null,
+                    "name": "Baby Food",
+                    "m_score": null,
+                    "id": 1590
+                  }
+                ],
+                "unit_price": 0.91,
+                "unit_type": "g",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "",
+                "sbc_enabled": false,
+                "type": "Baby Cereal",
+                "brand": "Nestle",
+                "inventory": 6,
+                "recommended_purchase_quantity": 2,
+                "offer": "9% OFF",
+                "price": 273,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 9,
+                "level0_category": [
+                  {
+                    "parent_id": 7,
+                    "level": null,
+                    "name": "Baby Care",
+                    "m_score": null,
+                    "id": 7
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Nestle Ceregrow Growing Up Baby Cereal",
+                "rating_flag": false,
+                "mrp": 303,
+                "leaf_category": {
+                  "parent_id": 1590,
+                  "level": "l2",
+                  "name": "24 Months+",
+                  "m_score": null,
+                  "id": 1598
+                },
+                "received_at_ts": 0,
+                "product_id": 309634,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/309634a.jpg?ts=1646806090",
+                "group_id": 553793,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 1333,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 429438,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94854338,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "400 g",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 7,
+                    "level": null,
+                    "name": "Baby Food",
+                    "m_score": null,
+                    "id": 1590
+                  }
+                ],
+                "unit_price": 0.81,
+                "unit_type": "g",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "",
+                "sbc_enabled": false,
+                "type": "Health Drink",
+                "brand": "Nestle",
+                "inventory": 3,
+                "recommended_purchase_quantity": 2,
+                "offer": "10% OFF",
+                "price": 324,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 10,
+                "level0_category": [
+                  {
+                    "parent_id": 7,
+                    "level": null,
+                    "name": "Baby Care",
+                    "m_score": null,
+                    "id": 7
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Nestle Lactogrow Nutritious Health Drink",
+                "rating_flag": false,
+                "mrp": 360,
+                "leaf_category": {
+                  "parent_id": 1590,
+                  "level": "l2",
+                  "name": "24 Months+",
+                  "m_score": null,
+                  "id": 1598
+                },
+                "received_at_ts": 0,
+                "product_id": 429438,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/429438a.jpg?ts=1645512938",
+                "group_id": 533779,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 9840,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 477244,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94866441,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "1 unit",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 287,
+                    "level": null,
+                    "name": "Masks & Sanitizers",
+                    "m_score": null,
+                    "id": 1826
+                  }
+                ],
+                "unit_price": 108,
+                "unit_type": "unit",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "3M 9513 Respirator KN95 Face Mask",
+                "sbc_enabled": false,
+                "type": "Face Mask",
+                "brand": "3M",
+                "inventory": 5,
+                "recommended_purchase_quantity": 0,
+                "offer": null,
+                "price": 108,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 1,
+                "level0_category": [
+                  {
+                    "parent_id": 287,
+                    "level": null,
+                    "name": "Pharma & Wellness",
+                    "m_score": null,
+                    "id": 287
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "3M 9513 Respirator KN95 Face Mask",
+                "rating_flag": false,
+                "mrp": 110,
+                "leaf_category": {
+                  "parent_id": 287,
+                  "level": "l1",
+                  "name": "Masks & Sanitizers",
+                  "m_score": null,
+                  "id": 1826
+                },
+                "received_at_ts": 0,
+                "product_id": 477244,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/477244a.jpg",
+                "group_id": 519808,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 4578,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 1017,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94726746,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "25 ml",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 287,
+                    "level": null,
+                    "name": "Cough & Cold",
+                    "m_score": null,
+                    "id": 75
+                  }
+                ],
+                "unit_price": 3.48,
+                "unit_type": "ml",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "",
+                "sbc_enabled": false,
+                "type": "Chest rubs & balms",
+                "brand": "Vicks",
+                "inventory": 4,
+                "recommended_purchase_quantity": 0,
+                "offer": null,
+                "price": 87,
+                "incentives": [],
+                "user_message_limit": 100,
+                "sts_sbc_savings": null,
+                "discount": 3,
+                "level0_category": [
+                  {
+                    "parent_id": 287,
+                    "level": null,
+                    "name": "Pharma & Wellness",
+                    "m_score": null,
+                    "id": 287
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Vicks VapoRub Chest rubs & balms",
+                "rating_flag": false,
+                "mrp": 90,
+                "leaf_category": {
+                  "parent_id": 287,
+                  "level": "l1",
+                  "name": "Cough & Cold",
+                  "m_score": null,
+                  "id": 75
+                },
+                "received_at_ts": 0,
+                "product_id": 1017,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/1017a.jpg?ts=1635923134",
+                "group_id": 517753,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ]
+          ],
+          "collection_id": "61652ccb297bc50016519100",
+          "product_rows": 1,
+          "deeplink_action": "grofers://collection-products?collection_id=61652ccb297bc50016519100"
+        }
+      }
+    ],
+    "action": {
+      "default_uri": "grofers://collection-products?collection_id=61652ccb297bc50016519100"
+    },
+    "grid_span": 12,
+    "data": {
+      "show_header": true,
+      "header_text_color": "#000000",
+      "subtitle": "get pain relievers, dettol and more",
+      "title": "Chemist store",
+      "collection_name": null,
+      "title_img_url": null,
+      "title_action": "see all",
+      "show_view_all": true,
+      "theme": "LIGHT",
+      "is_for_gifting": false,
+      "animation_delay": 100,
+      "is_animated": false,
+      "deeplink_action": "grofers://collection-products?collection_id=61652ccb297bc50016519100",
+      "product_name_no_of_lines": 2
+    },
+    "layout_config": {
+      "bg_color": "#ffffff",
+      "max_width": 1280,
+      "background_image_url": null,
+      "margin_right": 0,
+      "margin_top": 8,
+      "margin_left": 0,
+      "margin_bottom": 0
+    }
+  },
+  {
+    "tracking": {
+      "widget_meta": {
+        "name": "Super Kvi Widget",
+        "title": "Breakfast & Dairy KVI - Pan-India",
+        "minimum_time_between_impressions": 5000,
+        "variation_id": null,
+        "revision_id": "10173183",
+        "id": "6c72e0c3-d257-4c85-bd48-f04d6257803b"
+      }
+    },
+    "header_config": {
+      "title": "Breakfast & dairy",
+      "button_deeplink": "grofers://collection-products?collection_id=6086348ec2047600164d8551",
+      "theme": "LIGHT",
+      "title_image_url": null,
+      "background_image_url": null,
+      "bg_color": "#ffffff",
+      "show_header": true,
+      "show_button": true,
+      "button_text": "see all"
+    },
+    "type": 77,
+    "variation_id": "",
+    "objects": [
+      {
+        "action": {
+          "default_uri": null
+        },
+        "type": 21,
+        "data": {
+          "merchant": {
+            "delivery_type": "",
+            "delivery_charge": 19,
+            "name": "Super Store - Kolkata NSC Bose Road ES30",
+            "min_order": 99,
+            "actual_name": "Super Store",
+            "id": 31189
+          },
+          "show_view_all": true,
+          "should_display_atc_button": true,
+          "title_action": "see all",
+          "card_type": 5,
+          "products": [
+            [
+              {
+                "rating": 0,
+                "type_id": 5977,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 3493,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94726948,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "476 g",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 14,
+                    "level": null,
+                    "name": "Cheese",
+                    "m_score": null,
+                    "id": 33
+                  }
+                ],
+                "unit_price": 0.6113445378,
+                "unit_type": "g",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "",
+                "sbc_enabled": false,
+                "type": "Cheese Slices",
+                "brand": "Go",
+                "inventory": 5,
+                "recommended_purchase_quantity": 2,
+                "offer": "29% OFF",
+                "price": 291,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 29,
+                "level0_category": [
+                  {
+                    "parent_id": 14,
+                    "level": null,
+                    "name": "Dairy, Bread & Eggs",
+                    "m_score": null,
+                    "id": 14
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Go Plain Cheese Slices",
+                "rating_flag": false,
+                "mrp": 410,
+                "leaf_category": {
+                  "parent_id": 14,
+                  "level": "l1",
+                  "name": "Cheese",
+                  "m_score": null,
+                  "id": 33
+                },
+                "received_at_ts": 0,
+                "product_id": 3493,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/3493a.jpg?ts=1589279406",
+                "group_id": 143937,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 1758,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 477483,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94866653,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "1 pack (30 pieces)",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 14,
+                    "level": null,
+                    "name": "Eggs",
+                    "m_score": null,
+                    "id": 1200
+                  }
+                ],
+                "unit_price": -1,
+                "unit_type": "N/A",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "",
+                "sbc_enabled": false,
+                "type": "White Eggs",
+                "brand": "Eggoz",
+                "inventory": 7,
+                "recommended_purchase_quantity": 0,
+                "offer": "30% OFF",
+                "price": 241,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 30,
+                "level0_category": [
+                  {
+                    "parent_id": 14,
+                    "level": null,
+                    "name": "Dairy, Bread & Eggs",
+                    "m_score": null,
+                    "id": 14
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Eggoz Farm Fresh White Eggs",
+                "rating_flag": false,
+                "mrp": 345,
+                "leaf_category": {
+                  "parent_id": 1200,
+                  "level": "l2",
+                  "name": "Farm-Fresh Eggs",
+                  "m_score": null,
+                  "id": 1389
+                },
+                "received_at_ts": 0,
+                "product_id": 477483,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/477483a.jpg?ts=1639977233",
+                "group_id": 598993,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 4373,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 160,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94725954,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "500 g",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 14,
+                    "level": null,
+                    "name": "Butter & More",
+                    "m_score": null,
+                    "id": 952
+                  }
+                ],
+                "unit_price": 0.504,
+                "unit_type": "g",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "",
+                "sbc_enabled": false,
+                "type": "Butter",
+                "brand": "Amul",
+                "inventory": 50,
+                "recommended_purchase_quantity": 2,
+                "offer": null,
+                "price": 252,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 1,
+                "level0_category": [
+                  {
+                    "parent_id": 14,
+                    "level": null,
+                    "name": "Dairy, Bread & Eggs",
+                    "m_score": null,
+                    "id": 14
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Amul Butter (500 g)",
+                "rating_flag": false,
+                "mrp": 255,
+                "leaf_category": {
+                  "parent_id": 14,
+                  "level": "l1",
+                  "name": "Butter & More",
+                  "m_score": null,
+                  "id": 952
+                },
+                "received_at_ts": 0,
+                "product_id": 160,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/160a.jpg?ts=1654778815",
+                "group_id": 638439,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 12125,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 476144,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94865780,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "475 g",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 15,
+                    "level": null,
+                    "name": "Breakfast Cereal",
+                    "m_score": null,
+                    "id": 954
+                  }
+                ],
+                "unit_price": 0.3936842105,
+                "unit_type": "g",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "Nestle Gold Crunchy, Corn & Oat Flakes (Packet)",
+                "sbc_enabled": false,
+                "type": "Flakes",
+                "brand": "Nestle Gold",
+                "inventory": 2,
+                "recommended_purchase_quantity": 0,
+                "offer": "15% OFF",
+                "price": 187,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 15,
+                "level0_category": [
+                  {
+                    "parent_id": 15,
+                    "level": null,
+                    "name": "Breakfast & Instant Food",
+                    "m_score": null,
+                    "id": 15
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Nestle Gold Crunchy, Corn & Oat Flakes",
+                "rating_flag": false,
+                "mrp": 220,
+                "leaf_category": {
+                  "parent_id": 954,
+                  "level": "l2",
+                  "name": "Flakes",
+                  "m_score": null,
+                  "id": 1098
+                },
+                "received_at_ts": 0,
+                "product_id": 476144,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/476144a.jpg?ts=1644583563",
+                "group_id": 516086,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 2475,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 406721,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94840379,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "1.2 kg",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 15,
+                    "level": null,
+                    "name": "Breakfast Cereal",
+                    "m_score": null,
+                    "id": 954
+                  }
+                ],
+                "unit_price": 0.3433333333,
+                "unit_type": "kg",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "Kellogg's Original Cereals Corn Flakes (Pouch)",
+                "sbc_enabled": false,
+                "type": "Corn Flakes",
+                "brand": "Kellogg's",
+                "inventory": 12,
+                "recommended_purchase_quantity": 2,
+                "offer": "6% OFF",
+                "price": 412,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 6,
+                "level0_category": [
+                  {
+                    "parent_id": 15,
+                    "level": null,
+                    "name": "Breakfast & Instant Food",
+                    "m_score": null,
+                    "id": 15
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Kellogg's Original Cereals Corn Flakes",
+                "rating_flag": false,
+                "mrp": 440,
+                "leaf_category": {
+                  "parent_id": 954,
+                  "level": "l2",
+                  "name": "Flakes",
+                  "m_score": null,
+                  "id": 1098
+                },
+                "received_at_ts": 0,
+                "product_id": 406721,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/406721a.jpg?ts=1591093026",
+                "group_id": 548583,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 7678,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 373665,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94782481,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "750 g",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 15,
+                    "level": null,
+                    "name": "Breakfast Cereal",
+                    "m_score": null,
+                    "id": 954
+                  }
+                ],
+                "unit_price": 0.5186666667,
+                "unit_type": "g",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "Kellogg's with 21% Fruit, Nut & Seeds Muesli (Pouch)",
+                "sbc_enabled": false,
+                "type": "Muesli",
+                "brand": "Kellogg's",
+                "inventory": 1,
+                "recommended_purchase_quantity": 2,
+                "offer": "15% OFF",
+                "price": 389,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 15,
+                "level0_category": [
+                  {
+                    "parent_id": 15,
+                    "level": null,
+                    "name": "Breakfast & Instant Food",
+                    "m_score": null,
+                    "id": 15
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Kellogg's Muesli with 21% Fruit, Nut & Seeds",
+                "rating_flag": false,
+                "mrp": 460,
+                "leaf_category": {
+                  "parent_id": 954,
+                  "level": "l2",
+                  "name": "Muesli & Other Cereals",
+                  "m_score": null,
+                  "id": 1307
+                },
+                "received_at_ts": 0,
+                "product_id": 373665,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/373665a.jpg?ts=1620650940",
+                "group_id": 548700,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 3831,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 322902,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94762283,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "6 pieces",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 14,
+                    "level": null,
+                    "name": "Eggs",
+                    "m_score": null,
+                    "id": 1200
+                  }
+                ],
+                "unit_price": 12,
+                "unit_type": "pieces",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "",
+                "sbc_enabled": false,
+                "type": "Cage Free Eggs",
+                "brand": "Total",
+                "inventory": 4,
+                "recommended_purchase_quantity": 0,
+                "offer": null,
+                "price": 72,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 0,
+                "level0_category": [
+                  {
+                    "parent_id": 14,
+                    "level": null,
+                    "name": "Dairy, Bread & Eggs",
+                    "m_score": null,
+                    "id": 14
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Total Classic Farm Fresh Chicken Cage Free Eggs",
+                "rating_flag": false,
+                "mrp": 72,
+                "leaf_category": {
+                  "parent_id": 1200,
+                  "level": "l2",
+                  "name": "High Protein & Brown Eggs",
+                  "m_score": null,
+                  "id": 1778
+                },
+                "received_at_ts": 0,
+                "product_id": 322902,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/322902a.jpg",
+                "group_id": 519274,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 5018,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 369084,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94777702,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "1 kg",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 15,
+                    "level": null,
+                    "name": "Batter",
+                    "m_score": null,
+                    "id": 1425
+                  }
+                ],
+                "unit_price": 0.088,
+                "unit_type": "kg",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "",
+                "sbc_enabled": false,
+                "type": "Batter",
+                "brand": "Rishta",
+                "inventory": 1,
+                "recommended_purchase_quantity": 0,
+                "offer": "16% OFF",
+                "price": 88,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 16,
+                "level0_category": [
+                  {
+                    "parent_id": 15,
+                    "level": null,
+                    "name": "Breakfast & Instant Food",
+                    "m_score": null,
+                    "id": 15
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Rishta Fresh & Tasty Idli & Dosa Batter",
+                "rating_flag": false,
+                "mrp": 105,
+                "leaf_category": {
+                  "parent_id": 15,
+                  "level": "l1",
+                  "name": "Batter",
+                  "m_score": null,
+                  "id": 1425
+                },
+                "received_at_ts": 0,
+                "product_id": 369084,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/369084a.jpg?ts=1626959780",
+                "group_id": 407630,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 12110,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 406724,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94840382,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "1.2 kg",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 15,
+                    "level": null,
+                    "name": "Breakfast Cereal",
+                    "m_score": null,
+                    "id": 954
+                  }
+                ],
+                "unit_price": 0.3366666667,
+                "unit_type": "kg",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "Kellogg's Moons & Stars Cereals Chocos (Pouch)",
+                "sbc_enabled": false,
+                "type": "Chocos",
+                "brand": "Kellogg's",
+                "inventory": 7,
+                "recommended_purchase_quantity": 3,
+                "offer": "45% OFF",
+                "price": 369,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 45,
+                "level0_category": [
+                  {
+                    "parent_id": 15,
+                    "level": null,
+                    "name": "Breakfast & Instant Food",
+                    "m_score": null,
+                    "id": 15
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Kellogg's Moons & Stars Cereals Chocos",
+                "rating_flag": false,
+                "mrp": 674,
+                "leaf_category": {
+                  "parent_id": 954,
+                  "level": "l2",
+                  "name": "Kids Cereals",
+                  "m_score": null,
+                  "id": 1739
+                },
+                "received_at_ts": 0,
+                "product_id": 406724,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/406724a.jpg?ts=1624525137",
+                "group_id": 548570,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 1197,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 320685,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94762109,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "180 ml",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 12,
+                    "level": null,
+                    "name": "Milk Drinks",
+                    "m_score": null,
+                    "id": 1184
+                  }
+                ],
+                "unit_price": 0.1944444444,
+                "unit_type": "ml",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "Hershey's Chocolate Milk Shake",
+                "sbc_enabled": false,
+                "type": "Milk Shake",
+                "brand": "Hershey's",
+                "inventory": 13,
+                "recommended_purchase_quantity": 0,
+                "offer": null,
+                "price": 35,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 0,
+                "level0_category": [
+                  {
+                    "parent_id": 12,
+                    "level": null,
+                    "name": "Tea, Coffee & Health Drinks",
+                    "m_score": null,
+                    "id": 12
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Hershey's Chocolate Milk Shake",
+                "rating_flag": false,
+                "mrp": 35,
+                "leaf_category": {
+                  "parent_id": 1184,
+                  "level": "l2",
+                  "name": "Flavoured Milk & Milk Shake",
+                  "m_score": null,
+                  "id": 36
+                },
+                "received_at_ts": 0,
+                "product_id": 320685,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/320685a.jpg",
+                "group_id": 302784,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 1810,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 132233,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94748783,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "90 g",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 14,
+                    "level": null,
+                    "name": "Curd & Yogurt",
+                    "m_score": null,
+                    "id": 123
+                  }
+                ],
+                "unit_price": 0.6111111111,
+                "unit_type": "g",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "",
+                "sbc_enabled": false,
+                "type": "Greek Yogurt",
+                "brand": "Epigamia",
+                "inventory": 1,
+                "recommended_purchase_quantity": 3,
+                "offer": null,
+                "price": 55,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 0,
+                "level0_category": [
+                  {
+                    "parent_id": 14,
+                    "level": null,
+                    "name": "Dairy, Bread & Eggs",
+                    "m_score": null,
+                    "id": 14
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Epigamia Wild Raspberry Greek Yogurt",
+                "rating_flag": false,
+                "mrp": 55,
+                "leaf_category": {
+                  "parent_id": 123,
+                  "level": "l2",
+                  "name": "Yogurt",
+                  "m_score": null,
+                  "id": 1094
+                },
+                "received_at_ts": 0,
+                "product_id": 132233,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/132233a.jpg?ts=1630233252",
+                "group_id": 509626,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 6801,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 390998,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94809844,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "500 g",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 15,
+                    "level": null,
+                    "name": "Breakfast Cereal",
+                    "m_score": null,
+                    "id": 954
+                  }
+                ],
+                "unit_price": 0.356,
+                "unit_type": "g",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "Saffola Masala Veggie Twist Oats",
+                "sbc_enabled": false,
+                "type": "Oats",
+                "brand": "Saffola",
+                "inventory": 4,
+                "recommended_purchase_quantity": 4,
+                "offer": "11% OFF",
+                "price": 178,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 11,
+                "level0_category": [
+                  {
+                    "parent_id": 15,
+                    "level": null,
+                    "name": "Breakfast & Instant Food",
+                    "m_score": null,
+                    "id": 15
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Saffola Masala Veggie Twist Oats",
+                "rating_flag": false,
+                "mrp": 202,
+                "leaf_category": {
+                  "parent_id": 954,
+                  "level": "l2",
+                  "name": "Oats",
+                  "m_score": null,
+                  "id": 32
+                },
+                "received_at_ts": 0,
+                "product_id": 390998,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/390998a.jpg?ts=1623234687",
+                "group_id": 234786,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 623,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 19512,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94730048,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "500 ml",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 14,
+                    "level": null,
+                    "name": "Milk",
+                    "m_score": null,
+                    "id": 922
+                  }
+                ],
+                "unit_price": 0.05,
+                "unit_type": "ml",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "Amul Taaza Toned Fresh Milk (Polypack)",
+                "sbc_enabled": false,
+                "type": "Fresh Milk",
+                "brand": "Amul",
+                "inventory": 10,
+                "recommended_purchase_quantity": 4,
+                "offer": null,
+                "price": 25,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 0,
+                "level0_category": [
+                  {
+                    "parent_id": 14,
+                    "level": null,
+                    "name": "Dairy, Bread & Eggs",
+                    "m_score": null,
+                    "id": 14
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Amul Taaza Toned Fresh Milk",
+                "rating_flag": false,
+                "mrp": 25,
+                "leaf_category": {
+                  "parent_id": 922,
+                  "level": "l2",
+                  "name": "Fresh Milk",
+                  "m_score": null,
+                  "id": 1185
+                },
+                "received_at_ts": 0,
+                "product_id": 19512,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/19512a.jpg?ts=1647923044",
+                "group_id": 519784,
+                "next_available_at": {
+                  "next_available_ts": "2022-05-18T00:30:00.000000+0000",
+                  "next_available_text": "#-NA"
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 3768,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 176,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94725979,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "1 l",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 14,
+                    "level": null,
+                    "name": "Milk",
+                    "m_score": null,
+                    "id": 922
+                  }
+                ],
+                "unit_price": 0.068,
+                "unit_type": "l",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "Amul Taaza Homogenised Toned Milk (Tetra Pak)",
+                "sbc_enabled": false,
+                "type": "Milk",
+                "brand": "Amul",
+                "inventory": 50,
+                "recommended_purchase_quantity": 12,
+                "offer": null,
+                "price": 68,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 0,
+                "level0_category": [
+                  {
+                    "parent_id": 14,
+                    "level": null,
+                    "name": "Dairy, Bread & Eggs",
+                    "m_score": null,
+                    "id": 14
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Amul Taaza Homogenised Toned Milk",
+                "rating_flag": false,
+                "mrp": 68,
+                "leaf_category": {
+                  "parent_id": 922,
+                  "level": "l2",
+                  "name": "Tetra Milk",
+                  "m_score": null,
+                  "id": 37
+                },
+                "received_at_ts": 0,
+                "product_id": 176,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/176a.jpg?ts=1624537541",
+                "group_id": 549012,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 3405,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 174,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94725975,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "200 g",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 972,
+                    "level": null,
+                    "name": "Dips & Spreads",
+                    "m_score": null,
+                    "id": 974
+                  }
+                ],
+                "unit_price": 0.47,
+                "unit_type": "g",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "",
+                "sbc_enabled": false,
+                "type": "Cheese Spread",
+                "brand": "Amul",
+                "inventory": 17,
+                "recommended_purchase_quantity": 0,
+                "offer": null,
+                "price": 94,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 0,
+                "level0_category": [
+                  {
+                    "parent_id": 972,
+                    "level": null,
+                    "name": "Sauces & Spreads",
+                    "m_score": null,
+                    "id": 972
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Amul Yummy Plain Cheese Spread",
+                "rating_flag": false,
+                "mrp": 94,
+                "leaf_category": {
+                  "parent_id": 974,
+                  "level": "l2",
+                  "name": "Cheese Spreads",
+                  "m_score": null,
+                  "id": 1099
+                },
+                "received_at_ts": 0,
+                "product_id": 174,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/174a.jpg?ts=1644839308",
+                "group_id": 550961,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ]
+          ],
+          "collection_id": "6086348ec2047600164d8551",
+          "product_rows": 1,
+          "deeplink_action": "grofers://collection-products?collection_id=6086348ec2047600164d8551"
+        }
+      }
+    ],
+    "action": {
+      "default_uri": null
+    },
+    "grid_span": 12,
+    "data": {
+      "show_header": true,
+      "header_text_color": "#000000",
+      "subtitle": "butter, cheese, milk, curd and more",
+      "title": "Breakfast & dairy",
+      "collection_name": null,
+      "title_img_url": null,
+      "title_action": "see all",
+      "show_view_all": true,
+      "theme": "LIGHT",
+      "is_for_gifting": false,
+      "animation_delay": 100,
+      "is_animated": false,
+      "deeplink_action": "grofers://collection-products?collection_id=6086348ec2047600164d8551",
+      "product_name_no_of_lines": 2
+    },
+    "layout_config": {
+      "bg_color": "#ffffff",
+      "max_width": 1280,
+      "background_image_url": null,
+      "margin_right": 0,
+      "margin_top": 0,
+      "margin_left": 0,
+      "margin_bottom": 0
+    }
+  },
+  {
+    "tracking": {
+      "widget_meta": {
+        "name": "Super Kvi Widget",
+        "title": "Biscuits & Snacks KVI - Pan-India",
+        "minimum_time_between_impressions": 5000,
+        "variation_id": null,
+        "revision_id": "11497303",
+        "id": "aacc7624-a745-45d6-bea4-f662ba416cde"
+      }
+    },
+    "header_config": {
+      "title": "Biscuits, snacks & chocolates",
+      "button_deeplink": "grofers://collection-products?collection_id=6042068b90a7b20016e04f6c",
+      "theme": "LIGHT",
+      "title_image_url": null,
+      "background_image_url": null,
+      "bg_color": "#ffffff",
+      "show_header": true,
+      "show_button": true,
+      "button_text": "see all"
+    },
+    "type": 77,
+    "variation_id": "",
+    "objects": [
+      {
+        "action": {
+          "default_uri": null
+        },
+        "type": 21,
+        "data": {
+          "merchant": {
+            "delivery_type": "",
+            "delivery_charge": 19,
+            "name": "Super Store - Kolkata NSC Bose Road ES30",
+            "min_order": 99,
+            "actual_name": "Super Store",
+            "id": 31189
+          },
+          "show_view_all": true,
+          "should_display_atc_button": true,
+          "title_action": "see all",
+          "card_type": 5,
+          "products": [
+            [
+              {
+                "rating": 0,
+                "type_id": 4205,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 313249,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94761189,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "300 g",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 888,
+                    "level": null,
+                    "name": "Cream Biscuits",
+                    "m_score": null,
+                    "id": 105
+                  }
+                ],
+                "unit_price": 0.4033333333,
+                "unit_type": "g",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "",
+                "sbc_enabled": false,
+                "type": "Cookies",
+                "brand": "Sunfeast Dark Fantasy",
+                "inventory": 7,
+                "recommended_purchase_quantity": 0,
+                "offer": "28% OFF",
+                "price": 121,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 28,
+                "level0_category": [
+                  {
+                    "parent_id": 888,
+                    "level": null,
+                    "name": "Bakery & Biscuits",
+                    "m_score": null,
+                    "id": 888
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Sunfeast Dark Fantasy Biscuit - Choco Fills Cookies 300 g",
+                "rating_flag": false,
+                "mrp": 170,
+                "leaf_category": {
+                  "parent_id": 888,
+                  "level": "l1",
+                  "name": "Cream Biscuits",
+                  "m_score": null,
+                  "id": 105
+                },
+                "received_at_ts": 0,
+                "product_id": 313249,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/313249a.jpg?ts=1648546100",
+                "group_id": 533880,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 8619,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 424025,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94848813,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "150 g",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 1237,
+                    "level": null,
+                    "name": "Popcorn",
+                    "m_score": null,
+                    "id": 156
+                  }
+                ],
+                "unit_price": 1.2,
+                "unit_type": "g",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "4700BC Nutty Tuxedo Chocolate Popcorn",
+                "sbc_enabled": false,
+                "type": "Popcorn",
+                "brand": "4700BC",
+                "inventory": 3,
+                "recommended_purchase_quantity": 0,
+                "offer": "10% OFF",
+                "price": 180,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 10,
+                "level0_category": [
+                  {
+                    "parent_id": 1237,
+                    "level": null,
+                    "name": "Munchies",
+                    "m_score": null,
+                    "id": 1237
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "4700BC Nutty Tuxedo Chocolate Popcorn",
+                "rating_flag": false,
+                "mrp": 200,
+                "leaf_category": {
+                  "parent_id": 1237,
+                  "level": "l1",
+                  "name": "Popcorn",
+                  "m_score": null,
+                  "id": 156
+                },
+                "received_at_ts": 0,
+                "product_id": 424025,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/424025a.jpg?ts=1621068567",
+                "group_id": 482030,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 11342,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 382396,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94798015,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "300 g",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 888,
+                    "level": null,
+                    "name": "Cream Biscuits",
+                    "m_score": null,
+                    "id": 105
+                  }
+                ],
+                "unit_price": 0.2266666667,
+                "unit_type": "g",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "",
+                "sbc_enabled": false,
+                "type": "Sandwich Cream Biscuits",
+                "brand": "Cadbury",
+                "inventory": 7,
+                "recommended_purchase_quantity": 0,
+                "offer": "20% OFF",
+                "price": 68,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 20,
+                "level0_category": [
+                  {
+                    "parent_id": 888,
+                    "level": null,
+                    "name": "Bakery & Biscuits",
+                    "m_score": null,
+                    "id": 888
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Cadbury Oreo Vanilla Family Pack Sandwich Cream Biscuits 300 g",
+                "rating_flag": false,
+                "mrp": 85,
+                "leaf_category": {
+                  "parent_id": 888,
+                  "level": "l1",
+                  "name": "Cream Biscuits",
+                  "m_score": null,
+                  "id": 105
+                },
+                "received_at_ts": 0,
+                "product_id": 382396,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/382396a.jpg?ts=1654492739",
+                "group_id": 539759,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 4951,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 11020,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94727844,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "126 g",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 9,
+                    "level": null,
+                    "name": "Chocolate Packs",
+                    "m_score": null,
+                    "id": 1173
+                  }
+                ],
+                "unit_price": 0.9682539683,
+                "unit_type": "g",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "",
+                "sbc_enabled": false,
+                "type": "Chocolate",
+                "brand": "Cadbury Dairy Milk",
+                "inventory": 16,
+                "recommended_purchase_quantity": 0,
+                "offer": "18% OFF",
+                "price": 122,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 18,
+                "level0_category": [
+                  {
+                    "parent_id": 9,
+                    "level": null,
+                    "name": "Sweet Tooth",
+                    "m_score": null,
+                    "id": 9
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Cadbury Dairy Milk Home Treats Chocolate",
+                "rating_flag": false,
+                "mrp": 149,
+                "leaf_category": {
+                  "parent_id": 9,
+                  "level": "l1",
+                  "name": "Chocolate Packs",
+                  "m_score": null,
+                  "id": 1173
+                },
+                "received_at_ts": 0,
+                "product_id": 11020,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/11020a.jpg",
+                "group_id": 90811,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 11177,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 52639,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94736911,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "900 g",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 1237,
+                    "level": null,
+                    "name": "Bhujia & Mixtures",
+                    "m_score": null,
+                    "id": 1178
+                  }
+                ],
+                "unit_price": 0.2666666667,
+                "unit_type": "g",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "Prabhuji Bhujia",
+                "sbc_enabled": false,
+                "type": "Bhujia",
+                "brand": "Prabhuji",
+                "inventory": 14,
+                "recommended_purchase_quantity": 0,
+                "offer": "36% OFF",
+                "price": 240,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 36,
+                "level0_category": [
+                  {
+                    "parent_id": 1237,
+                    "level": null,
+                    "name": "Munchies",
+                    "m_score": null,
+                    "id": 1237
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Prabhuji Bhujia",
+                "rating_flag": false,
+                "mrp": 380,
+                "leaf_category": {
+                  "parent_id": 1237,
+                  "level": "l1",
+                  "name": "Bhujia & Mixtures",
+                  "m_score": null,
+                  "id": 1178
+                },
+                "received_at_ts": 0,
+                "product_id": 52639,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/52639a.jpg",
+                "group_id": 536012,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 1096,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 18471,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94729464,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "336 g",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 888,
+                    "level": null,
+                    "name": "Cream Biscuits",
+                    "m_score": null,
+                    "id": 105
+                  }
+                ],
+                "unit_price": 0.369047619,
+                "unit_type": "g",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "",
+                "sbc_enabled": false,
+                "type": "Choco Pie",
+                "brand": "Lotte",
+                "inventory": 18,
+                "recommended_purchase_quantity": 0,
+                "offer": "17% OFF",
+                "price": 124,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 17,
+                "level0_category": [
+                  {
+                    "parent_id": 888,
+                    "level": null,
+                    "name": "Bakery & Biscuits",
+                    "m_score": null,
+                    "id": 888
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Lotte Choco Pie - 12 units",
+                "rating_flag": false,
+                "mrp": 150,
+                "leaf_category": {
+                  "parent_id": 888,
+                  "level": "l1",
+                  "name": "Cream Biscuits",
+                  "m_score": null,
+                  "id": 105
+                },
+                "received_at_ts": 0,
+                "product_id": 18471,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/18471a.jpg?ts=1592078199",
+                "group_id": 537087,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 7009,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 439142,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94857430,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "2 x 104 g",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 1237,
+                    "level": null,
+                    "name": "Chips & Crisps",
+                    "m_score": null,
+                    "id": 940
+                  }
+                ],
+                "unit_price": 0.4134615385,
+                "unit_type": "g",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "Lay's American Style Cream & Onion Flavour Potato Chips (Pouch) - Pack of 2",
+                "sbc_enabled": false,
+                "type": "Potato Chips",
+                "brand": "Lay's",
+                "inventory": 9,
+                "recommended_purchase_quantity": 0,
+                "offer": "14% OFF",
+                "price": 86,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 14,
+                "level0_category": [
+                  {
+                    "parent_id": 1237,
+                    "level": null,
+                    "name": "Munchies",
+                    "m_score": null,
+                    "id": 1237
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Lay's American Style Cream & Onion Flavour Potato Chips - Pack of 2",
+                "rating_flag": false,
+                "mrp": 100,
+                "leaf_category": {
+                  "parent_id": 940,
+                  "level": "l2",
+                  "name": "Potato Chips",
+                  "m_score": null,
+                  "id": 26
+                },
+                "received_at_ts": 0,
+                "product_id": 439142,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/439142a.jpg?ts=1653659064",
+                "group_id": 438084,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": true
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 2456,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 392931,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94813822,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "1 kg",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 888,
+                    "level": null,
+                    "name": "Healthy & Digestive",
+                    "m_score": null,
+                    "id": 938
+                  }
+                ],
+                "unit_price": 0.176,
+                "unit_type": "kg",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "",
+                "sbc_enabled": false,
+                "type": "Biscuit",
+                "brand": "Britannia NutriChoice",
+                "inventory": 28,
+                "recommended_purchase_quantity": 0,
+                "offer": "20% OFF",
+                "price": 176,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 20,
+                "level0_category": [
+                  {
+                    "parent_id": 888,
+                    "level": null,
+                    "name": "Bakery & Biscuits",
+                    "m_score": null,
+                    "id": 888
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Britannia NutriChoice Digestive High Fibre Biscuit - Super Saver pack",
+                "rating_flag": false,
+                "mrp": 220,
+                "leaf_category": {
+                  "parent_id": 888,
+                  "level": "l1",
+                  "name": "Healthy & Digestive",
+                  "m_score": null,
+                  "id": 938
+                },
+                "received_at_ts": 0,
+                "product_id": 392931,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/392931a.jpg?ts=1644494108",
+                "group_id": 627067,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 8423,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 34338,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94734050,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "1 kg",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 1237,
+                    "level": null,
+                    "name": "Bhujia & Mixtures",
+                    "m_score": null,
+                    "id": 1178
+                  }
+                ],
+                "unit_price": 0.242,
+                "unit_type": "kg",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "Bikano Shahi Mixture Namkeen",
+                "sbc_enabled": false,
+                "type": "Mixture Namkeen",
+                "brand": "Bikano",
+                "inventory": 3,
+                "recommended_purchase_quantity": 0,
+                "offer": "18% OFF",
+                "price": 242,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 18,
+                "level0_category": [
+                  {
+                    "parent_id": 1237,
+                    "level": null,
+                    "name": "Munchies",
+                    "m_score": null,
+                    "id": 1237
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Bikano Shahi Mixture Namkeen",
+                "rating_flag": false,
+                "mrp": 297,
+                "leaf_category": {
+                  "parent_id": 1237,
+                  "level": "l1",
+                  "name": "Bhujia & Mixtures",
+                  "m_score": null,
+                  "id": 1178
+                },
+                "received_at_ts": 0,
+                "product_id": 34338,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/34338a.jpg",
+                "group_id": 221816,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 3251,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 15366,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94728755,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "300 g",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 888,
+                    "level": null,
+                    "name": "Rusks & Wafers",
+                    "m_score": null,
+                    "id": 107
+                  }
+                ],
+                "unit_price": 0.1466666667,
+                "unit_type": "g",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "",
+                "sbc_enabled": false,
+                "type": "Rusk",
+                "brand": "Britannia",
+                "inventory": 50,
+                "recommended_purchase_quantity": 0,
+                "offer": "12% OFF",
+                "price": 44,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 12,
+                "level0_category": [
+                  {
+                    "parent_id": 888,
+                    "level": null,
+                    "name": "Bakery & Biscuits",
+                    "m_score": null,
+                    "id": 888
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Britannia Toastea Premium Bake Rusk",
+                "rating_flag": false,
+                "mrp": 50,
+                "leaf_category": {
+                  "parent_id": 888,
+                  "level": "l1",
+                  "name": "Rusks & Wafers",
+                  "m_score": null,
+                  "id": 107
+                },
+                "received_at_ts": 0,
+                "product_id": 15366,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/15366a.jpg?ts=1640005056",
+                "group_id": 391207,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 5251,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 127096,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94748158,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "187.2 g",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 9,
+                    "level": null,
+                    "name": "Chocolate Packs",
+                    "m_score": null,
+                    "id": 1173
+                  }
+                ],
+                "unit_price": 0.4540598291,
+                "unit_type": "g",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "",
+                "sbc_enabled": false,
+                "type": "Wafers",
+                "brand": "Nestle",
+                "inventory": 6,
+                "recommended_purchase_quantity": 0,
+                "offer": "15% OFF",
+                "price": 85,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 15,
+                "level0_category": [
+                  {
+                    "parent_id": 9,
+                    "level": null,
+                    "name": "Sweet Tooth",
+                    "m_score": null,
+                    "id": 9
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Nestle Munch Chocolate Coated Crunchy Wafers - Share Pack",
+                "rating_flag": false,
+                "mrp": 100,
+                "leaf_category": {
+                  "parent_id": 9,
+                  "level": "l1",
+                  "name": "Chocolate Packs",
+                  "m_score": null,
+                  "id": 1173
+                },
+                "received_at_ts": 0,
+                "product_id": 127096,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/127096a.jpg",
+                "group_id": 531329,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 3462,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 383615,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94799927,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "119 g",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 9,
+                    "level": null,
+                    "name": "Chocolate Packs",
+                    "m_score": null,
+                    "id": 1173
+                  }
+                ],
+                "unit_price": 0.7142857143,
+                "unit_type": "g",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "",
+                "sbc_enabled": false,
+                "type": "Wafer Bar",
+                "brand": "Nestle KITKAT",
+                "inventory": 42,
+                "recommended_purchase_quantity": 0,
+                "offer": "15% OFF",
+                "price": 85,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 15,
+                "level0_category": [
+                  {
+                    "parent_id": 9,
+                    "level": null,
+                    "name": "Sweet Tooth",
+                    "m_score": null,
+                    "id": 9
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Nestle KITKAT Wafer Bar Share Bag (7 packs inside)",
+                "rating_flag": false,
+                "mrp": 100,
+                "leaf_category": {
+                  "parent_id": 9,
+                  "level": "l1",
+                  "name": "Chocolate Packs",
+                  "m_score": null,
+                  "id": 1173
+                },
+                "received_at_ts": 0,
+                "product_id": 383615,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/383615a.jpg?ts=1630648502",
+                "group_id": 524775,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 5248,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 401228,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94826873,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "2 x 66 g",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 1237,
+                    "level": null,
+                    "name": "Chips & Crisps",
+                    "m_score": null,
+                    "id": 940
+                  }
+                ],
+                "unit_price": 0.2727272727,
+                "unit_type": "g",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "Bingo Mad Angles Masala Madness Crisps - Pack of 2",
+                "sbc_enabled": false,
+                "type": "Crisps",
+                "brand": "Bingo Mad Angles",
+                "inventory": 6,
+                "recommended_purchase_quantity": 0,
+                "offer": "10% OFF",
+                "price": 36,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 10,
+                "level0_category": [
+                  {
+                    "parent_id": 1237,
+                    "level": null,
+                    "name": "Munchies",
+                    "m_score": null,
+                    "id": 1237
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Bingo Mad Angles Masala Madness Crisps - Pack of 2",
+                "rating_flag": false,
+                "mrp": 40,
+                "leaf_category": {
+                  "parent_id": 940,
+                  "level": "l2",
+                  "name": "Crisps & Puffs",
+                  "m_score": null,
+                  "id": 1177
+                },
+                "received_at_ts": 0,
+                "product_id": 401228,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/401228a.jpg?ts=1653665108",
+                "group_id": 536053,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": true
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 11583,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 375328,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94785601,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "3 x 55 g",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 1237,
+                    "level": null,
+                    "name": "Chips & Crisps",
+                    "m_score": null,
+                    "id": 940
+                  }
+                ],
+                "unit_price": 0.3090909091,
+                "unit_type": "g",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "Kurkure Puffcorn Yummy Cheese Puffs - Pack of 3",
+                "sbc_enabled": false,
+                "type": "Puffs",
+                "brand": "Kurkure",
+                "inventory": 9,
+                "recommended_purchase_quantity": 0,
+                "offer": "15% OFF",
+                "price": 51,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 15,
+                "level0_category": [
+                  {
+                    "parent_id": 1237,
+                    "level": null,
+                    "name": "Munchies",
+                    "m_score": null,
+                    "id": 1237
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Kurkure Puffcorn Yummy Cheese Puffs - Pack of 3",
+                "rating_flag": false,
+                "mrp": 60,
+                "leaf_category": {
+                  "parent_id": 940,
+                  "level": "l2",
+                  "name": "Crisps & Puffs",
+                  "m_score": null,
+                  "id": 1177
+                },
+                "received_at_ts": 0,
+                "product_id": 375328,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/375328a.jpg?ts=1653994680",
+                "group_id": 536054,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": true
+              }
+            ],
+            [
+              {
+                "rating": 0,
+                "type_id": 1038,
+                "sbc_offer": "100% OFF",
+                "default_product_id": 375552,
+                "has_details": true,
+                "sts_visibility": false,
+                "mapping_id": 94785897,
+                "merchant_type": "Express",
+                "sbc_price": 0,
+                "unit": "450 g",
+                "pricing_comment": "",
+                "level1_category": [
+                  {
+                    "parent_id": 9,
+                    "level": null,
+                    "name": "Indian Sweets",
+                    "m_score": null,
+                    "id": 943
+                  }
+                ],
+                "unit_price": 0.3577777778,
+                "unit_type": "g",
+                "rating_count": 0,
+                "badges": [],
+                "line_1": "",
+                "sbc_enabled": false,
+                "type": "Soan Papdi",
+                "brand": "Prabhuji",
+                "inventory": 12,
+                "recommended_purchase_quantity": 0,
+                "offer": "26% OFF",
+                "price": 161,
+                "incentives": [],
+                "sts_sbc_savings": null,
+                "discount": 26,
+                "level0_category": [
+                  {
+                    "parent_id": 9,
+                    "level": null,
+                    "name": "Sweet Tooth",
+                    "m_score": null,
+                    "id": 9
+                  }
+                ],
+                "rating_star_color": null,
+                "pl_flag": false,
+                "product_tags": [],
+                "video_meta": [],
+                "line_2": "",
+                "name": "Prabhuji Elaichi Soan Papdi",
+                "rating_flag": false,
+                "mrp": 220,
+                "leaf_category": {
+                  "parent_id": 9,
+                  "level": "l1",
+                  "name": "Indian Sweets",
+                  "m_score": null,
+                  "id": 943
+                },
+                "received_at_ts": 0,
+                "product_id": 375552,
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/375552a.jpg?ts=1617795519",
+                "group_id": 471056,
+                "next_available_at": {
+                  "next_available_ts": "",
+                  "next_available_text": ""
+                },
+                "combo_flag": false
+              }
+            ]
+          ],
+          "collection_id": "6042068b90a7b20016e04f6c",
+          "product_rows": 1,
+          "deeplink_action": "grofers://collection-products?collection_id=6042068b90a7b20016e04f6c"
+        }
+      }
+    ],
+    "action": {
+      "default_uri": null
+    },
+    "grid_span": 12,
+    "data": {
+      "show_header": true,
+      "header_text_color": "#000000",
+      "subtitle": "namkeen, biscuits, chips and more",
+      "title": "Biscuits, snacks & chocolates",
+      "collection_name": null,
+      "title_img_url": null,
+      "title_action": "see all",
+      "show_view_all": true,
+      "theme": "LIGHT",
+      "is_for_gifting": false,
+      "animation_delay": 100,
+      "is_animated": false,
+      "deeplink_action": "grofers://collection-products?collection_id=6042068b90a7b20016e04f6c",
+      "product_name_no_of_lines": 2
+    },
+    "layout_config": {
+      "bg_color": "#ffffff",
+      "max_width": 1280,
+      "background_image_url": null,
+      "margin_right": 0,
+      "margin_top": 0,
+      "margin_left": 0,
+      "margin_bottom": 0
+    }
+  }
+]
