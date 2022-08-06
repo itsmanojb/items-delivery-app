@@ -1,3 +1,4 @@
+import BrandPromotion from './BrandPromotion';
 import Footer from './Footer';
 import Header from './Header';
 
@@ -9,7 +10,8 @@ const Layout = (props: Props) => {
   return (
     <div>
       <Header />
-      <main>{props.children}</main>
+      <main className="pt-24">{props.children}</main>
+      <BrandPromotion />
       <Footer />
     </div>
   );

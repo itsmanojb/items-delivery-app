@@ -1,13 +1,14 @@
-import React from 'react';
 import CategoriesList from '../components/CategoriesList';
-import Misc from '../lib/data/layout.json'
+import DiscountOffers from '../components/DiscountOffers';
+import Misc from '../lib/data/layout.json';
 
 const Home = () => {
-  console.log(Misc);
-  
+  // console.log(Misc);
+
   return (
-    <div>
+    <div className="_container">
       <CategoriesList />
+      <DiscountOffers />
     </div>
   );
 };

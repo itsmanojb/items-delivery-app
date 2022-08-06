@@ -1,6 +1,7 @@
 [
   {
     "id": 1487,
+    "coverFile": "1.avif",
     "title": "Vegetables & Fruits",
     "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1487_1644584127602.png",
     "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
@@ -92,6 +93,7 @@
   },
   {
     "id": 14,
+    "coverFile": "2.avif",
     "title": "Dairy, Bread & Eggs",
     "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/14_1644583919858.png",
     "image": "https://cdn.grofers.com/app/images/category/large/1455873935_Breakfast-4.jpg",
@@ -315,6 +317,7 @@
   },
   {
     "id": 1237,
+    "coverFile": "3.avif",
     "title": "Munchies",
     "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1237_1644584104304.png",
     "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
@@ -415,6 +418,7 @@
   },
   {
     "id": 332,
+    "coverFile": "4.avif",
     "title": "Cold Drinks & Juices",
     "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/332_1644584058861.png",
     "image": "https://cdn.grofers.com/app/images/category/large/1468484451_332-Watches.jpg",
@@ -591,6 +595,7 @@
   },
   {
     "id": 15,
+    "coverFile": "5.webp",
     "title": "Breakfast & Instant Food",
     "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/15_1644583938556.png",
     "image": "https://cdn.grofers.com/app/images/category/large/1461414663_Canned--Packaged-food.jpg",
@@ -993,6 +998,7 @@
   },
   {
     "id": 12,
+    "coverFile": "6.avif",
     "title": "Tea, Coffee & Health Drinks",
     "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/12_1644583894450.png",
     "image": "https://cdn.grofers.com/app/images/category/large/1463035177_Beverages_2.jpg",
@@ -1155,6 +1161,7 @@
   },
   {
     "id": 888,
+    "coverFile": "7.avif",
     "title": "Bakery & Biscuits",
     "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/888_1644584074083.png",
     "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
@@ -1273,6 +1280,7 @@
   },
   {
     "id": 9,
+    "coverFile": "8.avif",
     "title": "Sweet Tooth",
     "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/9_1644583882821.png",
     "image": "https://cdn.grofers.com/app/images/category/large/1475067321_9_Fresh-Produce.jpg",
@@ -1383,6 +1391,7 @@
   },
   {
     "id": 16,
+    "coverFile": "9.avif",
     "title": "Atta, Rice & Dal",
     "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/16_1644583949187.png",
     "image": "https://cdn.grofers.com/app/images/category/large/1459601771_grocery-staples.jpg",
@@ -1528,6 +1537,7 @@
   },
   {
     "id": 1557,
+    "coverFile": "10.avif",
     "title": "Masala, Oil & More",
     "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1557_1644584139462.png",
     "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
@@ -1720,6 +1730,7 @@
   },
   {
     "id": 972,
+    "coverFile": "11.avif",
     "title": "Sauces & Spreads",
     "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/972_1644584085171.png",
     "image": "https://cdn.grofers.com/app/images/category/large/1478182185_1467276461_Sauces--Dressings.jpg",
@@ -1854,6 +1865,7 @@
   },
   {
     "id": 4,
+    "coverFile": "12.avif",
     "title": "Chicken, Meat & Fish",
     "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/4_1644583835816.png",
     "image": "https://cdn.grofers.com/app/images/category/large/1475067340_4_Meats--Seafood.jpg",
@@ -1989,6 +2001,7 @@
   },
   {
     "id": 175,
+    "coverFile": "13.avif",
     "title": "Organic & Gourmet",
     "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/175_1644584018797.png",
     "image": "https://cdn.grofers.com/app/images/category/large/1475568991_175_Electronics.jpg",
@@ -2138,6 +2151,7 @@
   },
   {
     "id": 229,
+    "coverFile": "14.avif",
     "title": "Paan Corner",
     "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/229_1649418635480.png",
     "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
@@ -2273,6 +2287,7 @@
   },
   {
     "id": 7,
+    "coverFile": "15.avif",
     "title": "Baby Care",
     "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/7_1644583870017.png",
     "image": "https://cdn.grofers.com/app/images/category/large/1475067327_7-Baby--Kids.jpg",
@@ -2387,6 +2402,7 @@
   },
   {
     "id": 287,
+    "coverFile": "16.webp",
     "title": "Pharma & Wellness",
     "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/287_1644584043262.png",
     "image": "https://cdn.grofers.com/app/images/category/large/1468484358_287-Sportsfitness.jpg",
@@ -2557,6 +2573,7 @@
   },
   {
     "id": 18,
+    "coverFile": "17.avif",
     "title": "Cleaning Essentials",
     "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/18_1644583964387.png",
     "image": "https://cdn.grofers.com/app/images/category/large/1459601933_HOuseholdNeeds.jpg",
@@ -2705,6 +2722,7 @@
   },
   {
     "id": 1379,
+    "coverFile": "18.webp",
     "title": "Home & Office",
     "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1379_1646199890446.png",
     "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
@@ -3210,6 +3228,7 @@
   },
   {
     "id": 163,
+    "coverFile": "19.webp",
     "title": "Personal Care",
     "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/163_1644584004573.png",
     "image": "https://cdn.grofers.com/app/images/category/large/1475067315_163_Beauty--Wellness.jpg",
@@ -3535,6 +3554,7 @@
   },
   {
     "id": 5,
+    "coverFile": "20.avif",
     "title": "Pet Care",
     "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/5_1644583856400.png",
     "image": "https://cdn.grofers.com/app/images/category/large/1475067337_5_Pet-Care.jpg",

@@ -1,0 +1,207 @@
+[
+  {
+    "button_cta_text": "COPY CODE",
+    "bank_name": "RBL MoneyTap credit card offer",
+    "subtitle": "No min txn",
+    "offer_color": "#FFD15D",
+    "bottomsheet_image_url": "https://notifly-coupons.grofers.com/notifly/2021-07/Group%2023765_0.png",
+    "offer": {
+      "value": "MONEYTAP",
+      "key": "Code:"
+    },
+    "text_color": "#FFFFFF",
+    "content": [
+      {
+        "data": [
+          "No minimum order value required",
+          "Maximum Discount is ₹150 per transaction ",
+          "Discount not applicable on ghee, edible oil, cigarettes and baby food products",
+          "Offer can be applied 2 times in a month",
+          "Other T&Cs may apply"
+        ],
+        "heading": "Terms & Conditions"
+      }
+    ],
+    "bg_color": "#1B3280",
+    "image_url": "https://notifly-coupons.grofers.com/notifly/2021-07/rblmoney_card_logo_1.png",
+    "icon_url": "https://notifly-coupons.grofers.com/notifly/2021-10/rblmoneytap_single_card%5B1%5D.png",
+    "title": "Flat 10% off",
+    "deeplink": "grofers://promo-code-bottomsheet"
+  },
+  {
+    "button_cta_text": "COPY CODE",
+    "bank_name": "HSBC Cashback Credit Card Offer",
+    "subtitle": "Min txn: ₹499 | Applicable on HSBC Cashback Credit Card",
+    "offer_color": "#FFD15D",
+    "bottomsheet_image_url": "https://notifly-coupons.grofers.com/notifly/2022-06/hsbc_bottomsheet%20%284%29.png",
+    "offer": {
+      "value": "HSBC10",
+      "key": "Code:"
+    },
+    "text_color": "#FFFFFF",
+    "content": [
+      {
+        "data": [
+          "Maximum Discount is ₹100 per transaction",
+          "Total value of items must be ₹499 or more",
+          "Offer valid only on transactions through HSBC Cashback Credit Card",
+          "Discount not applicable on ghee, edible oil, cigarettes and baby food products",
+          "Offer can be applied 3 times in a month",
+          "Other T&Cs may apply"
+        ],
+        "heading": "Terms & Conditions"
+      }
+    ],
+    "bg_color": "#EC1C24",
+    "image_url": "https://notifly-coupons.grofers.com/notifly/2022-06/hsbc_card_logo%20%282%29_0.png",
+    "icon_url": "https://notifly-coupons.grofers.com/notifly/2022-06/hsbc_single%20card%20%282%29.png",
+    "title": "Flat 10% off ",
+    "deeplink": "grofers://promo-code-bottomsheet"
+  },
+  {
+    "button_cta_text": "COPY CODE",
+    "bank_name": "AU Bank Credit and Debit Card Offer",
+    "subtitle": "Min txn: ₹750",
+    "offer_color": "#FFD15D",
+    "bottomsheet_image_url": "https://notifly-coupons.grofers.com/notifly/2022-01/au_bottomsheet.png",
+    "offer": {
+      "value": "AU300",
+      "key": "Code:"
+    },
+    "text_color": "#FFFFFF",
+    "content": [
+      {
+        "data": [
+          "Maximum Discount is ₹150 per transaction",
+          "Total value of items must be ₹750 or more",
+          "Discount not applicable on ghee, edible oil, cigarettes and baby food products",
+          "The coupon is valid for 2 transactions in a month",
+          "Other T&Cs may apply"
+        ],
+        "heading": "Terms & Conditions"
+      }
+    ],
+    "bg_color": "#6D276D",
+    "image_url": "https://notifly-coupons.grofers.com/notifly/2022-01/au_card_logo.png",
+    "icon_url": "https://notifly-coupons.grofers.com/notifly/2021-12/au_single_card.png",
+    "title": "Flat 10% off",
+    "deeplink": "grofers://promo-code-bottomsheet"
+  },
+  {
+    "button_cta_text": "COPY CODE",
+    "bank_name": "Axis NEO Credit Card Offer",
+    "subtitle": "min txn: ₹750",
+    "offer_color": "#FFD15D",
+    "bottomsheet_image_url": "https://notifly-coupons.grofers.com/notifly/2021-07/axis%20neo_bottomsheet.png",
+    "offer": {
+      "value": "AXISNEO",
+      "key": "Code:"
+    },
+    "text_color": "#FFFFFF",
+    "content": [
+      {
+        "data": [
+          "Maximum discount that can be availed is Rs.250",
+          "Offer is valid once per card in a month",
+          "Total value of items must be ₹750 or more",
+          "Discount not applicable on ghee, edible oil, cigarettes and baby food products",
+          "Offer valid only on payment via Axis Neo credit card",
+          "Other T&Cs may apply"
+        ],
+        "heading": "Terms & Conditions"
+      }
+    ],
+    "bg_color": "#AE275F",
+    "image_url": "https://notifly-coupons.grofers.com/notifly/2021-07/axisneo_card_logo.png",
+    "icon_url": "https://notifly-coupons.grofers.com/notifly/2021-10/axisneo_single_card%5B1%5D.png",
+    "title": "Flat 10% off ",
+    "deeplink": "grofers://promo-code-bottomsheet"
+  },
+  {
+    "button_cta_text": "COPY CODE",
+    "bank_name": "DigiSmart credit card offer ",
+    "subtitle": "No min txn",
+    "offer_color": "#FFD15D",
+    "bottomsheet_image_url": "https://notifly-coupons.grofers.com/notifly/2021-07/Group%2023752.png",
+    "offer": {
+      "value": "DIGISMART",
+      "key": "Code:"
+    },
+    "text_color": "#FFFFFF",
+    "content": [
+      {
+        "data": [
+          "No minimum order value required",
+          "Maximum Discount is ₹200 per transaction",
+          "Discount not applicable on ghee, edible oil, cigarettes and baby food products",
+          "Offer can be used 5 times in a month",
+          "Other T&Cs may apply"
+        ],
+        "heading": "Terms & Conditions"
+      }
+    ],
+    "bg_color": "#0172AF",
+    "image_url": "https://notifly-coupons.grofers.com/notifly/2021-07/digi_card_logo%20%281%29.png",
+    "icon_url": "https://notifly-coupons.grofers.com/notifly/2021-10/digismart_single-card%5B1%5D.png",
+    "title": "Flat 10% off",
+    "deeplink": "grofers://promo-code-bottomsheet"
+  },
+  {
+    "button_cta_text": "COPY CODE",
+    "bank_name": "RBL Cookies credit card offer",
+    "subtitle": "No min txn",
+    "offer_color": "#FFD15D",
+    "bottomsheet_image_url": "https://notifly-coupons.grofers.com/notifly/2021-07/Group%2023766.png",
+    "offer": {
+      "value": "COOKIES",
+      "key": "Code:"
+    },
+    "text_color": "#FFFFFF",
+    "content": [
+      {
+        "data": [
+          "No minimum order value required",
+          "Maximum Discount is ₹75 per transaction",
+          "Discount not applicable on ghee, edible oil, cigarettes and baby food products",
+          "Offer can be availed 4 times in a month",
+          "Other T&Cs may apply"
+        ],
+        "heading": "Terms & Conditions"
+      }
+    ],
+    "bg_color": "#1B3280",
+    "image_url": "https://notifly-coupons.grofers.com/notifly/2021-07/rblcookies_card_logo.png",
+    "icon_url": "https://notifly-coupons.grofers.com/notifly/2021-10/rblcookies_single_card%5B1%5D.png",
+    "title": "Flat 10% off",
+    "deeplink": "grofers://promo-code-bottomsheet"
+  },
+  {
+    "button_cta_text": "COPY CODE",
+    "bank_name": "Bank of Baroda Credit Card Offer",
+    "subtitle": "Min txn: ₹750",
+    "offer_color": "#FFD15D",
+    "bottomsheet_image_url": "https://notifly-coupons.grofers.com/notifly/2022-03/bank_of_%20baroda_bottomsheet.png",
+    "offer": {
+      "value": "BOB10",
+      "key": "Code:"
+    },
+    "text_color": "#FFFFFF",
+    "content": [
+      {
+        "data": [
+          "Maximum Discount is ₹100 per transaction",
+          "Total value of items must be ₹750 or more",
+          "Discount not applicable on ghee, edible oil, cigarettes and baby food products",
+          "Offer can be used 3 times in a month",
+          "Other T&Cs may apply"
+        ],
+        "heading": "Terms & Conditions"
+      }
+    ],
+    "bg_color": "#E74923",
+    "image_url": "https://notifly-coupons.grofers.com/notifly/2022-03/bank_of_%20baroda_logo.png",
+    "icon_url": "https://notifly-coupons.grofers.com/notifly/2022-03/bank_of_%20baroda_single_card.png",
+    "title": "Flat 10% off",
+    "deeplink": "grofers://promo-code-bottomsheet"
+  }
+]

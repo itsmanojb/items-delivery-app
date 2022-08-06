@@ -11,6 +11,12 @@
   -webkit-text-size-adjust: 100%;
 
   --container-max-width: 1280px;
+  --green-shade-1: rgb(236, 255, 236);
+  --border-default-color: rgb(221, 221, 221);
+  --border-muted-color: rgb(238, 238, 238);
+  --nav-shadow: rgb(0 0 0 / 7%) 0px 0px 10px 0px;
+  --searchbox-shadow: rgb(28 28 28 / 8%) 0px 2px 8px;
+  --couponcard-shadow: rgb(28 28 28 / 15%) 0px 2px 4px;
 }
 
 body,
@@ -18,9 +24,40 @@ html {
   scroll-behavior: smooth;
 }
 
-@layer components{
-  ._container{
-    @apply mx-auto flex-1;
+@layer components {
+  ._container {
+    @apply mx-auto flex-1 px-2 xl:px-0;
     max-width: var(--container-max-width);
+  }
+  ._bg-shade-1 {
+    background: var(--green-shade-1);
+  }
+  ._text-default {
+    @apply text-neutral-700;
+  }
+  ._text-muted {
+    @apply text-neutral-500;
+  }
+  ._border {
+    border-color: var(--border-default-color);
+  }
+  ._border-muted {
+    border-color: var(--border-muted-color);
+  }
+  ._nav {
+    @apply fixed inset-x-0 top-0 bg-white h-[86px];
+    box-shadow: var(--nav-shadow);
+  }
+  ._searchbox {
+    @apply bg-white border rounded-lg absolute mx-2 pl-16 pr-6 flex items-center;
+    border-color: var(--border-muted-color);
+    box-shadow: var(--searchbox-shadow);
+    top: 18px;
+    width: 100%;
+    max-width: 600px;
+    height: 50px;
+  }
+  ._coupon:hover{
+    box-shadow: var(--couponcard-shadow)
   }
 }
