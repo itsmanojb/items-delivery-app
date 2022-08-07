@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 :root {
-  color-scheme: light dark;
+  color-scheme: light;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -15,10 +15,14 @@
   --green-shade-2: rgb(226, 249, 226);
   --border-default-color: rgb(221, 221, 221);
   --border-muted-color: rgb(238, 238, 238);
+
   --nav-shadow: rgb(0 0 0 / 7%) 0px 0px 10px 0px;
   --searchbox-shadow: rgb(28 28 28 / 8%) 0px 2px 8px;
   --couponcard-shadow: rgb(28 28 28 / 15%) 0px 2px 4px;
   --modal-shadow: 0 0 14px 0 rgb(0 0 0 / 30%);
+  --box-shadow: rgb(28 28 28 / 15%) 0px 1px 4px;
+  --floatingBtn-shadow: rgb(0 0 0 / 20%) 0px 3px 5px -1px,
+    rgb(0 0 0 / 14%) 0px 6px 10px 0px, rgb(0 0 0 / 12%) 0px 1px 18px 0px;
 }
 
 body,
@@ -50,7 +54,7 @@ html {
     border-color: var(--border-muted-color);
   }
   ._nav {
-    @apply fixed inset-x-0 top-0 bg-white h-[86px] z-10;
+    @apply fixed inset-x-0 top-0 bg-white h-[86px] z-20;
     box-shadow: var(--nav-shadow);
   }
   ._searchbox {
@@ -65,12 +69,26 @@ html {
   ._coupon:hover {
     box-shadow: var(--couponcard-shadow);
   }
-
   ._modal {
     @apply md:rounded bg-white absolute top-0 left-0 md:top-1/2 md:left-1/2 md:-translate-x-1/2 md:-translate-y-1/2 z-20 w-full md:max-w-[496px] overflow-hidden;
     box-shadow: var(--modal-shadow);
   }
-
+  ._card {
+    @apply border _border-muted rounded-lg px-3 pb-3 flex flex-col bg-white transition;
+  }
+  ._card:hover {
+    box-shadow: var(--box-shadow);
+    border: 0.5px solid rgb(146, 206, 116);
+  }
+  ._fab {
+    @apply rounded-full cursor-pointer flex items-center justify-center;
+    box-shadow: var(--floatingBtn-shadow);
+  }
+  ._add_to_cart {
+    @apply h-9 w-[90px] rounded-md uppercase font-semibold text-sm text-green-700;
+    background: rgb(247, 255, 249);
+    border: 0.5px solid rgb(12, 131, 31);
+  }
   ._swinging {
     animation-name: swigning;
     animation-duration: 3s;

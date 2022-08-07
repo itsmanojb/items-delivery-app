@@ -16,8 +16,12 @@ const HeroArea = () => {
     <section>
       {ads.map((ad) => (
         <div key={ad.id}>
-          <img src={ad.banner} alt="" className="h-full w-full hidden lg:block" />
-          <img src={ad.banner_sm} alt="" className="h-full w-full lg:hidden" />
+          <img
+            src={ad.banner}
+            alt=""
+            className="h-full w-full hidden sm:block"
+          />
+          <img src={ad.banner_sm} alt="" className="h-full w-full sm:hidden" />
         </div>
       ))}
     </section>

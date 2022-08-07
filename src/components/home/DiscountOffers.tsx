@@ -1,7 +1,43 @@
+import Carousel from 'react-multi-carousel';
 import { useAppDispatch } from '../../hooks/useAppDispatch';
 import { show as showModal } from '../../store/modal';
 import { DiscountOffer } from '../../utils/types';
 import Offers from '../../lib/data/discountOffers.json';
+import CarouselButtonGroup from '../CarouselButtonGroup';
+import 'react-multi-carousel/lib/styles.css';
+
+const responsive = {
+  uhdDesktop: {
+    breakpoint: { max: 1920, min: 1601 },
+    items: 4,
+    slidesToSlide: 4,
+    partialVisibilityGutter: 10,
+  },
+  superLargeDesktop: {
+    breakpoint: { max: 1600, min: 1201 },
+    items: 4,
+    slidesToSlide: 4,
+    partialVisibilityGutter: 10,
+  },
+  largeDesktop: {
+    breakpoint: { max: 1200, min: 993 },
+    items: 3,
+    slidesToSlide: 3,
+    partialVisibilityGutter: 10,
+  },
+  tablet: {
+    breakpoint: { max: 992, min: 601 },
+    items: 2,
+    slidesToSlide: 2,
+    partialVisibilityGutter: 10,
+  },
+  mobile: {
+    breakpoint: { max: 600, min: 0 },
+    items: 1,
+    slidesToSlide: 1,
+    partialVisibilityGutter: 10,
+  },
+};
 
 const DiscountCard = ({ data }: { data: DiscountOffer }) => {
   const dispatch = useAppDispatch();
@@ -12,7 +48,7 @@ const DiscountCard = ({ data }: { data: DiscountOffer }) => {
 
   return (
     <div
-      className="border border-blue-600 rounded-lg min-w-[277px] cursor-pointer h-[188px] _coupon overflow-hidden flex flex-col"
+      className="border border-blue-600 rounded-lg cursor-pointer mr-4 lg:w-[277px] h-[188px] _coupon overflow-hidden flex flex-col"
       onClick={() => showDiscountInfo()}
     >
       <div className="p-4">
@@ -47,14 +83,30 @@ const DiscountCard = ({ data }: { data: DiscountOffer }) => {
 
 const DiscountOffers = () => {
   const allOffers = Offers as DiscountOffer[];
+  // console.log('allOffers', allOffers);
 
   return (
     <section>
-      <h3 className="font-semibold text-2xl my-6 mx-4">Bank & Wallet Offers</h3>
-      <div className="flex gap-5 pb-2 pt-4 mx-4 overflow-x-auto overflow-y-hidden">
-        {allOffers?.map((offer, i) => (
-          <DiscountCard key={i} data={offer} />
-        ))}
+      <h3 className="font-semibold text-2xl my-6 mx-4">
+        Bank &amp; Wallet Offers
+      </h3>
+      <div className="mx-4 relative">
+        <Carousel
+          swipeable={false}
+          draggable={false}
+          responsive={responsive}
+          arrows={false}
+          renderButtonGroupOutside={true}
+          customButtonGroup={<CarouselButtonGroup />}
+          shouldResetAutoplay={false}
+          infinite={false}
+          itemClass=""
+          partialVisible
+        >
+          {allOffers?.map((offer, i) => (
+            <DiscountCard key={i} data={offer} />
+          ))}
+        </Carousel>
       </div>
     </section>
   );

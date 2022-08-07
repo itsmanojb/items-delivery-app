@@ -3,11 +3,19 @@ import {
   CategoriesList,
   DiscountOffers,
   FeaturedPromo,
+  HighlightedPromo,
+  ItemsCarousel,
+  ProductsRow,
 } from '../components/home';
 import Misc from '../lib/data/layout.json';
 
 const Home = () => {
-  // console.log(Misc);
+  const productItems: any[] = Misc.filter((item) => item.type === 77).map(
+    (el) => ({
+      data: el.data,
+      objects: el.objects,
+    })
+  );
 
   return (
     <div className="_container">
@@ -15,6 +23,10 @@ const Home = () => {
       <FeaturedPromo />
       <CategoriesList />
       <DiscountOffers />
+      <HighlightedPromo />
+      {productItems.map((products, i) => (
+        <ProductsRow key={i} {...products} />
+      ))}
     </div>
   );
 };
