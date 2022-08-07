@@ -17,6 +17,7 @@
   --nav-shadow: rgb(0 0 0 / 7%) 0px 0px 10px 0px;
   --searchbox-shadow: rgb(28 28 28 / 8%) 0px 2px 8px;
   --couponcard-shadow: rgb(28 28 28 / 15%) 0px 2px 4px;
+  --modal-shadow: 0 0 14px 0 rgb(0 0 0 / 30%);
 }
 
 body,
@@ -59,5 +60,9 @@ html {
   }
   ._coupon:hover{
     box-shadow: var(--couponcard-shadow)
+  }
+  ._modal{
+    @apply md:rounded bg-white absolute top-0 left-0 md:top-1/2 md:left-1/2 md:-translate-x-1/2 md:-translate-y-1/2 z-20 w-full md:max-w-[496px] overflow-hidden;
+    box-shadow:var(--modal-shadow);
   }
 }

@@ -1,5 +1,4 @@
-import CategoriesList from '../components/CategoriesList';
-import DiscountOffers from '../components/DiscountOffers';
+import { HeroArea, CategoriesList, DiscountOffers } from '../components/home';
 import Misc from '../lib/data/layout.json';
 
 const Home = () => {
@@ -7,6 +6,7 @@ const Home = () => {
 
   return (
     <div className="_container">
+      <HeroArea />
       <CategoriesList />
       <DiscountOffers />
     </div>

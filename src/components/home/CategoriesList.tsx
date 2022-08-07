@@ -1,5 +1,4 @@
-import React from 'react';
-import Categories from '../lib/data/categories.json';
+import Categories from '../../lib/data/categories.json';
 
 type Props = {};
 
