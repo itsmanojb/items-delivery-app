@@ -12,6 +12,7 @@
 
   --container-max-width: 1280px;
   --green-shade-1: rgb(236, 255, 236);
+  --green-shade-2: rgb(226, 249, 226);
   --border-default-color: rgb(221, 221, 221);
   --border-muted-color: rgb(238, 238, 238);
   --nav-shadow: rgb(0 0 0 / 7%) 0px 0px 10px 0px;
@@ -33,6 +34,9 @@ html {
   ._bg-shade-1 {
     background: var(--green-shade-1);
   }
+  ._bg-shade-2 {
+    background: var(--green-shade-2);
+  }
   ._text-default {
     @apply text-neutral-700;
   }
@@ -46,7 +50,7 @@ html {
     border-color: var(--border-muted-color);
   }
   ._nav {
-    @apply fixed inset-x-0 top-0 bg-white h-[86px];
+    @apply fixed inset-x-0 top-0 bg-white h-[86px] z-10;
     box-shadow: var(--nav-shadow);
   }
   ._searchbox {
@@ -58,11 +62,33 @@ html {
     max-width: 600px;
     height: 50px;
   }
-  ._coupon:hover{
-    box-shadow: var(--couponcard-shadow)
+  ._coupon:hover {
+    box-shadow: var(--couponcard-shadow);
   }
-  ._modal{
+
+  ._modal {
     @apply md:rounded bg-white absolute top-0 left-0 md:top-1/2 md:left-1/2 md:-translate-x-1/2 md:-translate-y-1/2 z-20 w-full md:max-w-[496px] overflow-hidden;
-    box-shadow:var(--modal-shadow);
+    box-shadow: var(--modal-shadow);
+  }
+
+  ._swinging {
+    animation-name: swigning;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+  }
+}
+
+@keyframes swigning {
+  0% {
+    transform: translate(40%, -41%);
+  }
+
+  50% {
+    transform: translate(53%, -45%);
+  }
+
+  100% {
+    transform: translate(40%, -41%);
   }
 }

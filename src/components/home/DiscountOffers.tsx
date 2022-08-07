@@ -1,12 +1,12 @@
 import { useAppDispatch } from '../../hooks/useAppDispatch';
-import Offers from '../../lib/data/discountOffers.json';
 import { show as showModal } from '../../store/modal';
 import { DiscountOffer } from '../../utils/types';
+import Offers from '../../lib/data/discountOffers.json';
 
 const DiscountCard = ({ data }: { data: DiscountOffer }) => {
   const dispatch = useAppDispatch();
 
-  const showDiscountInfo = (): void => {    
+  const showDiscountInfo = (): void => {
     dispatch(showModal({ data, type: 'discount' }));
   };
 

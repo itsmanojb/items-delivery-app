@@ -37,6 +37,57 @@ const UsefulLinks: string[] = [
   'Deliver',
 ];
 
+const PaymentPartners = [
+  {
+    logoName: 'mobikwik',
+    alt: 'MobikWik',
+  },
+  {
+    logoName: 'paytm',
+    alt: 'PayTm',
+  },
+  {
+    logoName: 'visa',
+    alt: 'Visa',
+  },
+  {
+    logoName: 'mastercard',
+    alt: 'Mastercard',
+  },
+  {
+    logoName: 'maestro',
+    alt: 'Maestro',
+  },
+  {
+    logoName: 'rupay',
+    alt: 'RuPay',
+  },
+  {
+    logoName: 'amex',
+    alt: 'American Express',
+  },
+  {
+    logoName: 'sodex',
+    alt: 'Sodexo',
+  },
+  {
+    logoName: 'bhim',
+    alt: 'BHIM UPI',
+  },
+  {
+    logoName: '',
+    alt: 'Net Banking',
+  },
+  {
+    logoName: '',
+    alt: 'Cash on Delivery',
+  },
+  {
+    logoName: '',
+    alt: 'bringIt cash',
+  },
+];
+
 const Footer = () => {
   const allCategories = Categories.map((cat) => ({
     id: cat.id,
@@ -97,23 +148,35 @@ const Footer = () => {
         <div>
           <h4 className="font-bold my-6 text-lg">Payment partners</h4>
           <div className="flex flex-wrap gap-x-6 gap-y-1 mb-12">
-            {[...Array(12)].map((_, i) => (
+            {PaymentPartners.map((partner, i) => (
               <div key={i}>
-                <div className="w-[98px] h-[66px] border rounded-[4px]"></div>
+                <div className="w-[98px] h-[66px] border rounded-[4px] flex items-center justify-center p-2">
+                  {partner.logoName ? (
+                    <img
+                      src={`${partner.logoName}.webp`}
+                      alt={partner.alt}
+                      className="h-14 w-14 object-cover"
+                    />
+                  ) : (
+                    <span className="text-xs _text-default text-center leading-tight">
+                      {partner.alt}
+                    </span>
+                  )}
+                </div>
               </div>
             ))}
           </div>
         </div>
       </div>
-      <div className="bg-gray-50 py-6 mt-2 min-h-[60px]">
+      <div className="bg-[#fcfcfc] py-6 mt-2 min-h-[60px]">
         <div className="_container">
           <div className="flex flex-col sm:flex-row flex-wrap gap-4 items-center">
-            <div className="text-xs flex-1 _text-muted lg:max-w-md">
+            <div className="text-xs flex-1 _text-muted lg:max-w-md pr-6">
               &copy; Bring Commerce Private Limited (formerly known as Loafers
               Inc Private Limited), 2016-2022
             </div>
             <div className="flex flex-1 md:flex-row items-center gap-2">
-              <h4 className="font-bold text-md leading-none lg:mr-4">
+              <h4 className="font-bold text-md leading-none lg:mr-4 _text-default">
                 Download App
               </h4>
               <div className="h-8 w-24 rounded-[3px] cursor-pointer overflow-hidden">
