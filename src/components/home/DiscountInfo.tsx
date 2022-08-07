@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import { IoClose } from 'react-icons/io5';
 import { DiscountOffer } from '../../utils/types';
 
@@ -7,6 +8,32 @@ type DiscountInfoProps = {
 };
 
 const DiscountInfo = ({ data, onClose }: DiscountInfoProps) => {
+  const [codeCopied, setCodeCopied] = useState<boolean>(false);
+
+  const copyCouponCode = async (
+    e: React.MouseEvent<HTMLButtonElement>,
+    text: string
+  ) => {
+    e.stopPropagation();
+    if ('clipboard' in navigator) {
+      try {
+        await navigator.clipboard.writeText(text);
+        setCodeCopied(true);
+        setTimeout(() => {
+          setCodeCopied(false);
+        }, 2000);
+      } catch (error) {
+        console.log('error', error);
+      }
+    } else {
+      document.execCommand('copy', true, text);
+      setCodeCopied(true);
+      setTimeout(() => {
+        setCodeCopied(false);
+      }, 2000);
+    }
+  };
+
   return (
     data && (
       <div className="relative">
@@ -36,14 +63,18 @@ const DiscountInfo = ({ data, onClose }: DiscountInfoProps) => {
             <div className="flex flex-col">
               <small className="text-xs font-medium">{data.offer?.key}</small>
               <span
-                className="text-[20px] font-bold"
+                className="text-[20px] font-extrabold"
                 style={{ color: data.offer_color }}
               >
                 {data.offer?.value}
               </span>
             </div>
-            <button className="text-[#1f1f1f] bg-white rounded-[4px] font-medium uppercase text-[15px] leading-none px-4 py-1.5 h-[42px]">
-              {data.button_cta_text}
+            <button
+              type="button"
+              onClick={(e) => copyCouponCode(e, data.offer.value)}
+              className="text-[#1f1f1f] bg-white rounded-[4px] font-medium uppercase text-[15px] leading-none px-4 py-1.5 h-[42px]"
+            >
+              {codeCopied ? 'Copied' : data.button_cta_text}
             </button>
           </div>
         </div>

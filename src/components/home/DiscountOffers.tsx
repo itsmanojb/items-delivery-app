@@ -5,6 +5,7 @@ import { DiscountOffer } from '../../utils/types';
 import Offers from '../../lib/data/discountOffers.json';
 import CarouselButtonGroup from '../CarouselButtonGroup';
 import 'react-multi-carousel/lib/styles.css';
+import React, { useState } from 'react';
 
 const responsive = {
   uhdDesktop: {
@@ -41,9 +42,34 @@ const responsive = {
 
 const DiscountCard = ({ data }: { data: DiscountOffer }) => {
   const dispatch = useAppDispatch();
+  const [codeCopied, setCodeCopied] = useState<boolean>(false);
 
   const showDiscountInfo = (): void => {
     dispatch(showModal({ data, type: 'discount' }));
+  };
+
+  const copyCouponCode = async (
+    e: React.MouseEvent<HTMLButtonElement>,
+    text: string
+  ) => {
+    e.stopPropagation();
+    if ('clipboard' in navigator) {
+      try {
+        await navigator.clipboard.writeText(text);
+        setCodeCopied(true);
+        setTimeout(() => {
+          setCodeCopied(false);
+        }, 2000);
+      } catch (error) {
+        console.log('error', error);
+      }
+    } else {
+      document.execCommand('copy', true, text);
+      setCodeCopied(true);
+      setTimeout(() => {
+        setCodeCopied(false);
+      }, 2000);
+    }
   };
 
   return (
@@ -73,8 +99,12 @@ const DiscountCard = ({ data }: { data: DiscountOffer }) => {
             {data.offer.value}
           </span>
         </div>
-        <button className="bg-[#1f1f1f] text-white rounded-lg font-medium lowercase text-sm leading-none px-4 py-1.5 h-7">
-          {data.button_cta_text}
+        <button
+          type="button"
+          onClick={(e) => copyCouponCode(e, data.offer.value)}
+          className="bg-[#1f1f1f] text-white w-[104px] rounded-lg font-medium lowercase text-sm leading-none px-4 py-1.5 h-7"
+        >
+          {codeCopied ? 'Copied' : data.button_cta_text}
         </button>
       </div>
     </div>
