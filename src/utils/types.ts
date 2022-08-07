@@ -112,3 +112,19 @@ interface NextAvailableAt {
   next_available_ts: string;
   next_available_text: string;
 }
+
+
+export type CartProduct = {
+  id: string;
+  title: string;
+  subTitle: string;
+  image?: string;
+  price: number;
+  mrp?: number;
+};
+
+export type CartItem = {
+  product: CartProduct;
+  quantity: number;
+  totalPrice: number;
+};
