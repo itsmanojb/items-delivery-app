@@ -10,9 +10,28 @@ type Props = {
 };
 
 const responsive = {
-  screenAll: {
-    breakpoint: { max: 1920, min: 0 },
+  desktop: {
+    breakpoint: { max: 1920, min: 767 },
     items: 2,
+    slidesToSlide: 1,
+    partialVisibilityGutter: -20,
+  },
+  tablet: {
+    breakpoint: { max: 767, min: 500 },
+    items: 3,
+    slidesToSlide: 3,
+    partialVisibilityGutter: -10,
+  },
+  mobile: {
+    breakpoint: { max: 500, min: 360 },
+    items: 2,
+    slidesToSlide: 1,
+    partialVisibilityGutter: -20,
+  },
+  minimobile: {
+    breakpoint: { max: 360, min: 0 },
+    items: 1,
+    slidesToSlide: 1,
     partialVisibilityGutter: -20,
   },
 };

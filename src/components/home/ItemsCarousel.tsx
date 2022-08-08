@@ -17,34 +17,40 @@ const responsive = {
     partialVisibilityGutter: 10,
   },
   superLargeDesktop: {
-    breakpoint: { max: 1440, min: 1120 },
+    breakpoint: { max: 1440, min: 1200 },
     items: 6,
     slidesToSlide: 6,
     partialVisibilityGutter: 10,
   },
   largeDesktop: {
-    breakpoint: { max: 1120, min: 992 },
+    breakpoint: { max: 1200, min: 1024 },
     items: 5,
     slidesToSlide: 5,
     partialVisibilityGutter: 10,
   },
   desktop: {
-    breakpoint: { max: 992, min: 767 },
+    breakpoint: { max: 1024, min: 767 },
     items: 4,
     slidesToSlide: 4,
     partialVisibilityGutter: 10,
   },
   tablet: {
-    breakpoint: { max: 767, min: 400 },
+    breakpoint: { max: 767, min: 560 },
     items: 3,
     slidesToSlide: 3,
     partialVisibilityGutter: 10,
   },
   mobile: {
-    breakpoint: { max: 400, min: 0 },
+    breakpoint: { max: 560, min: 420 },
     items: 2,
     slidesToSlide: 2,
     partialVisibilityGutter: 10,
+  },
+  minimobile: {
+    breakpoint: { max: 420, min: 0 },
+    items: 1,
+    slidesToSlide: 1,
+    partialVisibilityGutter: -20,
   },
 };
 

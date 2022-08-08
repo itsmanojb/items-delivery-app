@@ -1,4 +1,5 @@
 import { IoClose } from 'react-icons/io5';
+import { FiChevronRight } from 'react-icons/fi';
 import { useAppDispatch } from '../../hooks/useAppDispatch';
 import { useAppSelector } from '../../hooks/useAppSelector';
 import { hideCart } from '../../store/ui';
@@ -141,12 +142,12 @@ const CartPanel = () => {
                     <div className="flex items-start justify-between _text-default">
                       <p className="flex flex-col">
                         <span>Delivery charge</span>
-                        <span className="text-green-600">
+                        <span className="text-[#0c831f]">
                           Hooray! You saved ₹15 on delivery charge
                         </span>
                       </p>
                       <span>
-                        ₹15 <span className="text-green-600">free</span>{' '}
+                        ₹15 <span className="text-[#0c831f]">free</span>{' '}
                       </span>
                     </div>
                     <div className="flex items-start justify-between text-[14px] text-black font-bold py-2">
@@ -161,7 +162,17 @@ const CartPanel = () => {
               </div>
             </div>
             <div className="sticky bottom-0 bg-white px-4 pt-2 pb-4 min-h-[68px] _shadow_sticky">
-              sadsad
+              <div className="bg-[#0c831f] cursor-pointer text-white flex items-center px-3 py-3 rounded-[4px] font-semibold text-[15px]">
+                <div className="font-extrabold">{totalQuantity} Items</div>
+                <div className="font-extrabold">&nbsp; &middot; &nbsp;</div>
+                <div>
+                  <span className="font-extrabold">₹{billAmount}</span>
+                  <del className="text-sm ml-1">₹{totalAmount}</del>
+                </div>
+                <div className="ml-auto flex items-center font-extrabold">
+                  Proceed <FiChevronRight size={18} className="ml-2" />
+                </div>
+              </div>
             </div>
           </>
         )}

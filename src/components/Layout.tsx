@@ -1,6 +1,7 @@
 import Header from './Header';
 import Footer from './Footer';
 import BrandPromotion from './BrandPromotion';
+import CartButtonBig from './cart/CartButtonBig';
 import Modal from './Modal';
 import { CartPanel } from './cart';
 import { useAppSelector } from '../hooks/useAppSelector';
@@ -17,9 +18,10 @@ const Layout = (props: Props) => {
     <>
       <div>
         <Header />
-        <main className="pt-24">{props.children}</main>
+        <main className="pt-28 sm:pt-24">{props.children}</main>
         <BrandPromotion />
         <Footer />
+        <CartButtonBig />
       </div>
       {cartShown && <CartPanel />}
       {modalShown && <Modal />}
