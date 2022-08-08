@@ -1,0 +1,3586 @@
+[
+  {
+    "id": 1487,
+    "coverFile": "1.avif",
+    "title": "Vegetables & Fruits",
+    "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1487_1644584127602.png",
+    "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+    "color": "#c0c0c0",
+    "subcategories": [
+      {
+        "id": 1489,
+        "title": "Vegetables",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1489_1643613620694.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1503,
+        "title": "Fruits",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1503_1647320875474.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 278,
+        "title": "Exotics & Premium",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/278_1643443988068.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1454590782_Exotic.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 742,
+        "title": "Organic & Hydroponic",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/742_1643613650040.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 928,
+        "title": "Combo Offer",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/928_1658840270707.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 395,
+        "title": "Freshly Cut & Sprouts",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/395_1643443998974.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1464094888_1-1453982410_Cut-fresh.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 157,
+        "title": "Frozen Veg",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/157_1643443974388.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1431355888_157.jpg",
+        "subcategories": [
+          {
+            "id": 122,
+            "title": "Frozen Potato Snacks",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 172,
+            "title": "Frozen Peas & Corn",
+            "image": "https://cdn.grofers.com/app/images/category/large/1432217954_172.jpg"
+          },
+          {
+            "id": 125,
+            "title": "Other Frozen Snacks",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 116,
+            "title": "Frozen Indian Breads",
+            "image": "https://cdn.grofers.com/app/images/category/large/1425380029_Namkeen--Savoury.jpg"
+          },
+          {
+            "id": 222,
+            "title": "Other Frozen Vegetables",
+            "image": "https://cdn.grofers.com/app/images/category/large/1448781285_Vegetarian01.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1452,
+        "title": "Flowers",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1452_1617891490134.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "coverFile": "2.avif",
+    "title": "Dairy, Bread & Eggs",
+    "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/14_1644583919858.png",
+    "image": "https://cdn.grofers.com/app/images/category/large/1455873935_Breakfast-4.jpg",
+    "color": "#000000",
+    "subcategories": [
+      {
+        "id": 922,
+        "title": "Milk",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/922_1643384380004.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1185,
+            "title": "Fresh Milk",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1090,
+            "title": "Poly Milk",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 37,
+            "title": "Tetra Milk",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1091,
+            "title": "Speciality Milk",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 953,
+        "title": "Bread",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/953_1657599742631.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 31,
+            "title": "Milk & White Breads",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1097,
+            "title": "Speciality Breads",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 198,
+            "title": "Brown & Multigrain Breads",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1200,
+        "title": "Eggs",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1200_1657599895699.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1389,
+            "title": "Farm-Fresh Eggs",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1778,
+            "title": "High Protein & Brown Eggs",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1663,
+        "title": "Gourmet Bakery",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1663_1659349609423.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 923,
+        "title": "Paneer & Tofu",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/923_1643384369257.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 950,
+            "title": "Paneer",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 138,
+            "title": "Tofu",
+            "image": "https://cdn.grofers.com/app/images/category/large/1426775399_138.jpg"
+          }
+        ]
+      },
+      {
+        "id": 123,
+        "title": "Curd & Yogurt",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/123_1643384414434.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1453372038_2categorybanner-template1.jpg",
+        "subcategories": [
+          {
+            "id": 949,
+            "title": "Curd",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1094,
+            "title": "Yogurt",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 952,
+        "title": "Butter & More",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/952_1657599773117.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 33,
+        "title": "Cheese",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/33_1657599802926.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 279,
+        "title": "Buns & Pav",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/279_1657599696707.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1442651328_Appliance03.jpg",
+        "subcategories": [
+          {
+            "id": 31,
+            "title": "Milk & White Breads",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 198,
+            "title": "Brown & Multigrain Breads",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1956,
+            "title": "Buns, Pavs & Pizza Base",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1092,
+        "title": "Cream & Whitener",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1092_1643384330629.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 130,
+        "title": "Condensed Milk",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/130_1643384401123.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1425712574_Cup.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1184,
+        "title": "Milk Drinks",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1184_1652617135036.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 36,
+            "title": "Flavoured Milk & Milk Shake",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1093,
+            "title": "Lassi & Chaach",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1091,
+            "title": "Speciality Milk",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 87,
+        "title": "Vegan Drinks",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/87_1643445583358.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1460181346_Sweets.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 943,
+        "title": "Indian Sweets",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/943_1643444719353.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 69,
+        "title": "Ghee",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/69_1656660207878.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 882,
+        "title": "Dairy Products",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/882_1645707540180.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      }
+    ]
+  },
+  {
+    "id": 1237,
+    "coverFile": "3.avif",
+    "title": "Munchies",
+    "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1237_1644584104304.png",
+    "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+    "color": "#808000",
+    "subcategories": [
+      {
+        "id": 940,
+        "title": "Chips & Crisps",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/940_1643445382163.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 26,
+            "title": "Potato Chips",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1177,
+            "title": "Crisps & Puffs",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1174,
+            "title": "Other Chips",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1176,
+            "title": "Healthy Crisps",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 316,
+        "title": "Nachos",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/316_1643445356931.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1458202310_316.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 156,
+        "title": "Popcorn",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/156_1643445347481.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1433267483_156.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1178,
+        "title": "Bhujia & Mixtures",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1178_1643445391732.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 29,
+        "title": "Namkeen Snacks",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/29_1647516811054.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 816,
+        "title": "Healthy Snacks",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/816_1643616595725.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 108,
+        "title": "Cakes & Rolls",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/108_1643445100879.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1424334099_Paper-boat.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 152,
+        "title": "Energy Bars",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/152_1643615406083.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1445780809_Fruits.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 80,
+        "title": "Papad & Fryums",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/80_1643446014772.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1459601467_Fruits03.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 107,
+        "title": "Rusks & Wafers",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/107_1643445091063.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1463048910_107.jpg",
+        "subcategories": []
+      }
+    ]
+  },
+  {
+    "id": 332,
+    "coverFile": "4.avif",
+    "title": "Cold Drinks & Juices",
+    "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/332_1644584058861.png",
+    "image": "https://cdn.grofers.com/app/images/category/large/1468484451_332-Watches.jpg",
+    "color": "#ff0000",
+    "subcategories": [
+      {
+        "id": 1102,
+        "title": "Soft Drinks",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1102_1649432926740.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1107,
+            "title": "Cold Drink Cans",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 23,
+            "title": "Cold Drink Bottles",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1486,
+            "title": "Non-Alcoholic Drinks",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 955,
+        "title": "Fruit Juices",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/955_1643385414974.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 367,
+            "title": "Fruit Juices",
+            "image": "https://cdn.grofers.com/app/images/category/large/1448186981_unnamed.jpg"
+          },
+          {
+            "id": 1594,
+            "title": "Coconut Water",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1108,
+            "title": "Mango Drinks & Juices",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 91,
+        "title": "Coldpress",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/91_1643385373577.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/cheese.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 19,
+        "title": "Energy Drinks",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/19_1643385361779.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 270,
+        "title": "Water & Ice Cubes",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/270_1643385402833.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1440155301_Tea-Coffee-Banner.jpg",
+        "subcategories": [
+          {
+            "id": 22,
+            "title": "Mineral Water",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 219,
+            "title": "Ice Cubes",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1599,
+        "title": "Soda & Mixers",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1599_1643385438589.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1103,
+            "title": "Cocktail Mixers & Tonic Water",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1486,
+            "title": "Non-Alcoholic Drinks",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1600,
+            "title": "Soda",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 109,
+        "title": "Concentrates & Syrups",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/109_1643385511351.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1462947292_Dry-cake.jpg",
+        "subcategories": [
+          {
+            "id": 24,
+            "title": "Squash, Sharbat & Instant Mixes",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1136,
+            "title": "Syrups",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 960,
+        "title": "Health Drinks",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/960_1643445626325.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1106,
+            "title": "Chocolate Health Drinks",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 21,
+            "title": "Health Drinks & Supplements",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1109,
+        "title": "Herbal Drinks",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1109_1643445639946.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1184,
+        "title": "Milk Drinks",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1184_1652617135036.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 36,
+            "title": "Flavoured Milk & Milk Shake",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1093,
+            "title": "Lassi & Chaach",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1091,
+            "title": "Speciality Milk",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "coverFile": "5.webp",
+    "title": "Breakfast & Instant Food",
+    "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/15_1644583938556.png",
+    "image": "https://cdn.grofers.com/app/images/category/large/1461414663_Canned--Packaged-food.jpg",
+    "color": "#000000",
+    "subcategories": [
+      {
+        "id": 954,
+        "title": "Breakfast Cereal",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/954_1643384781001.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1098,
+            "title": "Flakes",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1307,
+            "title": "Muesli & Other Cereals",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 32,
+            "title": "Oats",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1739,
+            "title": "Kids Cereals",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 962,
+        "title": "Noodles",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/962_1643384795557.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 41,
+            "title": "Instant Noodles",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1138,
+            "title": "Hakka Noodles",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1139,
+            "title": "Cup Noodles",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 968,
+        "title": "Pasta",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/968_1656938417511.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 963,
+            "title": "Instant Pasta",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1753,
+            "title": "Pasta & Macaroni",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 964,
+        "title": "Soup",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/964_1656662125900.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 965,
+        "title": "Instant Mixes",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/965_1643384903725.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1142,
+            "title": "Breakfast Mixes",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 967,
+            "title": "Ready to Eat",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1752,
+            "title": "Dessert Mixes",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1770,
+            "title": "Drink Mixes",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1413,
+        "title": "Frozen Veg Snacks",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1413_1643385202902.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 122,
+            "title": "Frozen Potato Snacks",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 125,
+            "title": "Other Frozen Snacks",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 116,
+            "title": "Frozen Indian Breads",
+            "image": "https://cdn.grofers.com/app/images/category/large/1425380029_Namkeen--Savoury.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1412,
+        "title": "Frozen Non-Veg Snacks",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1412_1643385216342.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1449,
+            "title": "frozen chicken snacks",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 94,
+            "title": "Seafood Snacks - Frozen",
+            "image": "https://cdn.grofers.com/app/images/category/large/1423635166_Food.jpg"
+          },
+          {
+            "id": 514,
+            "title": "Frozen Exotic Meat Snacks",
+            "image": "https://cdn.grofers.com/app/images/category/large/1473684508_1469254061_Meatilicious_CatBanner.jpg"
+          },
+          {
+            "id": 86,
+            "title": "Mutton Snacks - Frozen",
+            "image": "https://cdn.grofers.com/app/images/category/large/1460181402_Savouries.jpg"
+          }
+        ]
+      },
+      {
+        "id": 157,
+        "title": "Frozen Veg",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/157_1643443974388.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1431355888_157.jpg",
+        "subcategories": [
+          {
+            "id": 122,
+            "title": "Frozen Potato Snacks",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 172,
+            "title": "Frozen Peas & Corn",
+            "image": "https://cdn.grofers.com/app/images/category/large/1432217954_172.jpg"
+          },
+          {
+            "id": 125,
+            "title": "Other Frozen Snacks",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 116,
+            "title": "Frozen Indian Breads",
+            "image": "https://cdn.grofers.com/app/images/category/large/1425380029_Namkeen--Savoury.jpg"
+          },
+          {
+            "id": 222,
+            "title": "Other Frozen Vegetables",
+            "image": "https://cdn.grofers.com/app/images/category/large/1448781285_Vegetarian01.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1140,
+        "title": "Vermicelli",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1140_1643384951835.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 152,
+        "title": "Energy Bars",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/152_1643615406083.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1445780809_Fruits.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1294,
+        "title": "Ready to Eat",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1294_1655209152285.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 40,
+            "title": "Canned Food",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1182,
+            "title": "Heat & Eat",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 679,
+            "title": "Ready to Cook",
+            "image": "https://cdn.grofers.com/app/images/category/large/1461402392_Yogurts.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1968,
+        "title": "Herbs & Seasoning",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1968_1643446137546.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 955,
+        "title": "Fruit Juices",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/955_1643385414974.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 367,
+            "title": "Fruit Juices",
+            "image": "https://cdn.grofers.com/app/images/category/large/1448186981_unnamed.jpg"
+          },
+          {
+            "id": 1594,
+            "title": "Coconut Water",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1108,
+            "title": "Mango Drinks & Juices",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1425,
+        "title": "Batter",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1425_1643613254262.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 953,
+        "title": "Bread",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/953_1657599742631.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 31,
+            "title": "Milk & White Breads",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1097,
+            "title": "Speciality Breads",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 198,
+            "title": "Brown & Multigrain Breads",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 974,
+        "title": "Dips & Spreads",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/974_1643618824570.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1099,
+            "title": "Cheese Spreads",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 35,
+            "title": "Spreads",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 89,
+            "title": "Dips",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1101,
+            "title": "Mayonnaise",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1130,
+        "title": "Asian Sauces",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1130_1643446368501.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 929,
+        "title": "Cooking Sauces & Paste",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/929_1643446280059.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 932,
+            "title": "Cooking Paste & Others",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 44,
+            "title": "Cooking Sauces",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1200,
+        "title": "Eggs",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1200_1657599895699.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1389,
+            "title": "Farm-Fresh Eggs",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1778,
+            "title": "High Protein & Brown Eggs",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1295,
+        "title": "Poha, Daliya & Other Grains",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1295_1643445863467.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1288,
+            "title": "Poha",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1298,
+            "title": "Daliya",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1299,
+            "title": "Millets & Others",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1135,
+        "title": "Chyawanprash",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1135_1643884256823.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1375,
+        "title": "Salad Dressings",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1375_1643385011498.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "coverFile": "6.avif",
+    "title": "Tea, Coffee & Health Drinks",
+    "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/12_1644583894450.png",
+    "image": "https://cdn.grofers.com/app/images/category/large/1463035177_Beverages_2.jpg",
+    "color": "#000000",
+    "subcategories": [
+      {
+        "id": 957,
+        "title": "Tea",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/957_1643445598079.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 25,
+            "title": "Leaf & Dust Tea",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1104,
+            "title": "Green Tea",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1561,
+            "title": "Black Tea",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1562,
+            "title": "Exotic & Flavoured Tea",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 93,
+            "title": "Ice Tea",
+            "image": "https://cdn.grofers.com/app/images/category/large/1423452578_fresh_finds.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1322,
+        "title": "Coffee",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1322_1643445664338.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 958,
+            "title": "Instant Coffee",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1589,
+            "title": "Filter Coffee",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 720,
+            "title": "Roasted & Ground Coffee",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 412,
+            "title": "Cold Coffee",
+            "image": "https://cdn.grofers.com/app/images/category/large/1450855650_22dec-Dropkaffe-category-app.jpg"
+          }
+        ]
+      },
+      {
+        "id": 960,
+        "title": "Health Drinks",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/960_1643445626325.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1106,
+            "title": "Chocolate Health Drinks",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 21,
+            "title": "Health Drinks & Supplements",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1184,
+        "title": "Milk Drinks",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1184_1652617135036.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 36,
+            "title": "Flavoured Milk & Milk Shake",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1093,
+            "title": "Lassi & Chaach",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1091,
+            "title": "Speciality Milk",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1109,
+        "title": "Herbal Drinks",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1109_1643445639946.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 87,
+        "title": "Vegan Drinks",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/87_1643445583358.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1460181346_Sweets.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 91,
+        "title": "Coldpress",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/91_1643385373577.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/cheese.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 19,
+        "title": "Energy Drinks",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/19_1643385361779.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 955,
+        "title": "Fruit Juices",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/955_1643385414974.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 367,
+            "title": "Fruit Juices",
+            "image": "https://cdn.grofers.com/app/images/category/large/1448186981_unnamed.jpg"
+          },
+          {
+            "id": 1594,
+            "title": "Coconut Water",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1108,
+            "title": "Mango Drinks & Juices",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 888,
+    "coverFile": "7.avif",
+    "title": "Bakery & Biscuits",
+    "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/888_1644584074083.png",
+    "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+    "color": "#000000",
+    "subcategories": [
+      {
+        "id": 28,
+        "title": "Cookies",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/28_1643445056245.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 209,
+        "title": "Glucose & Marie",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/209_1643445123315.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 144,
+        "title": "Sweet & Salty",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/144_1643445112222.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1427122378_144.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 938,
+        "title": "Healthy & Digestive",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/938_1643445149280.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 105,
+        "title": "Cream Biscuits",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/105_1643445080622.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1458901301_105.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 107,
+        "title": "Rusks & Wafers",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/107_1643445091063.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1463048910_107.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 108,
+        "title": "Cakes & Rolls",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/108_1643445100879.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1424334099_Paper-boat.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 279,
+        "title": "Buns & Pav",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/279_1657599696707.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1442651328_Appliance03.jpg",
+        "subcategories": [
+          {
+            "id": 31,
+            "title": "Milk & White Breads",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 198,
+            "title": "Brown & Multigrain Breads",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1956,
+            "title": "Buns, Pavs & Pizza Base",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 971,
+        "title": "Baking Ingredients & Mixes",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/971_1643445162896.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 953,
+        "title": "Bread",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/953_1657599742631.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 31,
+            "title": "Milk & White Breads",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1097,
+            "title": "Speciality Breads",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 198,
+            "title": "Brown & Multigrain Breads",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1663,
+        "title": "Gourmet Bakery",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1663_1659349609423.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "coverFile": "8.avif",
+    "title": "Sweet Tooth",
+    "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/9_1644583882821.png",
+    "image": "https://cdn.grofers.com/app/images/category/large/1475067321_9_Fresh-Produce.jpg",
+    "color": "#8ac645",
+    "subcategories": [
+      {
+        "id": 183,
+        "title": "Ice Cream & More",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/183_1643444706263.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1460181727_Ice-creams1.jpg",
+        "subcategories": [
+          {
+            "id": 1961,
+            "title": "Ice Cream",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 944,
+        "title": "Chocolates",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/944_1643444731799.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 27,
+            "title": "Chocolate Bestsellers",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1736,
+            "title": "Chocolate Bars",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1737,
+            "title": "Filled Bars",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1172,
+            "title": "Wafer Chocolates",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1173,
+        "title": "Chocolate Packs",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1173_1643444744774.png",
+        "image": "https://cdn.grofers.com/app/images/category/cms_images/large/1173.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 943,
+        "title": "Indian Sweets",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/943_1643444719353.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1930,
+        "title": "Candies & Gum",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1930_1643444770081.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1931,
+            "title": "Candies",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1932,
+            "title": "Chewing Gum",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1933,
+        "title": "Mouth Fresheners",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1933_1643446123003.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1289,
+        "title": "Chocolate Syrup",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1289_1643444757757.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 108,
+        "title": "Cakes & Rolls",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/108_1643445100879.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1424334099_Paper-boat.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 106,
+        "title": "Flavoured Yogurts",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/106_1643444691848.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1437971362_106.jpg",
+        "subcategories": []
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "coverFile": "9.avif",
+    "title": "Atta, Rice & Dal",
+    "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/16_1644583949187.png",
+    "image": "https://cdn.grofers.com/app/images/category/large/1459601771_grocery-staples.jpg",
+    "color": "#000000",
+    "subcategories": [
+      {
+        "id": 1165,
+        "title": "Atta",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1165_1643445834987.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1166,
+        "title": "Besan, Sooji & Maida",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1166_1643445847780.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 48,
+        "title": "Other Flours",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/48_1643445780397.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1459312286_1445698368_Grocery--Staples.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1161,
+        "title": "Rice",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1161_1643445823265.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1164,
+            "title": "Basmati",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1192,
+            "title": "Sonamasuri & Kolam",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 68,
+            "title": "Other Rice",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1295,
+        "title": "Poha, Daliya & Other Grains",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1295_1643445863467.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1288,
+            "title": "Poha",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1298,
+            "title": "Daliya",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1299,
+            "title": "Millets & Others",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1010,
+        "title": "Toor, Urad & Chana",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1010_1643445810109.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1195,
+            "title": "Arhar",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1197,
+            "title": "Urad",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1702,
+            "title": "Chana",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 505,
+        "title": "Moong & Masoor",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/505_1643445792595.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1452572262_Pulses.jpg",
+        "subcategories": [
+          {
+            "id": 1196,
+            "title": "Moong",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1296,
+            "title": "Masoor",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1573,
+        "title": "Rajma, Chhole & Others",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1573_1643445876022.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1198,
+            "title": "Rajma",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1297,
+            "title": "Soya",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1009,
+            "title": "Dried Peas & Others",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 8,
+            "title": "Kabuli Chana",
+            "image": "https://cdn.grofers.com/app/images/category/large/categrory_restaurant.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1557,
+    "coverFile": "10.avif",
+    "title": "Masala, Oil & More",
+    "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1557_1644584139462.png",
+    "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+    "color": "#00ffff",
+    "subcategories": [
+      {
+        "id": 50,
+        "title": "Powdered Masala",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/50_1643446001120.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 930,
+        "title": "Whole Spices",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/930_1643446053384.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 933,
+        "title": "Salt, Sugar & Jaggery",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/933_1643446066738.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 49,
+            "title": "Sugar",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 934,
+            "title": "Salt",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1169,
+            "title": "Sugar Free",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1168,
+            "title": "Jaggery & Others",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1158,
+        "title": "Ghee & Vanaspati",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1158_1643446095714.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 69,
+            "title": "Ghee",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1159,
+            "title": "Vanaspati",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 917,
+        "title": "Oil",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/917_1643446040818.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1155,
+            "title": "Health Oil",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1153,
+            "title": "Mustard Oil",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1157,
+            "title": "Sunflower Oil",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1156,
+            "title": "Soyabean Oil",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1154,
+            "title": "Olive Oil",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1360,
+            "title": "Sesame/Til Oil",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 46,
+            "title": "Groundnut & Coconut Oil",
+            "image": "https://cdn.grofers.com/app/images/category/large/1441976940_Fortune-Oil2-Rice-and-Oil.jpg"
+          },
+          {
+            "id": 1596,
+            "title": "Rice Bran Oil",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 815,
+        "title": "Dates & Seeds",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/815_1643446027679.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1163,
+            "title": "Seeds",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1485,
+            "title": "Dates",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1160,
+        "title": "Dry Fruits",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1160_1643446109162.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1162,
+            "title": "Almonds & Cashews",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 45,
+            "title": "Other Dry Fruits",
+            "image": "https://cdn.grofers.com/app/images/category/large/1446557670_1445945652_DryFruitsBanner.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1968,
+        "title": "Herbs & Seasoning",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1968_1643446137546.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 80,
+        "title": "Papad & Fryums",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/80_1643446014772.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1459601467_Fruits03.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1933,
+        "title": "Mouth Fresheners",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1933_1643446123003.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 929,
+        "title": "Cooking Sauces & Paste",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/929_1643446280059.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 932,
+            "title": "Cooking Paste & Others",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 44,
+            "title": "Cooking Sauces",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 972,
+    "coverFile": "11.avif",
+    "title": "Sauces & Spreads",
+    "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/972_1644584085171.png",
+    "image": "https://cdn.grofers.com/app/images/category/large/1478182185_1467276461_Sauces--Dressings.jpg",
+    "color": "#000000",
+    "subcategories": [
+      {
+        "id": 1131,
+        "title": "Tomato & Chilli Ketchups",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1131_1643446383372.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 974,
+        "title": "Dips & Spreads",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/974_1643618824570.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1099,
+            "title": "Cheese Spreads",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 35,
+            "title": "Spreads",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 89,
+            "title": "Dips",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1101,
+            "title": "Mayonnaise",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1918,
+        "title": "Peanut Butter",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1918_1643446398895.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 976,
+        "title": "Honey",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/976_1643446332263.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 978,
+        "title": "Chocolate Spreads",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/978_1652081657769.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 929,
+        "title": "Cooking Sauces & Paste",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/929_1643446280059.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 932,
+            "title": "Cooking Paste & Others",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 44,
+            "title": "Cooking Sauces",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1130,
+        "title": "Asian Sauces",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1130_1643446368501.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 975,
+        "title": "Jams",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/975_1643446317862.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1126,
+        "title": "Chutney & Pickle",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1126_1643619122884.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1134,
+            "title": "Mango & Lime Pickles",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 43,
+            "title": "Other Pickles",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1827,
+            "title": "Chutney",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1135,
+        "title": "Chyawanprash",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1135_1643884256823.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1375,
+        "title": "Salad Dressings",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1375_1643385011498.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "coverFile": "12.avif",
+    "title": "Chicken, Meat & Fish",
+    "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/4_1644583835816.png",
+    "image": "https://cdn.grofers.com/app/images/category/large/1475067340_4_Meats--Seafood.jpg",
+    "color": "#ff8750",
+    "subcategories": [
+      {
+        "id": 1362,
+        "title": "Chicken",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1362_1643713574748.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1367,
+            "title": "Fresh Chicken",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1392,
+            "title": "Frozen Chicken",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1363,
+        "title": "Mutton",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1363_1643446589058.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1369,
+            "title": "Fresh Mutton",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 66,
+            "title": "Frozen Mutton",
+            "image": "https://cdn.grofers.com/app/images/category/large/mutton.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1361,
+        "title": "Fish & Seafood",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1361_1643446562291.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 63,
+            "title": "Fresh Fish & Seafood",
+            "image": "https://cdn.grofers.com/app/images/category/large/1463640672_SeaFoodBanner.jpg"
+          },
+          {
+            "id": 1364,
+            "title": "Frozen Fish & Seafood",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1388,
+        "title": "Sausage, Salami & Ham",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1388_1643446601197.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1366,
+            "title": "Frozen Sausage, Salami, Ham",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1201,
+        "title": "Exotic Meat",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1201_1643446512865.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 76,
+            "title": "Frozen Exotic Raw Meat",
+            "image": "https://cdn.grofers.com/app/images/category/large/1462947314_cookies--Biscuits-3.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1200,
+        "title": "Eggs",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1200_1657599895699.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1389,
+            "title": "Farm-Fresh Eggs",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1778,
+            "title": "High Protein & Brown Eggs",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1412,
+        "title": "Frozen Non-Veg Snacks",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1412_1643385216342.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1449,
+            "title": "frozen chicken snacks",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 94,
+            "title": "Seafood Snacks - Frozen",
+            "image": "https://cdn.grofers.com/app/images/category/large/1423635166_Food.jpg"
+          },
+          {
+            "id": 514,
+            "title": "Frozen Exotic Meat Snacks",
+            "image": "https://cdn.grofers.com/app/images/category/large/1473684508_1469254061_Meatilicious_CatBanner.jpg"
+          },
+          {
+            "id": 86,
+            "title": "Mutton Snacks - Frozen",
+            "image": "https://cdn.grofers.com/app/images/category/large/1460181402_Savouries.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "coverFile": "13.avif",
+    "title": "Organic & Gourmet",
+    "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/175_1644584018797.png",
+    "image": "https://cdn.grofers.com/app/images/category/large/1475568991_175_Electronics.jpg",
+    "color": "#f05b54",
+    "subcategories": [
+      {
+        "id": 799,
+        "title": "Oil & Ghee",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/799_1643446814802.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 801,
+        "title": "Flour",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/801_1643446838759.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1313,
+        "title": "Noodles & Pasta",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1313_1643637223983.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1937,
+        "title": "Dry Fruits, Nuts & Seeds",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1937_1643446905991.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 800,
+        "title": "Pulses & Millets",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/800_1643446826192.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1128,
+        "title": "Sauces & Spreads",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1128_1643637211527.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 803,
+        "title": "Spices & Vinegar",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/803_1643447020863.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1936,
+        "title": "Salt, Sugar & Honey",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1936_1643446894538.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1044,
+        "title": "Premium Chocolates & Candies",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1044_1643617719799.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1935,
+        "title": "Rice & Rice Products",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1935_1643446881050.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 939,
+        "title": "Cookies & Wafers",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/939_1643637180656.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 919,
+        "title": "Veggies and Fruits",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/919_1644812623241.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1563,
+        "title": "Tea & Coffee",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1563_1643637255616.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 96,
+        "title": "Breakfast & More",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/96_1646998739270.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1423635255_Plug--Play.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 655,
+        "title": "Beverages",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/655_1658487861731.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1459340195_Protection_plan.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 82,
+        "title": "Snacks & Munchies",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/82_1646998724170.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/oragnic.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 882,
+        "title": "Dairy Products",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/882_1645707540180.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 97,
+        "title": "Healthy Proteins",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/97_1643446802503.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1423635277_Bibliophiles.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 47,
+        "title": "Baby Food",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/47_1646998709768.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 946,
+        "title": "Cooking Essentials",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/946_1643637192746.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "coverFile": "14.avif",
+    "title": "Paan Corner",
+    "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/229_1649418635480.png",
+    "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+    "color": "#000000",
+    "subcategories": [
+      {
+        "id": 1948,
+        "title": "Cigarettes & Tobacco",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1948_1656658811473.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1982,
+        "title": "Smoking Needs",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1982_1649674540853.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1453,
+            "title": "Rolling Needs",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 173,
+        "title": "Hookah Needs",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/173_1649419870108.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1432668130_173.jpg",
+        "subcategories": [
+          {
+            "id": 78,
+            "title": "Hookah Accessories",
+            "image": "https://cdn.grofers.com/app/images/category/large/1461414782_Pies-and-tarts-2.jpg"
+          },
+          {
+            "id": 188,
+            "title": "Hookah Consumables",
+            "image": "https://cdn.grofers.com/app/images/category/large/1436703026_188.jpg"
+          },
+          {
+            "id": 136,
+            "title": "Hookah Flavor",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1933,
+        "title": "Mouth Fresheners",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1933_1643446123003.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1930,
+        "title": "Candies & Gum",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1930_1643444770081.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1931,
+            "title": "Candies",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1932,
+            "title": "Chewing Gum",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 940,
+        "title": "Chips & Crisps",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/940_1643445382163.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 26,
+            "title": "Potato Chips",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1177,
+            "title": "Crisps & Puffs",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1174,
+            "title": "Other Chips",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1176,
+            "title": "Healthy Crisps",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1102,
+        "title": "Soft Drinks",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1102_1649432926740.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1107,
+            "title": "Cold Drink Cans",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 23,
+            "title": "Cold Drink Bottles",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1486,
+            "title": "Non-Alcoholic Drinks",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 290,
+        "title": "Smoking Cessation",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/290_1643962132067.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1461415146_Football.jpg",
+        "subcategories": []
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "coverFile": "15.avif",
+    "title": "Baby Care",
+    "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/7_1644583870017.png",
+    "image": "https://cdn.grofers.com/app/images/category/large/1475067327_7-Baby--Kids.jpg",
+    "color": "#c6daf4",
+    "subcategories": [
+      {
+        "id": 1000,
+        "title": "Diapers & Wipes",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1000_1643447252479.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 84,
+            "title": "Diapers",
+            "image": "https://cdn.grofers.com/app/images/category/large/diapers.jpg"
+          },
+          {
+            "id": 996,
+            "title": "Wipes",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1590,
+        "title": "Baby Food",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1590_1643447293757.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1593,
+            "title": "0–6 Months",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1591,
+            "title": "6-12 Months",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1592,
+            "title": "12-18 Months",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1597,
+            "title": "18-24 Months",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1598,
+            "title": "24 Months+",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 111,
+            "title": "Organic Baby Food",
+            "image": "https://cdn.grofers.com/app/images/category/large/1443440609_111.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1001,
+        "title": "Bath & Hair Care",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1001_1643447265532.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 998,
+        "title": "Oral & Nasal Care",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/998_1643447239357.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1002,
+        "title": "Skin Care",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1002_1643447281696.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 85,
+        "title": "Cleaning Needs",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/85_1643447197842.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/babycare.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 169,
+        "title": "Feeding Accessories",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/169_1643447211741.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1433851610_169.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 997,
+        "title": "Baby Pharma",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/997_1643447226919.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1967,
+        "title": "Mother Care",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1967_1643447304766.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      }
+    ]
+  },
+  {
+    "id": 287,
+    "coverFile": "16.webp",
+    "title": "Pharma & Wellness",
+    "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/287_1644584043262.png",
+    "image": "https://cdn.grofers.com/app/images/category/large/1468484358_287-Sportsfitness.jpg",
+    "color": "#ff0000",
+    "subcategories": [
+      {
+        "id": 298,
+        "title": "Digestive Care",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/298_1643447495948.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1453977733_Stationary.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 707,
+        "title": "Sexual Wellness",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/707_1643447537524.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 155,
+        "title": "Wound Care And Pain Relief",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/155_1643447469970.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1460118346_mango.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 75,
+        "title": "Cough & Cold",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/75_1643447456429.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1462947342_1Cake.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 308,
+        "title": "Supplements",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/308_1643447509823.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1455883771_Health--Nutrition-3.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 62,
+        "title": "Healthcare Devices",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/62_1643447787972.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 199,
+        "title": "Skin Treatment",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/199_1643447483187.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 629,
+        "title": "Adult Diapers",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/629_1643447524816.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1458117489_Diaper.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1120,
+        "title": "Other Pharma",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1120_1655205193563.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1109,
+        "title": "Herbal Drinks",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1109_1643445639946.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 699,
+        "title": "Handwash",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/699_1643450444325.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 723,
+        "title": "Feminine Care",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/723_1643450498065.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1464090181_Feminine-Hygiene_1.jpg",
+        "subcategories": [
+          {
+            "id": 706,
+            "title": "Sanitary Pads",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 703,
+            "title": "Hair Removal",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 352,
+            "title": "Menstrual Cups",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 190,
+            "title": "Pantyliners",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 709,
+            "title": "Intimate Wash",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1791,
+            "title": "Intimate Hygiene & Care",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1135,
+        "title": "Chyawanprash",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1135_1643884256823.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 960,
+        "title": "Health Drinks",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/960_1643445626325.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1106,
+            "title": "Chocolate Health Drinks",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 21,
+            "title": "Health Drinks & Supplements",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1121,
+        "title": "Antiseptic Liquid",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1121_1643447561911.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1826,
+        "title": "Masks & Sanitizers",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1826_1643447577409.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 290,
+        "title": "Smoking Cessation",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/290_1643962132067.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1461415146_Football.jpg",
+        "subcategories": []
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "coverFile": "17.avif",
+    "title": "Cleaning Essentials",
+    "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/18_1644583964387.png",
+    "image": "https://cdn.grofers.com/app/images/category/large/1459601933_HOuseholdNeeds.jpg",
+    "color": "#000000",
+    "subcategories": [
+      {
+        "id": 983,
+        "title": "Detergent Powder & Bars",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/983_1650998917566.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 54,
+            "title": "Detergent Powders",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 984,
+            "title": "Detergent Bars",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1077,
+        "title": "Liquid Detergents",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1077_1643448249938.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 51,
+        "title": "Floor Cleaners & More",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/51_1643448131477.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 987,
+        "title": "Toilet Cleaners & More",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/987_1643448205529.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1078,
+        "title": "Dishwashing Gels & Powder",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1078_1643448428592.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1082,
+        "title": "Cleaning Tools",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1082_1649682880372.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1280,
+            "title": "Brooms & Mops",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1283,
+            "title": "Cleaning Accessories",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1271,
+            "title": "Wipers",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 988,
+        "title": "Dishwashing Bars",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/988_1643448222273.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 985,
+        "title": "Laundry Additives",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/985_1643619456246.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1784,
+        "title": "Disinfectant & More",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1784_1647947661998.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1874,
+            "title": "Disinfectant Sprays",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1983,
+            "title": "Multi-Purpose Disinfectants",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 986,
+        "title": "Dishwashing Accessories",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/986_1643448183854.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1079,
+            "title": "Scrubbers & Cleaning Aids",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 57,
+        "title": "Shoe Polish & Brush",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/57_1643448143523.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1075,
+        "title": "Tissues & Disposables",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1075_1643449315184.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 52,
+            "title": "Toilet & Other Disposables",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 113,
+            "title": "Kitchen & Dining Disposables",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1379,
+    "coverFile": "18.webp",
+    "title": "Home & Office",
+    "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1379_1646199890446.png",
+    "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+    "color": "#808040",
+    "subcategories": [
+      {
+        "id": 1674,
+        "title": "Festive & Occasion Needs",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1674_1657626183998.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1479,
+            "title": "Birthday Celebrations",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 81,
+            "title": "Wedding Needs",
+            "image": "https://cdn.grofers.com/app/images/category/large/1459601646_Vegetables.jpg"
+          },
+          {
+            "id": 88,
+            "title": "Gifting Needs",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1477,
+            "title": "Diwali Needs",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 394,
+            "title": "Soft Toys & Greeting Cards",
+            "image": "https://cdn.grofers.com/app/images/category/large/1449900030_Greeting-Cards05-1.jpg"
+          },
+          {
+            "id": 834,
+            "title": "rakhi specials",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 926,
+        "title": "Repellents",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/926_1643449235041.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1080,
+            "title": "Mosquito Repellents",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1081,
+            "title": "Sprays",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 56,
+            "title": "Creams & Other Repellents",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1075,
+        "title": "Tissues & Disposables",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1075_1643449315184.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 52,
+            "title": "Toilet & Other Disposables",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 113,
+            "title": "Kitchen & Dining Disposables",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1049,
+        "title": "Stationery Needs",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1049_1649683440179.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1027,
+            "title": "School Supplies",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 345,
+            "title": "Pens & Markers",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 349,
+            "title": "Other Stationery Supplies",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1838,
+            "title": "Creative & Colouring Kits",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 346,
+            "title": "Diaries & Notebooks",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1026,
+            "title": "Office Supplies",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1048,
+        "title": "Pooja Needs",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1048_1648551659613.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 55,
+            "title": "Incense Sticks",
+            "image": "https://cdn.grofers.com/app/images/category/large/1444551925_pooja.jpg"
+          },
+          {
+            "id": 1054,
+            "title": "Other Pooja Items",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1052,
+        "title": "Kitchen & Dining Needs",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1052_1649683168281.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1060,
+            "title": "Mugs & Glasses",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1067,
+            "title": "Pressure Cookers",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1061,
+            "title": "Plates & Bowls",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1056,
+            "title": "Plastic & Glass Containers",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1070,
+            "title": "Kitchen Accessories",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1063,
+            "title": "Cookware Set",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1071,
+            "title": "Ladles & Spatulas",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1055,
+            "title": "Bottles & Flasks",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1377,
+            "title": "Metal and Ceramic Containers",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1068,
+            "title": "Choppers",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1059,
+            "title": "Casseroles",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1058,
+            "title": "Lunch Boxes",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1069,
+            "title": "Cutlery & Spoons",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1066,
+            "title": "Tawa & Kadai",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1462,
+            "title": "Kitchen Towels & Napkins",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1187,
+        "title": "Electrical Accessories",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1187_1649682985107.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 418,
+            "title": "Batteries, Bulbs & Lighting",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1414,
+            "title": "Hand & Power Tools",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1415,
+            "title": "Automotive & Car care",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1387,
+        "title": "Electronic Accessories",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1387_1649682800621.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 301,
+            "title": "Mobile & Computer Accessories",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1085,
+        "title": "Fresheners",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1085_1643449326937.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 982,
+            "title": "Air Fresheners",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1089,
+            "title": "Car Fresheners",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 126,
+        "title": "Party Essentials",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/126_1659006681746.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1427857439_126.jpg",
+        "subcategories": [
+          {
+            "id": 476,
+            "title": "Party Needs",
+            "image": "https://cdn.grofers.com/app/images/category/large/1451980802_party_affair_final.jpg"
+          },
+          {
+            "id": 189,
+            "title": "hangover cure",
+            "image": "https://cdn.grofers.com/app/images/category/large/1436703013_189.jpg"
+          },
+          {
+            "id": 143,
+            "title": "party must haves",
+            "image": "https://cdn.grofers.com/app/images/category/large/1427122530_143.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1014,
+        "title": "Bathroom Essentials",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1014_1649683071299.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1284,
+            "title": "Buckets & Mugs",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1399,
+            "title": "Bathroom Accessories",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1286,
+            "title": "Laundry Needs",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1433,
+        "title": "Home Decor & Storage",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1433_1643449366829.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1378,
+            "title": "Blankets, Quilts & Covers",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1401,
+            "title": "Storage Solutions",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 360,
+            "title": "Floor Mats & Door Mats",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 362,
+            "title": "Door & Wall Curtains",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1441,
+            "title": "Cushion, Fillers & Covers",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1443,
+            "title": "Rugs, Carpets & Runners",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1836,
+            "title": "Aroma & Candles",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1886,
+        "title": "Home & Kitchen Appliances",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1886_1649683107888.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1882,
+            "title": "Juicers, Mixers & Grinders",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1884,
+            "title": "Other Kitchen Appliances",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1881,
+            "title": "Blenders",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1992,
+        "title": "Sports, Fitness & Outdoors",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1992_1649683473312.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1999,
+            "title": "Exercise & Fitness",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1417,
+            "title": "Sports",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1715,
+        "title": "Clothing, Footwear & Accessories",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1715_1649682931398.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1775,
+            "title": "Other Accessories",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1828,
+            "title": "Socks",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1471,
+            "title": "Travel Accessories",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 305,
+        "title": "Kids Toys & More",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/305_1649683340790.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1455540658_toys.jpg",
+        "subcategories": [
+          {
+            "id": 590,
+            "title": "Board Games, Blocks & Puzzles",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 591,
+            "title": "Diy & Learning",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 596,
+            "title": "Collectible,Toygun & Accessories",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1868,
+            "title": "Games",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1833,
+        "title": "Garbage Bags",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1833_1659532044957.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1082,
+        "title": "Cleaning Tools",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1082_1649682880372.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1280,
+            "title": "Brooms & Mops",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1283,
+            "title": "Cleaning Accessories",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1271,
+            "title": "Wipers",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 120,
+        "title": "Bags",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/120_1658748507634.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1463048976_120.jpg",
+        "subcategories": [
+          {
+            "id": 1470,
+            "title": "Backpack & Laptop Bags",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "coverFile": "19.webp",
+    "title": "Personal Care",
+    "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/163_1644584004573.png",
+    "image": "https://cdn.grofers.com/app/images/category/large/1475067315_163_Beauty--Wellness.jpg",
+    "color": "#73c7ad",
+    "subcategories": [
+      {
+        "id": 166,
+        "title": "Shampoo & Conditioner",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/166_1643450335646.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1460212274_Hair_care.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 696,
+        "title": "Soaps",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/696_1643450416514.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 699,
+        "title": "Handwash",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/699_1643450444325.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 722,
+        "title": "Oral Care",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/722_1643450475888.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1463720663_OralCare.jpg",
+        "subcategories": [
+          {
+            "id": 61,
+            "title": "Toothpaste",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 724,
+            "title": "Toothbrush",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 725,
+            "title": "Mouthwash & Spray",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 363,
+            "title": "More Oral Care Products",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 710,
+        "title": "Bath & Body Kits",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/710_1657624970651.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1462358256_Offers.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 981,
+        "title": "Shower Gels & Scrubs",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/981_1643450510916.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 1117,
+        "title": "Facial Care",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1117_1643450536738.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 697,
+            "title": "Face Wash & Scrub",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 164,
+            "title": "Face Cream & Lotion",
+            "image": "https://cdn.grofers.com/app/images/category/large/1460212152_6-skin-care.jpg"
+          },
+          {
+            "id": 1304,
+            "title": "Face Mask & Bleach",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1305,
+            "title": "Face Wipes",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 53,
+            "title": "Eye Care",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1306,
+            "title": "More Face Products",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 690,
+        "title": "Body Moisturizers & More",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/690_1643450362800.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1462357755_Bodyfacecar.jpg",
+        "subcategories": [
+          {
+            "id": 1781,
+            "title": "Body Essentials Gift Pack",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 165,
+            "title": "Body Lotions",
+            "image": "https://cdn.grofers.com/app/images/category/large/1460211925_Body-care12.jpg"
+          },
+          {
+            "id": 708,
+            "title": "Body Oil & Others",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 691,
+        "title": "Hair Colour & More",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/691_1643715494331.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1462357789_hair-care.jpg",
+        "subcategories": [
+          {
+            "id": 701,
+            "title": "Hair Colour",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 283,
+            "title": "Hair Masks & Cream",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 702,
+        "title": "Hair Oil & Serum",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/702_1643715489372.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 723,
+        "title": "Feminine Care",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/723_1643450498065.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1464090181_Feminine-Hygiene_1.jpg",
+        "subcategories": [
+          {
+            "id": 706,
+            "title": "Sanitary Pads",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 703,
+            "title": "Hair Removal",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 352,
+            "title": "Menstrual Cups",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 190,
+            "title": "Pantyliners",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 709,
+            "title": "Intimate Wash",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1791,
+            "title": "Intimate Hygiene & Care",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 693,
+        "title": "Cosmetics",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/693_1643450403490.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1462357886_Cosmetics01.jpg",
+        "subcategories": [
+          {
+            "id": 180,
+            "title": "Lip Care",
+            "image": "https://cdn.grofers.com/app/images/category/large/1459601541_LipsMore.jpg"
+          },
+          {
+            "id": 181,
+            "title": "Nail Colour & More",
+            "image": "https://cdn.grofers.com/app/images/category/large/1459601594_NailPaintsBanner00001.jpg"
+          },
+          {
+            "id": 179,
+            "title": "Eye Make-Up",
+            "image": "https://cdn.grofers.com/app/images/category/large/1459601877_2-Eye-makeup-.jpg"
+          },
+          {
+            "id": 71,
+            "title": "Makeup Tools",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1115,
+        "title": "Deodorants & Powders",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1115_1643450524093.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 1124,
+            "title": "Talc Powder",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1116,
+            "title": "Deodorant",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 167,
+            "title": "Perfumes",
+            "image": "https://cdn.grofers.com/app/images/category/large/1461822847_PerfumesBanner.jpg"
+          }
+        ]
+      },
+      {
+        "id": 692,
+        "title": "Men's Grooming",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/692_1643450391482.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1462357825_GroomingB2.jpg",
+        "subcategories": [
+          {
+            "id": 705,
+            "title": "Shaving Cream, Foam & Gel",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1119,
+            "title": "After Shave Lotion",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 704,
+            "title": "Hair Styling",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1782,
+            "title": "Men's Essentials",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 485,
+            "title": "Men's Fragrances",
+            "image": "https://cdn.grofers.com/app/images/category/large/1460212524_Deodorants005.jpg"
+          },
+          {
+            "id": 347,
+            "title": "Beard Care & Moustache",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1944,
+            "title": "Face Wash & Others",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 454,
+            "title": "Men's Razors & Trimmers",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1893,
+        "title": "Women's Grooming",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/1893_1648008756112.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": [
+          {
+            "id": 182,
+            "title": "Tools & Brushes",
+            "image": "https://cdn.grofers.com/app/images/category/large/1445781528_Tools__Brushes.jpg"
+          },
+          {
+            "id": 1895,
+            "title": "Straighteners & Dryers",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          },
+          {
+            "id": 1894,
+            "title": "Women's Razors & Trimmers",
+            "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg"
+          }
+        ]
+      },
+      {
+        "id": 698,
+        "title": "Hand & Foot Care",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/698_1643450429956.png",
+        "image": "http://cdn.grofer.it/app/images/placeholders/merchant.jpg",
+        "subcategories": []
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "coverFile": "20.avif",
+    "title": "Pet Care",
+    "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/5_1644583856400.png",
+    "image": "https://cdn.grofers.com/app/images/category/large/1475067337_5_Pet-Care.jpg",
+    "color": "#f6e177",
+    "subcategories": [
+      {
+        "id": 133,
+        "title": "Dog Food & Treats",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/133_1643450754364.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1461417665_Dog-treat-3.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 134,
+        "title": "Cat Food & Treats",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/134_1643450770974.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1462947674_Cat-food.jpg",
+        "subcategories": []
+      },
+      {
+        "id": 403,
+        "title": "Pet Grooming & Accessories",
+        "icon": "https://cdn.grofers.com/app/images/category/cms_images/icon/403_1642001586957.png",
+        "image": "https://cdn.grofers.com/app/images/category/large/1451378337_B_F_Fillets-back.jpg",
+        "subcategories": []
+      }
+    ]
+  }
+]

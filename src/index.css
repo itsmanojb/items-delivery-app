@@ -1,70 +1,162 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 :root {
-  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  line-height: 24px;
-  font-weight: 400;
-
-  color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
-
+  color-scheme: light;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
+
+  --container-max-width: 1280px;
+  --green-shade-1: rgb(236, 255, 236);
+  --green-shade-2: rgb(226, 249, 226);
+  --border-default-color: rgb(221, 221, 221);
+  --border-muted-color: rgb(238, 238, 238);
+
+  --nav-shadow: rgb(0 0 0 / 7%) 0px 0px 10px 0px;
+  --searchbox-shadow: rgb(28 28 28 / 8%) 0px 2px 8px;
+  --couponcard-shadow: rgb(28 28 28 / 15%) 0px 2px 4px;
+  --modal-shadow: 0 0 14px 0 rgb(0 0 0 / 30%);
+  --drawer-shadow: -4px 0 4px 0 rgb(0 0 0 / 10%);
+  --box-shadow: rgb(28 28 28 / 15%) 0px 1px 4px;
+  --sticky-bottom-shadow: rgb(0 0 0 / 7%) 0px 0px 10px 0px;
+  --floatingBtn-shadow: rgb(0 0 0 / 20%) 0px 3px 5px -1px,
+    rgb(0 0 0 / 14%) 0px 6px 10px 0px, rgb(0 0 0 / 12%) 0px 1px 18px 0px;
 }
 
-a {
-  font-weight: 500;
-  color: #646cff;
-  text-decoration: inherit;
-}
-a:hover {
-  color: #535bf2;
+body,
+html {
+  scroll-behavior: smooth;
 }
 
-body {
-  margin: 0;
-  display: flex;
-  place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
-}
-
-h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
-}
-
-button {
-  border-radius: 8px;
-  border: 1px solid transparent;
-  padding: 0.6em 1.2em;
-  font-size: 1em;
-  font-weight: 500;
-  font-family: inherit;
-  background-color: #1a1a1a;
-  cursor: pointer;
-  transition: border-color 0.25s;
-}
-button:hover {
-  border-color: #646cff;
-}
-button:focus,
-button:focus-visible {
-  outline: 4px auto -webkit-focus-ring-color;
-}
-
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
+@layer components {
+  ._container {
+    @apply mx-auto flex-1 px-2 xl:px-0;
+    max-width: var(--container-max-width);
   }
-  a:hover {
-    color: #747bff;
+  ._bg-shade-1 {
+    background: var(--green-shade-1);
   }
-  button {
-    background-color: #f9f9f9;
+  ._bg-shade-2 {
+    background: var(--green-shade-2);
+  }
+  ._text-default {
+    @apply text-neutral-700;
+  }
+  ._text-muted {
+    @apply text-neutral-500;
+  }
+  ._border {
+    border-color: var(--border-default-color);
+  }
+  ._border-muted {
+    border-color: var(--border-muted-color);
+  }
+  ._nav {
+    @apply fixed inset-x-0 top-0 bg-white sm:h-[86px] z-20;
+    box-shadow: var(--nav-shadow);
+  }
+  ._searchbox {
+    @apply bg-white border rounded-lg sm:absolute sm:max-w-[300px] md:max-w-[600px] w-full mx-auto lg:mx-2 pl-16 pr-6 flex items-center;
+    border-color: var(--border-muted-color);
+    box-shadow: var(--searchbox-shadow);
+    top: 18px;
+    height: 50px;
+  }
+  ._coupon:hover {
+    box-shadow: var(--couponcard-shadow);
+  }
+  ._modal {
+    @apply md:rounded bg-white absolute top-0 left-0 md:top-1/2 md:left-1/2 md:-translate-x-1/2 md:-translate-y-1/2 z-20 w-full md:max-w-[496px] overflow-hidden;
+    box-shadow: var(--modal-shadow);
+  }
+  ._drawer {
+    @apply bg-neutral-100 absolute top-0 bottom-0 right-0 z-20 w-full md:max-w-[360px];
+    box-shadow: var(--drawer-shadow);
+  }
+  ._card {
+    @apply border _border-muted rounded-lg px-3 pb-3 flex flex-col bg-white transition;
+  }
+  ._card:hover {
+    box-shadow: var(--box-shadow);
+    border: 0.5px solid rgb(146, 206, 116);
+  }
+  ._fab {
+    @apply rounded-full cursor-pointer flex items-center justify-center;
+    box-shadow: var(--floatingBtn-shadow);
+  }
+  ._add_to_cart {
+    @apply h-9 w-[90px] rounded-lg uppercase font-bold text-sm text-green-700;
+    background: rgb(247, 255, 249);
+    border: 0.5px solid rgb(12, 131, 31);
+  }
+  ._swinging {
+    animation-name: swigning;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+  }
+  ._wiggle:hover {
+    animation: 0.6s ease 0s 2 normal none running wiggle;
+  }
+  ._shadow_sticky {
+    box-shadow: var(--sticky-bottom-shadow);
+  }
+}
+
+@media screen and (max-width: 640px) {
+  ._nav {
+    box-shadow: none;
+  }
+  ._header {
+    display: grid;
+    grid-template-columns: 1fr 60px;
+  }
+  ._header_loc {
+    column-span: 1/2;
+    grid-row: 1/2;
+  }
+  ._header_login {
+    column-span: 2/3;
+    grid-row: 1/2;
+  }
+  ._header_search {
+    grid-column: 1/3;
+    grid-row: 2/3;
+  }
+}
+
+@keyframes swigning {
+  0% {
+    transform: translate(40%, -41%);
+  }
+
+  50% {
+    transform: translate(53%, -45%);
+  }
+
+  100% {
+    transform: translate(40%, -41%);
+  }
+}
+
+@keyframes wiggle {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  25% {
+    transform: rotate(10deg);
+  }
+
+  75% {
+    transform: rotate(-10deg);
+  }
+
+  100% {
+    transform: rotate(0deg);
   }
 }
