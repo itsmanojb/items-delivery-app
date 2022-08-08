@@ -59,14 +59,14 @@ const BrandPromotion = () => {
               <div className="hidden lg:flex flex-col justify-start w-[480px] relative">
                 <div className="absolute">
                   <img
-                    src="phone.webp"
+                    src="/phone.webp"
                     alt=""
                     className="max-h-[500px] -mt-20 -ml-4"
                   />
                 </div>
                 <div className="translate-y-32 -translate-x-16">
                   <div className="_swinging">
-                    <img src="bike.png" alt="" className="h-[360px]" />
+                    <img src="/bike.png" alt="" className="h-[360px]" />
                   </div>
                 </div>
               </div>
@@ -92,7 +92,7 @@ const BrandPromotion = () => {
                 </div>
                 <div className="hidden lg:flex items-center _bg-shade-2 p-3 mt-6 gap-3 rounded-xl">
                   <div>
-                    <img src="qrcode.png" alt="" width={105} height={105} />
+                    <img src="/qrcode.png" alt="" width={105} height={105} />
                   </div>
                   <div className="flex flex-col justify-center">
                     <p className="font-extrabold text-lg max-w-[300px] _text-default">

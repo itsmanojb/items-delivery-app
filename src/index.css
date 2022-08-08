@@ -107,6 +107,11 @@ html {
   }
 }
 
+._loader {
+  box-sizing: border-box;
+  animation: loading 1s linear infinite alternate;
+}
+
 @media screen and (max-width: 640px) {
   ._nav {
     box-shadow: none;
@@ -158,5 +163,20 @@ html {
 
   100% {
     transform: rotate(0deg);
+  }
+}
+
+@keyframes loading {
+  0% {
+    box-shadow: -38px -6px, -14px 6px, 14px -6px;
+  }
+  33% {
+    box-shadow: -38px 6px, -14px -6px, 14px 6px;
+  }
+  66% {
+    box-shadow: -38px -6px, -14px 6px, 14px -6px;
+  }
+  100% {
+    box-shadow: -38px 6px, -14px -6px, 14px 6px;
   }
 }
