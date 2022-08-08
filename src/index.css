@@ -20,7 +20,9 @@
   --searchbox-shadow: rgb(28 28 28 / 8%) 0px 2px 8px;
   --couponcard-shadow: rgb(28 28 28 / 15%) 0px 2px 4px;
   --modal-shadow: 0 0 14px 0 rgb(0 0 0 / 30%);
+  --drawer-shadow: -4px 0 4px 0 rgb(0 0 0 / 10%);
   --box-shadow: rgb(28 28 28 / 15%) 0px 1px 4px;
+  --sticky-bottom-shadow: rgb(0 0 0 / 7%) 0px 0px 10px 0px;
   --floatingBtn-shadow: rgb(0 0 0 / 20%) 0px 3px 5px -1px,
     rgb(0 0 0 / 14%) 0px 6px 10px 0px, rgb(0 0 0 / 12%) 0px 1px 18px 0px;
 }
@@ -73,6 +75,10 @@ html {
     @apply md:rounded bg-white absolute top-0 left-0 md:top-1/2 md:left-1/2 md:-translate-x-1/2 md:-translate-y-1/2 z-20 w-full md:max-w-[496px] overflow-hidden;
     box-shadow: var(--modal-shadow);
   }
+  ._drawer {
+    @apply bg-neutral-100 absolute top-0 bottom-0 right-0 z-20 w-full md:max-w-[360px];
+    box-shadow: var(--drawer-shadow);
+  }
   ._card {
     @apply border _border-muted rounded-lg px-3 pb-3 flex flex-col bg-white transition;
   }
@@ -95,6 +101,12 @@ html {
     animation-iteration-count: infinite;
     animation-timing-function: ease-in-out;
   }
+  ._wiggle:hover {
+    animation: 0.6s ease 0s 2 normal none running wiggle;
+  }
+  ._shadow_sticky {
+    box-shadow: var(--sticky-bottom-shadow);
+  }
 }
 
 @keyframes swigning {
@@ -108,5 +120,23 @@ html {
 
   100% {
     transform: translate(40%, -41%);
+  }
+}
+
+@keyframes wiggle {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  25% {
+    transform: rotate(10deg);
+  }
+
+  75% {
+    transform: rotate(-10deg);
+  }
+
+  100% {
+    transform: rotate(0deg);
   }
 }

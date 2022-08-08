@@ -4,7 +4,6 @@ import {
   DiscountOffers,
   FeaturedPromo,
   HighlightedPromo,
-  ItemsCarousel,
   ProductsRow,
 } from '../components/home';
 import Misc from '../lib/data/layout.json';

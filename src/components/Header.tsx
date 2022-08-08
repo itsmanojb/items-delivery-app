@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom';
+import { CartButton } from './cart';
 import LocationPicker from './LocationPicker';
 import SearchBox from './SearchBox';
 
@@ -23,7 +24,7 @@ const Header = () => {
           <span className="font-medium _text-default">Login</span>
         </div>
         <div className="py-2 flex h-full items-center mr-8 ml-3">
-          Cart button
+          <CartButton />
         </div>
       </div>
     </header>

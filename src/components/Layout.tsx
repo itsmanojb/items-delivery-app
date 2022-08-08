@@ -2,6 +2,7 @@ import Header from './Header';
 import Footer from './Footer';
 import BrandPromotion from './BrandPromotion';
 import Modal from './Modal';
+import { CartPanel } from './cart';
 import { useAppSelector } from '../hooks/useAppSelector';
 
 type Props = {
@@ -9,7 +10,9 @@ type Props = {
 };
 
 const Layout = (props: Props) => {
-  const modalShown = useAppSelector(state => state.modal.visible);
+  const modalShown = useAppSelector((state) => state.modal.visible);
+  const cartShown = useAppSelector((state) => state.ui.cartPanel);
+
   return (
     <>
       <div>
@@ -18,6 +21,7 @@ const Layout = (props: Props) => {
         <BrandPromotion />
         <Footer />
       </div>
+      {cartShown && <CartPanel />}
       {modalShown && <Modal />}
     </>
   );

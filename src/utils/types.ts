@@ -120,11 +120,13 @@ export type CartProduct = {
   subTitle: string;
   image?: string;
   price: number;
-  mrp?: number;
+  mrp: number;
 };
 
 export type CartItem = {
   product: CartProduct;
   quantity: number;
   totalPrice: number;
+  billPrice: number;
+  discount: number;
 };

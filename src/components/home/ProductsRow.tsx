@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom';
 import { ProductRow } from '../../utils/types';
 import ItemsCarousel from './ItemsCarousel';
 
