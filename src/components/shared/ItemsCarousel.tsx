@@ -58,7 +58,7 @@ const ItemsCarousel = (props: Props) => {
   const items = shuffleItems(props.topItems);
 
   return (
-    <div className="h-[290px] mb-8 flex w-full relative">
+    <div className="max-h-[290px] mb-8 flex w-full relative">
       <div className="flex-1 overflow-auto">
         <Carousel
           swipeable={false}

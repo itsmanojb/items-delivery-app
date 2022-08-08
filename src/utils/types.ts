@@ -46,7 +46,7 @@ export type DiscountOffer = {
 };
 
 export type ProductRow = {
-  data: any
+  data?: any
   objects: any[]
 }
 export interface ProductItem {

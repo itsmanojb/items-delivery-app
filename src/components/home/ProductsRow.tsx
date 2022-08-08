@@ -1,5 +1,5 @@
 import { ProductRow } from '../../utils/types';
-import ItemsCarousel from './ItemsCarousel';
+import ItemsCarousel from '../shared/ItemsCarousel';
 
 const ProductsRow = ({ data, objects }: ProductRow) => {
   const products = objects.map((obj) =>

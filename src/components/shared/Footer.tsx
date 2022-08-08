@@ -5,11 +5,11 @@ import {
   FaInstagram,
   FaLinkedinIn,
 } from 'react-icons/fa';
-import { convertTextToURLSlug, getCategoryLink } from '../utils/helper';
-import AppStoreLogo from '../assets/images/app-store.webp';
-import PlayStoreLogo from '../assets/images/play-store.webp';
-import Brands from '../lib/data/brandsList.json';
-import Categories from '../lib/data/categories.json';
+import { convertTextToURLSlug, getCategoryLink } from '../../utils/helper';
+import AppStoreLogo from '../../assets/images/app-store.webp';
+import PlayStoreLogo from '../../assets/images/play-store.webp';
+import Brands from '../../lib/data/brandsList.json';
+import Categories from '../../lib/data/categories.json';
 
 type BrandLink = {
   text: string;

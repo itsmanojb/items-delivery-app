@@ -1,5 +1,5 @@
-import Header from './Header';
-import Footer from './Footer';
+import Header from './shared/Header';
+import Footer from './shared/Footer';
 import BrandPromotion from './BrandPromotion';
 import CartButtonBig from './cart/CartButtonBig';
 import Modal from './Modal';
