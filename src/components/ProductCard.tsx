@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router-dom';
-import AddToCartButton from './AddToCartButton';
+import AddToCartButton from './shared/AddToCartButton';
 import { CartProduct, ProductItem } from '../utils/types';
 import { convertTextToURLSlug } from '../utils/helper';
 

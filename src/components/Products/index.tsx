@@ -1,5 +1,13 @@
+import Breadcrumb from './Breadcrumb';
 import ProductDetails from './ProductDetails';
-import SimilarProducts from './SimilarProducts';
-import SuggestedProducts from './SuggestedProducts';
+import ProductGallery from './ProductGallery';
+import ProductInfoList from './ProductInfoList';
+import MoreProducts from './MoreProducts';
 
-export { ProductDetails, SimilarProducts, SuggestedProducts };
+export {
+  ProductDetails,
+  MoreProducts,
+  Breadcrumb,
+  ProductInfoList,
+  ProductGallery,
+};

@@ -1,4 +1,3 @@
-import { FaShoppingCart } from 'react-icons/fa';
 import { IoCaretForwardSharp } from 'react-icons/io5';
 import { useAppDispatch } from '../../hooks/useAppDispatch';
 import { useAppSelector } from '../../hooks/useAppSelector';

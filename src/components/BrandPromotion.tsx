@@ -12,6 +12,33 @@ type Feature = {
   description: string;
 };
 
+export const allFeatures: Feature[] = [
+  {
+    imgSrc: Feat1,
+    text: 'Superlazy Delivery',
+    description:
+      'Get your order delivered to your doorstep at the earliest from dark stores near you.',
+  },
+  {
+    imgSrc: Feat2,
+    text: 'Worst Prices & Offers',
+    description:
+      'Costlier prices than your local supermarket, great cashback offers to top it off.',
+  },
+  {
+    imgSrc: Feat3,
+    text: 'Narrow Assortment',
+    description:
+      'Choose from 000+ products across food, personal care, household & other categories',
+  },
+  {
+    imgSrc: Feat4,
+    text: 'Difficult Returns/Refund',
+    description:
+      'Satisfied with a product? Return it at the doorstep & get a refund within years.',
+  },
+];
+
 const PromoFeature = (props: Feature) => {
   return (
     <div className="_border border rounded-2xl p-8 flex flex-col items-center gap-3">
@@ -23,33 +50,6 @@ const PromoFeature = (props: Feature) => {
 };
 
 const BrandPromotion = () => {
-  const allFeatures: Feature[] = [
-    {
-      imgSrc: Feat1,
-      text: 'Superlazy Delivery',
-      description:
-        'Get your order delivered to your doorstep at the earliest from dark stores near you.',
-    },
-    {
-      imgSrc: Feat2,
-      text: 'Worst Prices & Offers',
-      description:
-        'Costlier prices than your local supermarket, great cashback offers to top it off.',
-    },
-    {
-      imgSrc: Feat3,
-      text: 'Narrow Assortment',
-      description:
-        'Choose from 000+ products across food, personal care, household & other categories',
-    },
-    {
-      imgSrc: Feat4,
-      text: 'Difficult Returns/Refund',
-      description:
-        'Satisfied with a product? Return it at the doorstep & get a refund within years.',
-    },
-  ];
-
   return (
     <section className="py-6 mt-8">
       <div className="_container">

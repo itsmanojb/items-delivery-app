@@ -1,9 +1,9 @@
 import React from 'react';
 import { IoAddSharp, IoRemoveSharp } from 'react-icons/io5';
-import { useAppDispatch } from '../hooks/useAppDispatch';
-import { useAppSelector } from '../hooks/useAppSelector';
-import { addItem, removeItem } from '../store/cart';
-import { CartProduct } from '../utils/types';
+import { useAppDispatch } from '../../hooks/useAppDispatch';
+import { useAppSelector } from '../../hooks/useAppSelector';
+import { addItem, removeItem } from '../../store/cart';
+import { CartProduct } from '../../utils/types';
 
 type ButtonProps = {
   product: CartProduct;

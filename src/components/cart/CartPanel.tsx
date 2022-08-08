@@ -4,7 +4,7 @@ import { useAppDispatch } from '../../hooks/useAppDispatch';
 import { useAppSelector } from '../../hooks/useAppSelector';
 import { hideCart } from '../../store/ui';
 import { CartItem, ProductItem } from '../../utils/types';
-import AddToCartButton from '../AddToCartButton';
+import AddToCartButton from '../shared/AddToCartButton';
 import Misc from '../../lib/data/layout.json';
 import SuggestedItems from './SuggestedItems';
 import { shuffleItems } from '../../utils/helper';
