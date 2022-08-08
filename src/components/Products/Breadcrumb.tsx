@@ -1,9 +1,12 @@
-import React from 'react';
 import { Link } from 'react-router-dom';
+import { ProductItemDetailed } from '../../utils/types';
 
-type Props = {};
+const Breadcrumb = (props: ProductItemDetailed) => {
+  const { level0_category, level1_category, name } = props;
 
-const Breadcrumb = (props: Props) => {
+  const category = level0_category[0];
+  const subcategory = level1_category[0];
+
   return (
     <div className="text-xs flex flex-wrap text-black font-medium">
       <span className="cursor-pointer hover:text-[#0c831f]">
@@ -11,16 +14,18 @@ const Breadcrumb = (props: Props) => {
       </span>
       <span>&nbsp; / &nbsp;</span>
       <span className="cursor-pointer hover:text-[#0c831f]">
-        <Link to="/">Munchies</Link>
+        <Link to="/">{category.name}</Link>
       </span>
+      {subcategory && (
+        <>
+          <span>&nbsp; / &nbsp;</span>
+          <span className="cursor-pointer hover:text-[#0c831f]">
+            <Link to="/">{subcategory.name}</Link>
+          </span>
+        </>
+      )}
       <span>&nbsp; / &nbsp;</span>
-      <span className="cursor-pointer hover:text-[#0c831f]">
-        <Link to="/">Chips & Crisps</Link>
-      </span>
-      <span>&nbsp; / &nbsp;</span>
-      <span className="_text-muted">
-        Too Yumm Veggie Stix Sour Cream & Onion Crisps - Pack of 2
-      </span>
+      <span className="_text-muted">{name}</span>
     </div>
   );
 };

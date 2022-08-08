@@ -1,4 +1,4 @@
-import { Category } from "./types";
+import { CartProduct, Category, ProductItem, ProductItemDetailed } from "./types";
 
 const convertTextToURLSlug = (text: string): string => {
   const clearText = text.replace(/[&\/\\#,+()$~%.":*?<>{}]/g, '').toLowerCase();
@@ -22,4 +22,16 @@ const shuffleItems = (unshuffled: any[] | undefined): any[] => {
   return shuffled;
 }
 
-export { convertTextToURLSlug, getCategoryLink, shuffleItems }
+const getProductForCart = (product: ProductItem | ProductItemDetailed): CartProduct => {
+  const { product_id, name, price, mrp, unit, image_url } = product;
+  return {
+    id: product_id.toString(),
+    title: name,
+    subTitle: unit,
+    image: image_url || '',
+    price,
+    mrp,
+  }
+}
+
+export { convertTextToURLSlug, getCategoryLink, shuffleItems, getProductForCart }

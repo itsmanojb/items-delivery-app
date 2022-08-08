@@ -1,5 +1,6 @@
 import { IoCaretForwardSharp } from 'react-icons/io5';
 import { Link } from 'react-router-dom';
+import { getProductForCart } from '../../utils/helper';
 import { ProductItemDetailed } from '../../utils/types';
 import { allFeatures } from '../BrandPromotion';
 import { AddToCartButton } from '../shared';
@@ -13,31 +14,34 @@ const ProductDetails = (props: any) => {
     varients,
   }: { product: ProductItemDetailed; varients: ProductItemDetailed[] } = props;
 
+  const productAsCartItem = getProductForCart(product);
+
   console.log('product', product);
   console.log('varients', varients);
 
   return (
     <div className="relative grid lg:grid-cols-2 border-b _border-muted -mt-2">
       <div className="border-r _border-muted">
-        <ProductGallery />
+        <ProductGallery images={product.sliding_images} />
         <div className="px-4 lg:px-0 pt-8">
           <h4 className="text-2xl font-bold _text-default">Product Details</h4>
-          <ProductInfoList />
+          <ProductInfoList {...product.attribute_collection} />
         </div>
       </div>
       <div className="static lg:block">
         <div className="relative top-0 lg:sticky lg:top-[100px]">
           <div className="px-4 lg:pl-12 lg:pt-12">
-            <Breadcrumb />
-            <h1 className="text-[28px] leading-tight py-3">
-              Too Yumm Veggie Stix Sour Cream & Onion Crisps - Pack of 2
-            </h1>
+            <Breadcrumb {...product} />
+            <h1 className="text-[28px] leading-tight py-3">{product.name}</h1>
             <Link to="/">
               <div className="cursor-pointer text-[#0c831f] font-semibold text-lg flex items-center">
-                Too Yumm <IoCaretForwardSharp size={14} className="ml-1" />
+                {product.brand}{' '}
+                <IoCaretForwardSharp size={14} className="ml-0.5" />
               </div>
             </Link>
-            <div className="mt-3">{/* <AddToCartButton/> */}</div>
+            <div className="my-4 h-12 w-[130px]">
+              <AddToCartButton size="lg" product={productAsCartItem} />
+            </div>
             <div className="pb-4">
               <h4 className="font-bold _text-default text-[15px] py-3">
                 Why shop from bringit?

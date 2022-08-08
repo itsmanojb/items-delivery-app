@@ -36,7 +36,7 @@ const CartPanelItem = (props: CartItem) => {
               <span className="text-[14px] _text-default">₹{price}</span>
             </div>
           )}
-          <div>
+          <div className="h-9 w-[90px]">
             <AddToCartButton product={props.product} />
           </div>
         </div>

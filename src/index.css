@@ -89,7 +89,7 @@ html {
     box-shadow: var(--floatingBtn-shadow);
   }
   ._add_to_cart {
-    @apply h-9 w-[90px] rounded-lg uppercase font-bold text-sm text-green-700;
+    @apply h-full w-full rounded-lg uppercase font-bold text-green-700;
     background: rgb(247, 255, 249);
     border: 0.5px solid rgb(12, 131, 31);
   }

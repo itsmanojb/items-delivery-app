@@ -7,8 +7,9 @@ import { CartProduct } from '../../utils/types';
 
 type ButtonProps = {
   product: CartProduct;
+  size?: 'sm' | 'lg';
 };
-const AddToCartButton = ({ product }: ButtonProps) => {
+const AddToCartButton = ({ product, size }: ButtonProps) => {
   const { cartItems } = useAppSelector((state) => state.cart);
   const dispatch = useAppDispatch();
 
@@ -37,7 +38,11 @@ const AddToCartButton = ({ product }: ButtonProps) => {
   };
 
   return itemCount > 0 ? (
-    <div className="flex justify-around h-9 w-[90px] rounded-lg uppercase font-bold text-sm bg-[#0c831f] cursor-pointer">
+    <div
+      className={`flex h-full w-full justify-around rounded-lg uppercase font-bold text-sm bg-[#0c831f] cursor-pointer ${
+        size === 'lg' ? 'text-lg' : 'text-normal'
+      }`}
+    >
       <button
         onClick={(e) => remove(e)}
         type="button"
@@ -59,7 +64,7 @@ const AddToCartButton = ({ product }: ButtonProps) => {
   ) : (
     <button
       type="button"
-      className="_add_to_cart"
+      className={`_add_to_cart ${size === 'lg' ? 'text-md' : 'text-sm'}`}
       onClick={(e) => handleItemAdd(e)}
     >
       Add

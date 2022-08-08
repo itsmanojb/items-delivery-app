@@ -113,9 +113,7 @@ interface NextAvailableAt {
   next_available_text: string;
 }
 
-
-
-interface Attribute {
+export interface Attribute {
   title: string;
   url?: any;
   detail: string;
@@ -124,7 +122,7 @@ interface Attribute {
   type: string;
 }
 
-interface AttributeCollection {
+export interface AttributeCollection {
   attributes: Attribute[];
   title: string;
 }
@@ -215,7 +213,6 @@ export interface ProductItemDetailed {
   combo_flag?: any;
   sliding_images: string[];
 }
-
 
 export type CartProduct = {
   id: string;

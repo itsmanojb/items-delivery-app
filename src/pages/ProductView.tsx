@@ -10,20 +10,20 @@ const ProductView = () => {
     varients: rest.variants_info,
   };
 
-  // const moreProducts = productItem.objects.map((obj) => {
-  //   const { products, title } = obj.data;
-  //   return {
-  //     products,
-  //     title,
-  //   };
-  // });
+  const moreProducts = productItem.objects.map((obj) => {
+    const { products, title } = obj.data;
+    return {
+      products,
+      title,
+    };
+  });
 
   return (
     <div className="_container">
       <ProductDetails {...productInfo} />
-      {/* {moreProducts.map((products, i) => (
+      {moreProducts.map((products, i) => (
         <MoreProducts key={i} {...products} />
-      ))} */}
+      ))}
     </div>
   );
 };

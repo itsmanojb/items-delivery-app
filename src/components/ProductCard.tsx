@@ -54,7 +54,7 @@ const ProductCard = ({ data }: { data: ProductItem }) => {
               <span className="text-[14px] _text-default">₹{mrp}</span>
             </div>
           )}
-          <div>
+          <div className="h-9 w-[90px]">
             <AddToCartButton product={cartProduct} />
           </div>
         </div>
