@@ -1,9 +1,7 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
 import CarouselButtonGroup from '../CarouselButtonGroup';
-
-type Props = {};
 
 const responsive = {
   desktop: {
@@ -23,15 +21,15 @@ const responsive = {
 const ProductGallery = ({ images }: { images: string[] }) => {
   const [coverIndex, setCoverIndex] = useState(0);
   return (
-    <div className="flex flex-col border-b _border-muted">
-      <div className="flex justify-center">
+    <div className="flex flex-col lg:border-b _border-muted">
+      <div className="hidden lg:flex justify-center">
         <img
           src={images[coverIndex]}
           className="h-[480px] w-[480px] object-contain"
           alt=""
         />
       </div>
-      <div>
+      <div className="w-[100px]">
         <div className="relative mx-10">
           <div className="w-[80%] mt-2.5 mb-8 mx-auto h-[76px]">
             <div className="flex-1 overflow-auto">
@@ -44,6 +42,8 @@ const ProductGallery = ({ images }: { images: string[] }) => {
                 customButtonGroup={<CarouselButtonGroup />}
                 shouldResetAutoplay={false}
                 infinite={false}
+                renderDotsOutside={true}
+                showDots={true}
                 itemClass="text-center"
               >
                 {images?.map((item, i) => (

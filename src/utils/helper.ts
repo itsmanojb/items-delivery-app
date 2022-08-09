@@ -34,4 +34,5 @@ const getProductForCart = (product: ProductItem | ProductItemDetailed): CartProd
   }
 }
 
+
 export { convertTextToURLSlug, getCategoryLink, shuffleItems, getProductForCart }

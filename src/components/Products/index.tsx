@@ -3,6 +3,7 @@ import ProductDetails from './ProductDetails';
 import ProductGallery from './ProductGallery';
 import ProductInfoList from './ProductInfoList';
 import MoreProducts from './MoreProducts';
+import ProductVarients from './ProductVarients';
 
 export {
   ProductDetails,
@@ -10,4 +11,5 @@ export {
   Breadcrumb,
   ProductInfoList,
   ProductGallery,
+  ProductVarients,
 };
