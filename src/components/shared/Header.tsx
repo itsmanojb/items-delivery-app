@@ -1,8 +1,8 @@
 import { FaRegUser } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
-import { CartButton } from './cart';
-import LocationPicker from './LocationPicker';
-import SearchBox from './SearchBox';
+import { CartButton } from '../cart';
+import LocationPicker from '../LocationPicker';
+import SearchBox from '../SearchBox';
 
 const Header = () => {
   return (

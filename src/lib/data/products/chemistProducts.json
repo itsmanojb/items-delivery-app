@@ -1,0 +1,2797 @@
+[
+  {
+    "id": "434549",
+    "product_data": {
+      "objects": [
+        {
+          "data": {
+            "title": "Similar Products",
+            "products": [
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 7871,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "111146805",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "10 units",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 6,
+                "line_1": "",
+                "line_2": "",
+                "type": "Condom",
+                "brand": "Durex",
+                "offer": "",
+                "price": 107,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 477932,
+                "sbc_enabled": false,
+                "name": "Durex Extra Thin Wild Strawberry Flavoured Condom",
+                "rating_flag": false,
+                "mrp": 150,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 287,
+                  "id": 707,
+                  "name": "Sexual Wellness",
+                  "level": "l1"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/477932a.jpg?ts=1639286198",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p477932%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 7871,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "109937568",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "10 units",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 6,
+                "line_1": "",
+                "line_2": "",
+                "type": "Condom",
+                "brand": "Durex",
+                "offer": "",
+                "price": 107,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 477934,
+                "sbc_enabled": false,
+                "name": "Durex Extra Thin Intense Chocolate Flavoured Condom",
+                "rating_flag": false,
+                "mrp": 150,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 287,
+                  "id": 707,
+                  "name": "Sexual Wellness",
+                  "level": "l1"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/477934a.jpg",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p477934%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 7871,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "111944514",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "10 pieces",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 4,
+                "line_1": "",
+                "line_2": "",
+                "type": "Condom",
+                "brand": "Durex",
+                "offer": "",
+                "price": 336,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 480695,
+                "sbc_enabled": false,
+                "name": "Durex Intense Condom",
+                "rating_flag": false,
+                "mrp": 440,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 287,
+                  "id": 707,
+                  "name": "Sexual Wellness",
+                  "level": "l1"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/480695a.jpg?ts=1652356984",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p480695%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 7871,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94826746",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "10 units",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 3,
+                "line_1": "",
+                "line_2": "",
+                "type": "Condom",
+                "brand": "Durex",
+                "offer": "",
+                "price": 264,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 401187,
+                "sbc_enabled": false,
+                "name": "Durex Mutual Climax Condom",
+                "rating_flag": false,
+                "mrp": 360,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 287,
+                  "id": 707,
+                  "name": "Sexual Wellness",
+                  "level": "l1"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/401187a.jpg?ts=1633497075",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p401187%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 7871,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94809419",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "10 units",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 4,
+                "line_1": "",
+                "line_2": "",
+                "type": "Condom",
+                "brand": "Durex",
+                "offer": "",
+                "price": 205,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 390793,
+                "sbc_enabled": false,
+                "name": "Durex Extra Time Condom",
+                "rating_flag": false,
+                "mrp": 245,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 287,
+                  "id": 707,
+                  "name": "Sexual Wellness",
+                  "level": "l1"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/390793a.jpg?ts=1633496839",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p390793%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 7871,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94809413",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "10 units",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 4,
+                "line_1": "",
+                "line_2": "",
+                "type": "Condom",
+                "brand": "Durex",
+                "offer": "",
+                "price": 199,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 390791,
+                "sbc_enabled": false,
+                "name": "Durex Extra Ribbed Condom",
+                "rating_flag": false,
+                "mrp": 245,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 287,
+                  "id": 707,
+                  "name": "Sexual Wellness",
+                  "level": "l1"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/390791a.jpg?ts=1633496682",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p390791%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 7871,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94798580",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "10 units",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 2,
+                "line_1": "",
+                "line_2": "",
+                "type": "Condom",
+                "brand": "Durex",
+                "offer": "",
+                "price": 205,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 382664,
+                "sbc_enabled": false,
+                "name": "Durex Air Ultra Thin Condom",
+                "rating_flag": false,
+                "mrp": 245,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 287,
+                  "id": 707,
+                  "name": "Sexual Wellness",
+                  "level": "l1"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/382664a.jpg?ts=1633496536",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p382664%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 7871,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94809407",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "10 units",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 3,
+                "line_1": "",
+                "line_2": "",
+                "type": "Condom",
+                "brand": "Durex",
+                "offer": "",
+                "price": 191,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 390789,
+                "sbc_enabled": false,
+                "name": "Durex Extra Dots Condom",
+                "rating_flag": false,
+                "mrp": 228,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 287,
+                  "id": 707,
+                  "name": "Sexual Wellness",
+                  "level": "l1"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/390789a.jpg?ts=1633496634",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p390789%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              }
+            ]
+          }
+        },
+        {
+          "data": {
+            "title": "You might also like",
+            "products": [
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 7871,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94865435",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "20 units",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 3,
+                "line_1": "",
+                "line_2": "",
+                "type": "Condom",
+                "brand": "KamaSutra",
+                "offer": "",
+                "price": 233,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 474876,
+                "sbc_enabled": false,
+                "name": "KamaSutra Ultra Dotted Condom",
+                "rating_flag": false,
+                "mrp": 340,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 287,
+                  "id": 707,
+                  "name": "Sexual Wellness",
+                  "level": "l1"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/474876a.jpg?ts=1633497650",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p474876%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 7871,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "104587982",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "2 pieces",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 3,
+                "line_1": "",
+                "line_2": "",
+                "type": "Condom",
+                "brand": "Pee Safe",
+                "offer": "",
+                "price": 119,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 480342,
+                "sbc_enabled": false,
+                "name": "Pee Safe Domina Female Condom",
+                "rating_flag": false,
+                "mrp": 199,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 287,
+                  "id": 707,
+                  "name": "Sexual Wellness",
+                  "level": "l1"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/480342a.jpg",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p480342%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 7871,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94823642",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "12 units",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 3,
+                "line_1": "",
+                "line_2": "",
+                "type": "Condom",
+                "brand": "KamaSutra",
+                "offer": "",
+                "price": 176,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 399414,
+                "sbc_enabled": false,
+                "name": "KamaSutra Orgasmax 4 in 1 Condom",
+                "rating_flag": false,
+                "mrp": 230,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 287,
+                  "id": 707,
+                  "name": "Sexual Wellness",
+                  "level": "l1"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/399414a.jpg?ts=1633497075",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p399414%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 7871,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94866995",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "10 units",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 3,
+                "line_1": "",
+                "line_2": "",
+                "type": "Condom",
+                "brand": "Skore",
+                "offer": "",
+                "price": 126,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 477841,
+                "sbc_enabled": false,
+                "name": "Skore Nothing Chocolate Condom",
+                "rating_flag": false,
+                "mrp": 150,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 287,
+                  "id": 707,
+                  "name": "Sexual Wellness",
+                  "level": "l1"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/477841a.jpg",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p477841%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 7871,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94866994",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "10 units",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 3,
+                "line_1": "",
+                "line_2": "",
+                "type": "Condom",
+                "brand": "Skore",
+                "offer": "",
+                "price": 126,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 477840,
+                "sbc_enabled": false,
+                "name": "Skore Nothing Strawberry Condom",
+                "rating_flag": false,
+                "mrp": 150,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 287,
+                  "id": 707,
+                  "name": "Sexual Wellness",
+                  "level": "l1"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/477840a.jpg",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p477840%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              }
+            ]
+          }
+        }
+      ],
+      "data": {
+        "variants_info": [
+          {
+            "rating": 0,
+            "attribute_collection": [
+              {
+                "attributes": [
+                  {
+                    "title": "Shelf Life",
+                    "url": null,
+                    "detail": "",
+                    "value": "60 months",
+                    "help_text": "",
+                    "type": "shown_to_customer"
+                  },
+                  {
+                    "title": "Manufacturer Details",
+                    "url": null,
+                    "detail": "",
+                    "value": "M/S Qingdao London Durex Co. Ltd. No 1-13 Shangma Part, Aodong Road, High Tech Industrial Development Zone, Qingdao, China 266114",
+                    "help_text": "",
+                    "type": "shown_to_customer"
+                  },
+                  {
+                    "title": "Marketed By",
+                    "url": null,
+                    "detail": "",
+                    "value": "Reckitt Benckiser, Plot No. 48, Institutional Area, Sector 32, Gurugram, Haryana 122001",
+                    "help_text": "",
+                    "type": "shown_to_customer"
+                  },
+                  {
+                    "title": "Disclaimer",
+                    "url": null,
+                    "detail": "",
+                    "value": "Every effort is made to maintain accuracy of all information. However, actual product packaging and materials may contain more and/or different information. It is recommended not to solely rely on the information presented.",
+                    "help_text": "",
+                    "type": "shown_to_customer"
+                  },
+                  {
+                    "title": "Country of Origin",
+                    "url": null,
+                    "detail": "",
+                    "value": "China",
+                    "help_text": "",
+                    "type": "shown_to_customer"
+                  },
+                  {
+                    "title": "Customer Care Details",
+                    "url": null,
+                    "detail": "",
+                    "value": "Email: info@blinkit.com\nCustomer Care Number: 1-800-208-8888",
+                    "help_text": "",
+                    "type": "shown_to_customer"
+                  },
+                  {
+                    "title": "Offer",
+                    "url": null,
+                    "detail": "",
+                    "value": "",
+                    "help_text": "",
+                    "type": "shown_to_customer"
+                  },
+                  {
+                    "title": "Product Class",
+                    "url": null,
+                    "detail": "",
+                    "value": "Packaged Goods",
+                    "help_text": "",
+                    "type": "shown_to_customer"
+                  },
+                  {
+                    "value": "LOVEEY TRADING INDIA PRIVATE LIMITED",
+                    "title": "Seller"
+                  },
+                  {
+                    "value": "2025-07-23",
+                    "title": "Expiry Date"
+                  }
+                ],
+                "title": "Info"
+              },
+              {
+                "attributes": [
+                  {
+                    "title": "Offer",
+                    "url": null,
+                    "detail": "",
+                    "value": "",
+                    "help_text": "",
+                    "type": "shown_to_customer"
+                  },
+                  {
+                    "title": "Key Features",
+                    "url": null,
+                    "detail": "",
+                    "value": "Dermatologically Tested, For High Safety. \nStraight edged and teat ends, \nTransparent and smooth natural rubber latex.",
+                    "help_text": "",
+                    "type": "shown_to_customer"
+                  },
+                  {
+                    "title": "Unit",
+                    "url": null,
+                    "detail": "",
+                    "value": "3 units",
+                    "help_text": "",
+                    "type": "shown_to_customer"
+                  }
+                ],
+                "title": "Highlights"
+              }
+            ],
+            "mrp": 143,
+            "has_details": true,
+            "mapping_id": 94855836,
+            "brand_id": 2607,
+            "merchant_type": "Express",
+            "sbc_price": null,
+            "b2b_inventory": 4,
+            "badges": [],
+            "pid_mapping": {},
+            "title": "",
+            "pricing_comment": "",
+            "level1_category": [
+              {
+                "parent_id": 287,
+                "level": null,
+                "id": 707,
+                "name": "Sexual Wellness",
+                "m_score": null
+              }
+            ],
+            "unit_price": 42.666666666666664,
+            "unit_type": "units",
+            "rating_count": 0,
+            "inventory": 4,
+            "line_1": "",
+            "line_2": "",
+            "type": "Condom",
+            "brand": "Durex",
+            "offer": "10% OFF",
+            "price": 128,
+            "unit": "3 units",
+            "incentives": [],
+            "user_message_limit": 0,
+            "level0_category": [
+              {
+                "parent_id": 287,
+                "level": null,
+                "id": 287,
+                "name": "Pharma & Wellness",
+                "m_score": null
+              }
+            ],
+            "rating_star_color": "#D23333",
+            "type_id": 7871,
+            "merchant_id": 31189,
+            "pl_flag": false,
+            "name": "Durex Invisible Super Ultra Thin Condom",
+            "sbc_enabled": false,
+            "product_id": 434550,
+            "rating_count_text": null,
+            "rating_flag": false,
+            "sbc_offer": "",
+            "leaf_category": {
+              "parent_id": 287,
+              "level": "l1",
+              "id": 707,
+              "name": "Sexual Wellness",
+              "m_score": null
+            },
+            "received_at_ts": 0,
+            "reviews": {
+              "reviews_list": [],
+              "show_new_badge": true,
+              "title": "Customer Reviews"
+            },
+            "highlight_images": [],
+            "rating_text_color": "#D23333",
+            "image_url": "https://cdn.grofers.com/app/images/products/normal/pro_434550.jpg?ts=1639285557",
+            "sbc_unit_price": 42.666666666666664,
+            "group_id": 448393,
+            "options": [
+              {
+                "type": 0,
+                "values": [
+                  {
+                    "mapping_id": 94855835,
+                    "selected": false,
+                    "enabled": true,
+                    "name": "10 units",
+                    "value": null
+                  },
+                  {
+                    "mapping_id": 94855836,
+                    "selected": true,
+                    "enabled": true,
+                    "name": "3 units",
+                    "value": null
+                  }
+                ],
+                "title": "Unit"
+              },
+              {
+                "type": 0,
+                "values": [
+                  {
+                    "mapping_id": 94855836,
+                    "selected": true,
+                    "enabled": true,
+                    "name": "",
+                    "value": null
+                  }
+                ],
+                "title": "Offer"
+              }
+            ],
+            "sliding_images": [
+              "https://cdn.grofers.com/app/images/products/full_screen/pro_434550.jpg?ts=1639285557",
+              "https://cdn.grofers.com/app/images/products/sliding_image/434550a.jpg?ts=1639285557",
+              "https://cdn.grofers.com/app/images/products/sliding_image/434550b.jpg?ts=1639285557",
+              "https://cdn.grofers.com/app/images/products/sliding_image/434550c.jpg?ts=1639285557",
+              "https://cdn.grofers.com/app/images/products/sliding_image/434550d.jpg?ts=1639285557",
+              "https://cdn.grofers.com/app/images/products/sliding_image/434550e.jpg?ts=1639285557",
+              "https://cdn.grofers.com/app/images/products/sliding_image/434550f.jpg?ts=1639285557",
+              "https://cdn.grofers.com/app/images/products/sliding_image/434550g.jpg?ts=1639285557",
+              "https://cdn.grofers.com/app/images/products/sliding_image/434550h.jpg?ts=1639285557",
+              "https://cdn.grofers.com/app/images/products/sliding_image/434550i.jpg?ts=1639285557",
+              "https://cdn.grofers.com/app/images/products/sliding_image/434550j.jpg"
+            ]
+          }
+        ],
+        "product": {
+          "rating": 0,
+          "attribute_collection": [
+            {
+              "attributes": [
+                {
+                  "title": "Shelf Life",
+                  "url": null,
+                  "detail": "",
+                  "value": "36 Months",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Manufacturer Details",
+                  "url": null,
+                  "detail": "",
+                  "value": "M/S Qingdao London Durex Co. Ltd. No 1-13 Shangma Part, Aodong Road, High Tech Industrial Development Zone, Qingdao, China 266114",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Marketed By",
+                  "url": null,
+                  "detail": "",
+                  "value": "Reckitt Benckiser, Plot No. 48, Institutional Area, Sector 32, Gurugram, Haryana 122001",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Disclaimer",
+                  "url": null,
+                  "detail": "",
+                  "value": "Every effort is made to maintain accuracy of all information. However, actual product packaging and materials may contain more and/or different information. It is recommended not to solely rely on the information presented.",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Country of Origin",
+                  "url": null,
+                  "detail": "",
+                  "value": "China",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Customer Care Details",
+                  "url": null,
+                  "detail": "",
+                  "value": "Email: info@blinkit.com\nCustomer Care Number: 1-800-208-8888",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Product Class",
+                  "url": null,
+                  "detail": "",
+                  "value": "Packaged Goods",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "value": "LOVEEY TRADING INDIA PRIVATE LIMITED",
+                  "title": "Seller"
+                },
+                {
+                  "value": "2025-07-23",
+                  "title": "Expiry Date"
+                }
+              ],
+              "title": "Info"
+            },
+            {
+              "attributes": [
+                {
+                  "title": "Key Features",
+                  "url": null,
+                  "detail": "",
+                  "value": "With Discreet Packaging",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Unit",
+                  "url": null,
+                  "detail": "",
+                  "value": "10 units",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                }
+              ],
+              "title": "Highlights"
+            }
+          ],
+          "mrp": 440,
+          "has_details": true,
+          "mapping_id": 94855835,
+          "brand_id": 2607,
+          "merchant_type": "Express",
+          "sbc_price": null,
+          "b2b_inventory": 2,
+          "badges": [],
+          "options": [
+            {
+              "values": [
+                {
+                  "mapping_id": 94855835,
+                  "selected": true,
+                  "enabled": true,
+                  "name": "10 units",
+                  "value": null
+                },
+                {
+                  "mapping_id": 94855836,
+                  "selected": false,
+                  "enabled": true,
+                  "name": "3 units",
+                  "value": null
+                }
+              ],
+              "type": 0,
+              "title": "Unit"
+            },
+            {
+              "values": [
+                {
+                  "mapping_id": 94855836,
+                  "selected": false,
+                  "enabled": true,
+                  "name": "",
+                  "value": null
+                }
+              ],
+              "type": 0,
+              "title": "Offer"
+            }
+          ],
+          "pid_mapping": {},
+          "derived_attributes": null,
+          "pricing_comment": "",
+          "level1_category": [
+            {
+              "id": 707,
+              "name": "Sexual Wellness"
+            }
+          ],
+          "unit_price": 33.5,
+          "unit_type": "units",
+          "rating_count": 0,
+          "unit": "10 units",
+          "line_1": "",
+          "line_2": "",
+          "type": "Condom",
+          "brand": "Durex",
+          "inventory": 2,
+          "recommended_purchase_quantity": null,
+          "offer": "23% OFF",
+          "price": 335,
+          "incentives": [],
+          "user_message_limit": 0,
+          "level0_category": [
+            {
+              "id": 287,
+              "name": "Pharma & Wellness"
+            }
+          ],
+          "rating_star_color": "#D23333",
+          "type_id": 7871,
+          "merchant_id": 31189,
+          "pl_flag": false,
+          "name": "Durex Invisible Super Ultra Thin Condom",
+          "sbc_enabled": false,
+          "product_id": 434549,
+          "rating_count_text": null,
+          "rating_flag": false,
+          "sbc_offer": "",
+          "leaf_category": {
+            "id": 707,
+            "name": "Sexual Wellness",
+            "level": "l1"
+          },
+          "received_at_ts": 0,
+          "reviews": {
+            "reviews_list": [],
+            "show_new_badge": true,
+            "title": "Customer Reviews"
+          },
+          "rating_text_color": "#D23333",
+          "image_url": "https://cdn.grofers.com/app/images/products/normal/pro_434549.jpg?ts=1633497471",
+          "sbc_unit_price": 33.5,
+          "title": "",
+          "group_id": 448393,
+          "combo_flag": null,
+          "sliding_images": [
+            "https://cdn.grofers.com/app/images/products/full_screen/pro_434549.jpg?ts=1633497471",
+            "https://cdn.grofers.com/app/images/products/sliding_image/434549a.jpg?ts=1633497471",
+            "https://cdn.grofers.com/app/images/products/sliding_image/434549b.jpg?ts=1633497471",
+            "https://cdn.grofers.com/app/images/products/sliding_image/434549c.jpg?ts=1633497471",
+            "https://cdn.grofers.com/app/images/products/sliding_image/434549d.jpg?ts=1633497471",
+            "https://cdn.grofers.com/app/images/products/sliding_image/434549e.jpg?ts=1633497471",
+            "https://cdn.grofers.com/app/images/products/sliding_image/434549f.jpg?ts=1633497471",
+            "https://cdn.grofers.com/app/images/products/sliding_image/434549g.jpg?ts=1633497471",
+            "https://cdn.grofers.com/app/images/products/sliding_image/434549h.jpg?ts=1633497471",
+            "https://cdn.grofers.com/app/images/products/sliding_image/434549i.jpg?ts=1633497471",
+            "https://cdn.grofers.com/app/images/products/sliding_image/434549j.jpg?ts=1633497471",
+            "https://cdn.grofers.com/app/images/products/sliding_image/434549k.jpg"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "990",
+    "product_data": {
+      "objects": [
+        {
+          "data": {
+            "title": "You might also like",
+            "products": [
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 10352,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94855962",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "30 ml",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 3,
+                "line_1": "",
+                "line_2": "",
+                "type": "Drops",
+                "brand": "Dabur",
+                "offer": "",
+                "price": 156,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 436306,
+                "sbc_enabled": false,
+                "name": "Dabur 100% Ayurvedic Immunity Booster Tulsi Drops",
+                "rating_flag": false,
+                "mrp": 195,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 287,
+                  "id": 308,
+                  "name": "Supplements",
+                  "level": "l1"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/436306a.jpg",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p436306%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              }
+            ]
+          }
+        }
+      ],
+      "data": {
+        "variants_info": [],
+        "product": {
+          "rating": 0,
+          "attribute_collection": [
+            {
+              "attributes": [
+                {
+                  "title": "Shelf Life",
+                  "url": null,
+                  "detail": "",
+                  "value": "24 months",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Marketed By",
+                  "url": null,
+                  "detail": "",
+                  "value": "Dabur India Ltd , 8/3 Asaf Ali Road , New Delhi -110002",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Disclaimer",
+                  "url": null,
+                  "detail": "",
+                  "value": "Every effort is made to maintain the accuracy of all information. However, actual product packaging and materials may contain more and/or different information. The color of the product displayed in the image may differ from that received in the order. It is recommended not to solely rely on the details presented.",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Country of Origin",
+                  "url": null,
+                  "detail": "",
+                  "value": "India",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Customer Care Details",
+                  "url": null,
+                  "detail": "",
+                  "value": "Email: info@blinkit.com\nCustomer Care Number: 1-800-208-8888",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Product Class",
+                  "url": null,
+                  "detail": "",
+                  "value": "Packaged Goods",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "value": "LOVEEY TRADING INDIA PRIVATE LIMITED",
+                  "title": "Seller"
+                },
+                {
+                  "value": "2024-07-29",
+                  "title": "Expiry Date"
+                }
+              ],
+              "title": "Info"
+            },
+            {
+              "attributes": [
+                {
+                  "title": "Description",
+                  "url": null,
+                  "detail": "",
+                  "value": "Pudin Hara Active has pudina ka satva, a known and powerful ayurvedic ingredient which is natural, provides cooling effect and helps effectively in stomach pain, gas and indigestion. It gives fast relief from stomach ache, indigestion and gas. Totally safe and natural, Pudin Hara is a fast-action cure for stomach disorders.",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Key Features",
+                  "url": null,
+                  "detail": "",
+                  "value": "Effective cooling relief from gas, indigestion and stomach ache\nSafe and natural",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Ingredients",
+                  "url": null,
+                  "detail": "",
+                  "value": "Each 1ml contains pudina satva ,excipients",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Unit",
+                  "url": null,
+                  "detail": "",
+                  "value": "30 ml",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                }
+              ],
+              "title": "Highlights"
+            }
+          ],
+          "mrp": 55,
+          "has_details": true,
+          "mapping_id": 94726713,
+          "brand_id": 7917,
+          "merchant_type": "Express",
+          "sbc_price": null,
+          "b2b_inventory": 3,
+          "badges": [],
+          "options": [
+            {
+              "values": [
+                {
+                  "mapping_id": 94726713,
+                  "selected": true,
+                  "enabled": true,
+                  "name": "30 ml",
+                  "value": null
+                }
+              ],
+              "type": 0,
+              "title": "Unit"
+            }
+          ],
+          "pid_mapping": {},
+          "derived_attributes": null,
+          "pricing_comment": "",
+          "level1_category": [
+            {
+              "id": 298,
+              "name": "Digestive Care"
+            }
+          ],
+          "unit_price": 1.7666666666666662,
+          "unit_type": "ml",
+          "rating_count": 0,
+          "unit": "30 ml",
+          "line_1": "",
+          "line_2": "",
+          "type": "Drops",
+          "brand": "Dabur Pudin Hara",
+          "inventory": 3,
+          "recommended_purchase_quantity": null,
+          "offer": "",
+          "price": 53,
+          "incentives": [],
+          "user_message_limit": 0,
+          "level0_category": [
+            {
+              "id": 287,
+              "name": "Pharma & Wellness"
+            }
+          ],
+          "rating_star_color": "#D23333",
+          "type_id": 10352,
+          "merchant_id": 31189,
+          "pl_flag": false,
+          "name": "Dabur Pudin Hara Active Drops",
+          "sbc_enabled": false,
+          "product_id": 990,
+          "rating_count_text": null,
+          "rating_flag": false,
+          "sbc_offer": "",
+          "leaf_category": {
+            "id": 298,
+            "name": "Digestive Care",
+            "level": "l1"
+          },
+          "received_at_ts": 0,
+          "reviews": {
+            "reviews_list": [],
+            "show_new_badge": true,
+            "title": "Customer Reviews"
+          },
+          "rating_text_color": "#D23333",
+          "image_url": "https://cdn.grofers.com/app/images/products/normal/pro_990.jpg?ts=1607583983",
+          "sbc_unit_price": 1.666666666666666,
+          "title": "",
+          "group_id": 525067,
+          "combo_flag": null,
+          "sliding_images": [
+            "https://cdn.grofers.com/app/images/products/full_screen/pro_990.jpg?ts=1607583983",
+            "https://cdn.grofers.com/app/images/products/sliding_image/990a.jpg",
+            "https://cdn.grofers.com/app/images/products/sliding_image/990b.jpg",
+            "https://cdn.grofers.com/app/images/products/sliding_image/990c.jpg",
+            "https://cdn.grofers.com/app/images/products/sliding_image/990d.jpg",
+            "https://cdn.grofers.com/app/images/products/sliding_image/990e.jpg"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "1017",
+    "product_data": {
+      "objects": [
+        {
+          "data": {
+            "title": "Similar Products",
+            "products": [
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 4578,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94793264",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "25 ml",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 3,
+                "line_1": "Vicks BabyRub Chest rubs & balms",
+                "line_2": "",
+                "type": "Chest rubs & balms",
+                "brand": "Vicks",
+                "offer": "",
+                "price": 101,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 379653,
+                "sbc_enabled": false,
+                "name": "Vicks BabyRub Chest rubs & balms",
+                "rating_flag": false,
+                "mrp": 105,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 7,
+                  "id": 997,
+                  "name": "Baby Pharma",
+                  "level": "l1"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/379653a.jpg?ts=1647193626",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p379653%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              }
+            ]
+          }
+        }
+      ],
+      "data": {
+        "variants_info": [
+          {
+            "rating": 0,
+            "attribute_collection": [
+              {
+                "attributes": [
+                  {
+                    "title": "Disclaimer",
+                    "url": null,
+                    "detail": "",
+                    "value": "Every effort is made to maintain the accuracy of all information. However, actual product packaging and materials may contain more and/or different information. The color of the product displayed in the image may differ from that received in the order. It is recommended not to solely rely on the details presented.",
+                    "help_text": "",
+                    "type": "shown_to_customer"
+                  },
+                  {
+                    "title": "Country of Origin",
+                    "url": null,
+                    "detail": "",
+                    "value": "India",
+                    "help_text": "",
+                    "type": "shown_to_customer"
+                  },
+                  {
+                    "title": "Customer Care Details",
+                    "url": null,
+                    "detail": "",
+                    "value": "Email: info@blinkit.com\nCustomer Care Number: 1-800-208-8888",
+                    "help_text": "",
+                    "type": "shown_to_customer"
+                  },
+                  {
+                    "title": "Product Class",
+                    "url": null,
+                    "detail": "",
+                    "value": "Packaged Goods",
+                    "help_text": "",
+                    "type": "shown_to_customer"
+                  },
+                  {
+                    "value": "LOVEEY TRADING INDIA PRIVATE LIMITED",
+                    "title": "Seller"
+                  },
+                  {
+                    "value": "2024-07-29",
+                    "title": "Expiry Date"
+                  }
+                ],
+                "title": "Info"
+              },
+              {
+                "attributes": [
+                  {
+                    "title": "Description",
+                    "url": null,
+                    "detail": "",
+                    "value": "Vicks VapoRub contains Menthol, Camphor and Eucalyptus Oil, known for their therapeutic benefits in cough and cold relief. It provides effective multi-symptom relief from 6 symptoms- Blocked nose, Breathing difficulty, Cough, Body Ache, Headache & Muscular stiffness\n\nDirections:\nApply on chest, throat and back for relief from 6 cold symptoms: Breathing difficulty, body ache, cough, blocked nose, headache and muscular stiffness. Start feeling relief in 5 minutes from cough, blocked nose and breathing difficulty. Steam Inhalation: Add 1-2 teaspoons to bowl of hot water (not boiling). Cover head with towel. Lean over bowl to form tent. Gently inhale for 10-15 mins. Repeat up to 3 times per day.\n\nIngredients:\nContent/100g: Pudinah Ke phool 2.82g, Karpoor 5.25g, Ajowan Ke Phool 0.10g, Tarpin Ka Tel 5.57ml, Nilgiri Tel 1.49ml, Jatiphal Tel 0.54ml, Base q.s.\n\nCaution: \n•Use as directed. For external use only.\n•Don’t take by mouth or place in nostrils. Keep out of reach of children.\n•Consult a doctor if illness persists for over a week, or if used by children less than 2 years or if pregnant /breastfeeding. Don’t use on broken / damaged / bandaged skin.\n•For Steam Inhalation – Don’t add Vaporub into boiling water. Don’t heat or reheat (using stove /microwave) Vaporub together with water. Steam inhalation is suitable for use on adults and children more than 6 years. Closely supervise children to avoid scalding. Use care when using with hot water.",
+                    "help_text": "",
+                    "type": "shown_to_customer"
+                  },
+                  {
+                    "title": "Key Features",
+                    "url": null,
+                    "detail": "",
+                    "value": "Get instant relief from 6 Cough and Cold symptoms.\nRelieves Cough, nasal congestion, body ache, headache, muscular stiffness and body ache.\nSuitable for steam inhalation on adults and children more than 6 years. Take one scoop of Vicks Vaporub and add it to hot water and inhale the vapors to get instant relief from the 6 Cold and Cough symptoms.\nSuitable for adults and children above 2 years old.\nContains natural ingredients like Menthol, Camphor and Eucalyptus Oil known for their therapeutic benefits in cold and cough relief.",
+                    "help_text": "",
+                    "type": "shown_to_customer"
+                  },
+                  {
+                    "title": "Unit",
+                    "url": null,
+                    "detail": "",
+                    "value": "50 ml",
+                    "help_text": "",
+                    "type": "shown_to_customer"
+                  }
+                ],
+                "title": "Highlights"
+              }
+            ],
+            "mrp": 145,
+            "has_details": true,
+            "mapping_id": 94730699,
+            "brand_id": 5774,
+            "merchant_type": "Express",
+            "sbc_price": null,
+            "b2b_inventory": 2,
+            "badges": [],
+            "pid_mapping": {},
+            "title": "",
+            "pricing_comment": "",
+            "level1_category": [
+              {
+                "parent_id": 287,
+                "level": null,
+                "id": 75,
+                "name": "Cough & Cold",
+                "m_score": null
+              }
+            ],
+            "unit_price": 2.8,
+            "unit_type": "ml",
+            "rating_count": 0,
+            "inventory": 2,
+            "line_1": "",
+            "line_2": "",
+            "type": "Chest rubs & balms",
+            "brand": "Vicks",
+            "offer": "",
+            "price": 140,
+            "unit": "50 ml",
+            "incentives": [],
+            "user_message_limit": 0,
+            "level0_category": [
+              {
+                "parent_id": 287,
+                "level": null,
+                "id": 287,
+                "name": "Pharma & Wellness",
+                "m_score": null
+              }
+            ],
+            "rating_star_color": "#D23333",
+            "type_id": 4578,
+            "merchant_id": 31189,
+            "pl_flag": false,
+            "name": "Vicks VapoRub Chest rubs & balms",
+            "sbc_enabled": false,
+            "product_id": 21656,
+            "rating_count_text": null,
+            "rating_flag": false,
+            "sbc_offer": "",
+            "leaf_category": {
+              "parent_id": 287,
+              "level": "l1",
+              "id": 75,
+              "name": "Cough & Cold",
+              "m_score": null
+            },
+            "received_at_ts": 0,
+            "reviews": {
+              "reviews_list": [],
+              "show_new_badge": true,
+              "title": "Customer Reviews"
+            },
+            "highlight_images": [],
+            "rating_text_color": "#D23333",
+            "image_url": "https://cdn.grofers.com/app/images/products/normal/pro_21656.jpg?ts=1635923134",
+            "sbc_unit_price": 2.8,
+            "group_id": 517753,
+            "options": [
+              {
+                "type": 0,
+                "values": [
+                  {
+                    "mapping_id": 94726746,
+                    "selected": false,
+                    "enabled": true,
+                    "name": "25 ml",
+                    "value": null
+                  },
+                  {
+                    "mapping_id": 94730699,
+                    "selected": true,
+                    "enabled": true,
+                    "name": "50 ml",
+                    "value": null
+                  }
+                ],
+                "title": "Unit"
+              }
+            ],
+            "sliding_images": [
+              "https://cdn.grofers.com/app/images/products/full_screen/pro_21656.jpg?ts=1635923134",
+              "https://cdn.grofers.com/app/images/products/sliding_image/21656a.jpg?ts=1635923134",
+              "https://cdn.grofers.com/app/images/products/sliding_image/21656b.jpg?ts=1635923134",
+              "https://cdn.grofers.com/app/images/products/sliding_image/21656c.jpg?ts=1635923134",
+              "https://cdn.grofers.com/app/images/products/sliding_image/21656d.jpg",
+              "https://cdn.grofers.com/app/images/products/sliding_image/21656e.jpg",
+              "https://cdn.grofers.com/app/images/products/sliding_image/21656f.jpg",
+              "https://cdn.grofers.com/app/images/products/sliding_image/21656g.jpg"
+            ]
+          }
+        ],
+        "product": {
+          "rating": 0,
+          "attribute_collection": [
+            {
+              "attributes": [
+                {
+                  "title": "Manufacturer Details",
+                  "url": null,
+                  "detail": "",
+                  "value": "Procter & Gamble. Katha, Himachal Pradesh 173205",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Marketed By",
+                  "url": null,
+                  "detail": "",
+                  "value": "Marketed by: Procter & Gamble Plaza, Cardinal Gracious Road, Chakala, Andheri East, Mumbai, Maharashtra 400099",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Disclaimer",
+                  "url": null,
+                  "detail": "",
+                  "value": "Every effort is made to maintain the accuracy of all information. However, actual product packaging and materials may contain more and/or different information. The color of the product displayed in the image may differ from that received in the order. It is recommended not to solely rely on the details presented.",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Country of Origin",
+                  "url": null,
+                  "detail": "",
+                  "value": "India",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Customer Care Details",
+                  "url": null,
+                  "detail": "",
+                  "value": "Email: info@blinkit.com\nCustomer Care Number: 1-800-208-8888",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Product Class",
+                  "url": null,
+                  "detail": "",
+                  "value": "Packaged Goods",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "value": "LOVEEY TRADING INDIA PRIVATE LIMITED",
+                  "title": "Seller"
+                },
+                {
+                  "value": "2024-07-29",
+                  "title": "Expiry Date"
+                }
+              ],
+              "title": "Info"
+            },
+            {
+              "attributes": [
+                {
+                  "title": "Description",
+                  "url": null,
+                  "detail": "",
+                  "value": "Vicks VapoRub contains Menthol, Camphor and Eucalyptus Oil, known for their therapeutic benefits in cough and cold relief. It provides effective multi-symptom relief from 6 symptoms- Blocked nose, Breathing difficulty, Cough, Body Ache, Headache & Muscular stiffness\n\nDirections:\nApply on chest, throat and back for relief from 6 cold symptoms: Breathing difficulty, body ache, cough, blocked nose, headache and muscular stiffness. Start feeling relief in 5 minutes from cough, blocked nose and breathing difficulty. Steam Inhalation: Add 1-2 teaspoons to bowl of hot water (not boiling). Cover head with towel. Lean over bowl to form tent. Gently inhale for 10-15 mins. Repeat up to 3 times per day.\n\nIngredients:\nContent/100g: Pudinah Ke phool 2.82g, Karpoor 5.25g, Ajowan Ke Phool 0.10g, Tarpin Ka Tel 5.57ml, Nilgiri Tel 1.49ml, Jatiphal Tel 0.54ml, Base q.s.\n\nCaution: \n• Use as directed. For external use only.\n• Don’t take by mouth or place in nostrils. Keep out of reach of children.\n• Consult a doctor if illness persists for over a week, or if used by children less than 2 years or if pregnant /breastfeeding. Don’t use on broken / damaged / bandaged skin.\n• For Steam Inhalation – Don’t add Vaporub into boiling water. Don’t heat or reheat (using stove /microwave) Vaporub together with water. Steam inhalation is suitable for use on adults and children more than 6 years. Closely supervise children to avoid scalding. Use care when using with hot water.\n\n\n",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Key Features",
+                  "url": null,
+                  "detail": "",
+                  "value": "Get instant relief from 6 Cough and Cold symptoms.\nRelieves Cough, nasal congestion, body ache, headache, muscular stiffness and body ache.\nSuitable for steam inhalation on adults and children more than 6 years. Take one scoop of Vicks Vaporub and add it to hot water and inhale the vapors to get instant relief from the 6 Cold and Cough symptoms.\nSuitable for adults and children above 2 years old.\nContains natural ingredients like Menthol, Camphor and Eucalyptus Oil known for their therapeutic benefits in cold and cough relief.",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Unit",
+                  "url": null,
+                  "detail": "",
+                  "value": "25 ml",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                }
+              ],
+              "title": "Highlights"
+            }
+          ],
+          "mrp": 90,
+          "has_details": true,
+          "mapping_id": 94726746,
+          "brand_id": 5774,
+          "merchant_type": "Express",
+          "sbc_price": null,
+          "b2b_inventory": 0,
+          "badges": [],
+          "options": [
+            {
+              "values": [
+                {
+                  "mapping_id": 94726746,
+                  "selected": true,
+                  "enabled": true,
+                  "name": "25 ml",
+                  "value": null
+                },
+                {
+                  "mapping_id": 94730699,
+                  "selected": false,
+                  "enabled": true,
+                  "name": "50 ml",
+                  "value": null
+                }
+              ],
+              "type": 0,
+              "title": "Unit"
+            }
+          ],
+          "pid_mapping": {},
+          "derived_attributes": null,
+          "pricing_comment": "",
+          "level1_category": [
+            {
+              "id": 75,
+              "name": "Cough & Cold"
+            }
+          ],
+          "unit_price": 3.48,
+          "unit_type": "ml",
+          "rating_count": 0,
+          "unit": "25 ml",
+          "line_1": "",
+          "line_2": "",
+          "type": "Chest rubs & balms",
+          "brand": "Vicks",
+          "inventory": 3,
+          "recommended_purchase_quantity": null,
+          "offer": "",
+          "price": 87,
+          "incentives": [],
+          "user_message_limit": 0,
+          "level0_category": [
+            {
+              "id": 287,
+              "name": "Pharma & Wellness"
+            }
+          ],
+          "rating_star_color": "#D23333",
+          "type_id": 4578,
+          "merchant_id": 31189,
+          "pl_flag": false,
+          "name": "Vicks VapoRub Chest rubs & balms",
+          "sbc_enabled": false,
+          "product_id": 1017,
+          "rating_count_text": null,
+          "rating_flag": false,
+          "sbc_offer": "",
+          "leaf_category": {
+            "id": 75,
+            "name": "Cough & Cold",
+            "level": "l1"
+          },
+          "received_at_ts": 0,
+          "reviews": {
+            "reviews_list": [],
+            "show_new_badge": true,
+            "title": "Customer Reviews"
+          },
+          "rating_text_color": "#D23333",
+          "image_url": "https://cdn.grofers.com/app/images/products/normal/pro_1017.jpg?ts=1635923134",
+          "sbc_unit_price": 3.12,
+          "title": "",
+          "group_id": 517753,
+          "combo_flag": null,
+          "sliding_images": [
+            "https://cdn.grofers.com/app/images/products/full_screen/pro_1017.jpg?ts=1635923134",
+            "https://cdn.grofers.com/app/images/products/sliding_image/1017a.jpg?ts=1635923134",
+            "https://cdn.grofers.com/app/images/products/sliding_image/1017b.jpg?ts=1635923134",
+            "https://cdn.grofers.com/app/images/products/sliding_image/1017c.jpg?ts=1635923134",
+            "https://cdn.grofers.com/app/images/products/sliding_image/1017d.jpg?ts=1635923134",
+            "https://cdn.grofers.com/app/images/products/sliding_image/1017e.jpg?ts=1635923134",
+            "https://cdn.grofers.com/app/images/products/sliding_image/1017f.jpg",
+            "https://cdn.grofers.com/app/images/products/sliding_image/1017g.jpg"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "429438",
+    "product_data": {
+      "objects": [
+        {
+          "data": {
+            "title": "Similar Products",
+            "products": [
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 1333,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94817640",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "400 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 1,
+                "line_1": "",
+                "line_2": "",
+                "type": "Health Drink",
+                "brand": "Nestle",
+                "offer": "",
+                "price": 501,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 394479,
+                "sbc_enabled": false,
+                "name": "Nestle NANGROW Nutritious Health Drink (Creamy Vanilla, for Growing Children)",
+                "rating_flag": false,
+                "mrp": 565,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 1590,
+                  "id": 1598,
+                  "name": "24 Months+",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/394479a.jpg?ts=1628080429",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p394479%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              }
+            ]
+          }
+        },
+        {
+          "data": {
+            "title": "You might also like",
+            "products": [
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 1333,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "126487557",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "2 x 500 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 2,
+                "line_1": "",
+                "line_2": "",
+                "type": "Health Drink",
+                "brand": "Complan",
+                "offer": "",
+                "price": 612,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 487396,
+                "sbc_enabled": false,
+                "name": "Complan Kesar Badam Nutrition and Health Drink - Pack of 2",
+                "rating_flag": false,
+                "mrp": 650,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 960,
+                  "id": 21,
+                  "name": "Health Drinks & Supplements",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/487396a.jpg",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p487396%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 1333,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94756946",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "500 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 8,
+                "line_1": "",
+                "line_2": "",
+                "type": "Health Drink",
+                "brand": "Complan",
+                "offer": "",
+                "price": 237,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 252877,
+                "sbc_enabled": false,
+                "name": "Complan Creamy Classic Nutrition and Health Drink",
+                "rating_flag": false,
+                "mrp": 249,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 960,
+                  "id": 21,
+                  "name": "Health Drinks & Supplements",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/252877a.jpg",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p252877%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 1333,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94729555",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "500 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 8,
+                "line_1": "",
+                "line_2": "",
+                "type": "Health Drink",
+                "brand": "Cadbury Bournvita",
+                "offer": "",
+                "price": 214,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 18646,
+                "sbc_enabled": false,
+                "name": "Cadbury Bournvita Chocolate Health Drink (500 g)",
+                "rating_flag": false,
+                "mrp": 214,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 960,
+                  "id": 1106,
+                  "name": "Chocolate Health Drinks",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/18646a.jpg",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p18646%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 1333,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94740262",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "1 kg",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 1,
+                "line_1": "",
+                "line_2": "",
+                "type": "Health Drink",
+                "brand": "Cadbury Bournvita",
+                "offer": "",
+                "price": 416,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 70216,
+                "sbc_enabled": false,
+                "name": "Cadbury Bournvita Chocolate Health Drink",
+                "rating_flag": false,
+                "mrp": 420,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 960,
+                  "id": 1106,
+                  "name": "Chocolate Health Drinks",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/70216a.jpg",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p70216%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 1333,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94866506",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "400 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 3,
+                "line_1": "",
+                "line_2": "",
+                "type": "Health Drink",
+                "brand": "Aptagrow",
+                "offer": "",
+                "price": 475,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 477323,
+                "sbc_enabled": false,
+                "name": "Aptagrow Chocolate Flavour Health Drink (For 3+ Years)",
+                "rating_flag": false,
+                "mrp": 545,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 1590,
+                  "id": 1598,
+                  "name": "24 Months+",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/477323a.jpg",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p477323%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 1333,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94726132",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "500 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 1,
+                "line_1": "",
+                "line_2": "",
+                "type": "Health Drink",
+                "brand": "Cadbury Bournvita",
+                "offer": "",
+                "price": 228,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 323,
+                "sbc_enabled": false,
+                "name": "Cadbury Bournvita 5 Star Magic Chocolate Health Drink",
+                "rating_flag": false,
+                "mrp": 228,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 960,
+                  "id": 1106,
+                  "name": "Chocolate Health Drinks",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/323a.jpg",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p323%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 1333,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94726944",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "5 x 65 ml",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 8,
+                "line_1": "Yakult Probiotic Health Drink",
+                "line_2": "",
+                "type": "Health Drink",
+                "brand": "Yakult",
+                "offer": "",
+                "price": 80,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 3471,
+                "sbc_enabled": false,
+                "name": "Yakult Probiotic Health Drink",
+                "rating_flag": false,
+                "mrp": 80,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 922,
+                  "id": 1091,
+                  "name": "Speciality Milk",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/3471a.jpg?ts=1639041569",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p3471%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 1333,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94731165",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "400 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 1,
+                "line_1": "",
+                "line_2": "",
+                "type": "Health Drink",
+                "brand": "PediaSure",
+                "offer": "",
+                "price": 560,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 23601,
+                "sbc_enabled": false,
+                "name": "PediaSure Vanilla Delight Health Drink",
+                "rating_flag": false,
+                "mrp": 590,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 960,
+                  "id": 21,
+                  "name": "Health Drinks & Supplements",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/23601a.jpg?ts=1629782634",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p23601%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 1333,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94764807",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "1 kg",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 2,
+                "line_1": "",
+                "line_2": "",
+                "type": "Health Drink",
+                "brand": "Ensure",
+                "offer": "",
+                "price": 1300,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 337184,
+                "sbc_enabled": false,
+                "name": "Ensure Vanilla Health Drink",
+                "rating_flag": false,
+                "mrp": 1300,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 960,
+                  "id": 21,
+                  "name": "Health Drinks & Supplements",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/337184a.jpg?ts=1657284631",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p337184%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 1333,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94763874",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "1 kg",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 9,
+                "line_1": "",
+                "line_2": "",
+                "type": "Health Drink",
+                "brand": "Complan",
+                "offer": "",
+                "price": 432,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 331339,
+                "sbc_enabled": false,
+                "name": "Complan Royale Chocolate Nutrition and Health Drink",
+                "rating_flag": false,
+                "mrp": 540,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 960,
+                  "id": 1106,
+                  "name": "Chocolate Health Drinks",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/331339a.jpg",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p331339%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              }
+            ]
+          }
+        }
+      ],
+      "data": {
+        "variants_info": [],
+        "product": {
+          "rating": 0,
+          "attribute_collection": [
+            {
+              "attributes": [
+                {
+                  "title": "Description",
+                  "url": null,
+                  "detail": "",
+                  "value": "New Lactogrow is a nutritious milk drink with immunonutrients, probiotic L. reuteri and other essential nutrients for your child’s happy growth. It contains essential nutrients that help support normal physical growth & development, brain development, cognitive development, immune system function and bones development, and is easy to digest. Everything you do, makes a difference. Along with the right nutrition and encouraging social interactions, playful activities like singing songs, drawing and building blocks, create an environment for your parenting to lay the foundation for your child’s happy growth. Suggested Servings: 2 serves per day. Recommended to be consumed along with variety of foods like cereals, pulses, fruits & vegetables for your 3-6 year old child. Storage: On opening, transfer the contents of the pack along with the pouch into a clean airtight container. Replace the lid tightly after every use and store in a cool, dry place. Ensure enclosed scoop is thoroughly washed and dried before use. After opening, use the contents within 3 weeks or best before date, whichever is earlier. Contraindication: Not for children with galactosemia or lactose intolerance. Use in immunocompromised infants (e.g. long-term steroid therapy, lymphoma, etc.) should be after consulting your doctor.\n",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Key Features",
+                  "url": null,
+                  "detail": "",
+                  "value": "A nutritious milk drink, in a delicious biscuity vanilla flavour\nContains Probiotic L.reuteri\nVit A, C, Iron, Zinc & Selenium to support normal Immune system function\nProtein, Vit B1, Vit B2, Folic Acid, Vit B12, Vit A to support normal Physical growth\nCalcium & Vitamin D to support normal Bone development\nHigh Quality Whey Protein which is easy digest\nBAG-IN-BOX FORMAT: For safety, hygiene and convenience\nNutritious Milk Drink for growing children/kids/toddlers, nutrients for immune system function and growth, (Milk Powder, Health and Nutrition)",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Ingredients",
+                  "url": null,
+                  "detail": "",
+                  "value": "Ingredients: Milk solids (58.6%), Maltodextrin, Demineralised whey (8.5%), Oil mix (Low erucic rapeseed oil, Coconut oil, High oleic sunflower oil, Sunflower oil, Antioxidant (304) and Sequestrant (330)), Soyabean oil, Corn oil, Minerals*, Emulsifier (Soya lecithin), Choline bitartrate, Vitamins#, Probiotic (Lactobacillus reuteri (DSM 17938)) and Acidity regulators (525 and 330).\n\nProbiotic (Lactobacillus reuteri (DSM 17938)) = 10^8 cfu/day based on recommended serve size.\n\nMinerals*: Calcium citrate, Potassium citrate, Sodium citrate, Potassium phosphate dibasic, Magnesium chloride, Ferrous sulphate, Zinc sulphate, Cupric sulphate, Manganese sulphate, Potassium iodide and Sodium selenite.\n\nVitamins#: Sodium ascorbate, dl-alpha-tocopheryl acetate, Nicotinamide, Calcium pantothenate, Pyridoxine hydrochloride, Thiamine mononitrate, Riboflavin, Retinyl acetate, Folic acid, Phytylmenaquinone, Ergocalciferol, d-Biotin and Cyanocobalamine.\n\nCarrier: Glucose syrup.\n\nCONTAINS ADDED FLAVOURS (NATURE IDENTICAL FLAVOURING SUBSTANCES)",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Unit",
+                  "url": null,
+                  "detail": "",
+                  "value": "400 g",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Usage",
+                  "url": null,
+                  "detail": "",
+                  "value": "Step 1: Boil drinking water for 5 minutes & leave it lukewarm.\nStep 2: Gradually mix 7 level scoops++ (33.5g) to 210ml of lukewarm water until powder is fully dissolved\nStep 3: Mixing with water more than 37°C may compromise benefits of the probiotics \nStep 4: Allow taste delicious with milk\n++1 scoop ~ 4.78g",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                }
+              ],
+              "title": "Highlights"
+            },
+            {
+              "attributes": [
+                {
+                  "title": "Shelf Life",
+                  "url": null,
+                  "detail": "",
+                  "value": "12 Months",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Manufacturer Details",
+                  "url": null,
+                  "detail": "",
+                  "value": "Nestle India Ltd., 100/101, World Trade Centre, Barakhamba Lane,New Delhi-110001.",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Marketed By",
+                  "url": null,
+                  "detail": "",
+                  "value": "Nestle India Ltd.",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "FSSAI License",
+                  "url": null,
+                  "detail": "",
+                  "value": "10012011000168",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Disclaimer",
+                  "url": null,
+                  "detail": "",
+                  "value": "Every effort is made to maintain accuracy of all information. However, actual product packaging and materials may contain more and/or different information. It is recommended not to solely rely on the information presented.",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Country of Origin",
+                  "url": null,
+                  "detail": "",
+                  "value": "India",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Customer Care Details",
+                  "url": null,
+                  "detail": "",
+                  "value": "Email: info@blinkit.com\nCustomer Care Number: 1-800-208-8888",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Product Class",
+                  "url": null,
+                  "detail": "",
+                  "value": "Packaged Goods",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "value": "LOVEEY TRADING INDIA PRIVATE LIMITED",
+                  "title": "Seller"
+                },
+                {
+                  "value": "2023-08-04",
+                  "title": "Expiry Date"
+                }
+              ],
+              "title": "Info"
+            }
+          ],
+          "mrp": 360,
+          "has_details": true,
+          "mapping_id": 94854338,
+          "brand_id": 4162,
+          "merchant_type": "Express",
+          "sbc_price": null,
+          "b2b_inventory": 3,
+          "badges": [],
+          "options": [
+            {
+              "values": [
+                {
+                  "mapping_id": 94854338,
+                  "selected": true,
+                  "enabled": true,
+                  "name": "400 g",
+                  "value": null
+                }
+              ],
+              "type": 0,
+              "title": "Unit"
+            }
+          ],
+          "pid_mapping": {},
+          "derived_attributes": null,
+          "pricing_comment": "",
+          "level1_category": [
+            {
+              "id": 1590,
+              "name": "Baby Food"
+            }
+          ],
+          "unit_price": 0.81,
+          "unit_type": "g",
+          "rating_count": 0,
+          "unit": "400 g",
+          "line_1": "",
+          "line_2": "",
+          "type": "Health Drink",
+          "brand": "Nestle",
+          "inventory": 3,
+          "recommended_purchase_quantity": null,
+          "offer": "10% OFF",
+          "price": 324,
+          "incentives": [],
+          "user_message_limit": 0,
+          "level0_category": [
+            {
+              "id": 7,
+              "name": "Baby Care"
+            }
+          ],
+          "rating_star_color": "#D23333",
+          "type_id": 1333,
+          "merchant_id": 31189,
+          "pl_flag": false,
+          "name": "Nestle Lactogrow Nutritious Health Drink",
+          "sbc_enabled": false,
+          "product_id": 429438,
+          "rating_count_text": null,
+          "rating_flag": false,
+          "sbc_offer": "",
+          "leaf_category": {
+            "id": 1598,
+            "name": "24 Months+",
+            "level": "l2"
+          },
+          "received_at_ts": 0,
+          "reviews": {
+            "reviews_list": [],
+            "show_new_badge": true,
+            "title": "Customer Reviews"
+          },
+          "rating_text_color": "#D23333",
+          "image_url": "https://cdn.grofers.com/app/images/products/normal/pro_429438.jpg?ts=1645512938",
+          "sbc_unit_price": 0.8525,
+          "title": "",
+          "group_id": 533779,
+          "combo_flag": null,
+          "sliding_images": [
+            "https://cdn.grofers.com/app/images/products/full_screen/pro_429438.jpg?ts=1645512938",
+            "https://cdn.grofers.com/app/images/products/sliding_image/429438a.jpg?ts=1645512938",
+            "https://cdn.grofers.com/app/images/products/sliding_image/429438b.jpg?ts=1645512938",
+            "https://cdn.grofers.com/app/images/products/sliding_image/429438c.jpg?ts=1645512938",
+            "https://cdn.grofers.com/app/images/products/sliding_image/429438d.jpg?ts=1645512938",
+            "https://cdn.grofers.com/app/images/products/sliding_image/429438e.jpg?ts=1645512938",
+            "https://cdn.grofers.com/app/images/products/sliding_image/429438f.jpg?ts=1645512938",
+            "https://cdn.grofers.com/app/images/products/sliding_image/429438g.jpg?ts=1645512938",
+            "https://cdn.grofers.com/app/images/products/sliding_image/429438h.jpg?ts=1645512938",
+            "https://cdn.grofers.com/app/images/products/sliding_image/429438i.jpg?ts=1645512938",
+            "https://cdn.grofers.com/app/images/products/sliding_image/429438j.jpg?ts=1645512938",
+            "https://cdn.grofers.com/app/images/products/sliding_image/429438k.jpg?ts=1645512938",
+            "https://cdn.grofers.com/app/images/products/sliding_image/429438l.jpg?ts=1645512938",
+            "https://cdn.grofers.com/app/images/products/sliding_image/429438m.jpg?ts=1640761329",
+            "https://cdn.grofers.com/app/images/products/sliding_image/429438n.jpg",
+            "https://cdn.grofers.com/app/images/products/sliding_image/429438o.jpg"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "480693",
+    "product_data": {
+      "objects": [
+        {
+          "data": {
+            "title": "Similar Products",
+            "products": [
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 10999,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "121354471",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "1 piece",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 1,
+                "line_1": "Plush Preg-oh! Midstream Pregnancy Test Kit",
+                "line_2": "",
+                "type": "Pregnancy Test Kit",
+                "brand": "Plush",
+                "offer": "",
+                "price": 100,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 483435,
+                "sbc_enabled": false,
+                "name": "Plush Preg-oh! Midstream Pregnancy Test Kit",
+                "rating_flag": false,
+                "mrp": 129,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 287,
+                  "id": 62,
+                  "name": "Healthcare Devices",
+                  "level": "l1"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/483435a.jpg",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p483435%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 10999,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "126837555",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "2 x 3 pieces",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 2,
+                "line_1": "Plush Preg-oh! Pregnancy Test Kit (Midstream) - Pack of 2",
+                "line_2": "",
+                "type": "Pregnancy Test Kit",
+                "brand": "Plush",
+                "offer": "",
+                "price": 524,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 487805,
+                "sbc_enabled": false,
+                "name": "Plush Preg-oh! Pregnancy Test Kit (Midstream) - Pack of 2",
+                "rating_flag": false,
+                "mrp": 698,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 287,
+                  "id": 62,
+                  "name": "Healthcare Devices",
+                  "level": "l1"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/487805a.jpg",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p487805%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              }
+            ]
+          }
+        }
+      ],
+      "data": {
+        "variants_info": [],
+        "product": {
+          "rating": 0,
+          "attribute_collection": [
+            {
+              "attributes": [
+                {
+                  "title": "Shelf Life",
+                  "url": null,
+                  "detail": "",
+                  "value": "24 months",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Manufacturer Details",
+                  "url": null,
+                  "detail": "",
+                  "value": "Urban Essentials India Pvt Ltd, Urban Essentials India Pvt Ltd, No 63, Pantheon Road, Egmore, Chennai - 600008",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Marketed By",
+                  "url": null,
+                  "detail": "",
+                  "value": "Urban Essentials India Pvt Ltd, No 63, Pantheon Road, Egmore, Chennai - 600008",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Disclaimer",
+                  "url": null,
+                  "detail": "",
+                  "value": "Every effort is made to maintain the accuracy of all information. However, actual product packaging and materials may contain more and/or different information. The color of the product displayed in the image may differ from that received in the order. It is recommended not to solely rely on the details presented.",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Country of Origin",
+                  "url": null,
+                  "detail": "",
+                  "value": "India",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Customer Care Details",
+                  "url": null,
+                  "detail": "",
+                  "value": "Email: info@blinkit.com\nCustomer Care Number: 1-800-208-8888",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Product Class",
+                  "url": null,
+                  "detail": "",
+                  "value": "Packaged Goods",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "value": "LOVEEY TRADING INDIA PRIVATE LIMITED",
+                  "title": "Seller"
+                },
+                {
+                  "value": "2024-07-29",
+                  "title": "Expiry Date"
+                }
+              ],
+              "title": "Info"
+            },
+            {
+              "attributes": [
+                {
+                  "title": "Unit",
+                  "url": null,
+                  "detail": "",
+                  "value": "3 pieces",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Packaging Type",
+                  "url": null,
+                  "detail": "",
+                  "value": "Pack",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                }
+              ],
+              "title": "Highlights"
+            }
+          ],
+          "mrp": 349,
+          "has_details": true,
+          "mapping_id": 111942285,
+          "brand_id": 11729,
+          "merchant_type": "Express",
+          "sbc_price": null,
+          "b2b_inventory": 0,
+          "badges": [],
+          "options": [
+            {
+              "values": [
+                {
+                  "mapping_id": 111942285,
+                  "selected": true,
+                  "enabled": true,
+                  "name": "3 pieces",
+                  "value": null
+                }
+              ],
+              "type": 0,
+              "title": "Unit"
+            }
+          ],
+          "pid_mapping": {},
+          "derived_attributes": null,
+          "pricing_comment": "",
+          "level1_category": [
+            {
+              "id": 62,
+              "name": "Healthcare Devices"
+            }
+          ],
+          "unit_price": 102.66666666666667,
+          "unit_type": "pieces",
+          "rating_count": 0,
+          "unit": "3 pieces",
+          "line_1": "Plush Preg-oh! Pregnancy Test Kit (Midstream)",
+          "line_2": "",
+          "type": "Pregnancy Test Kit",
+          "brand": "Plush",
+          "inventory": 4,
+          "recommended_purchase_quantity": null,
+          "offer": "11% OFF",
+          "price": 308,
+          "incentives": [],
+          "user_message_limit": 0,
+          "level0_category": [
+            {
+              "id": 287,
+              "name": "Pharma & Wellness"
+            }
+          ],
+          "rating_star_color": "#D23333",
+          "type_id": 10999,
+          "merchant_id": 31189,
+          "pl_flag": false,
+          "name": "Plush Preg-oh! Pregnancy Test Kit (Midstream)",
+          "sbc_enabled": false,
+          "product_id": 480693,
+          "rating_count_text": null,
+          "rating_flag": false,
+          "sbc_offer": "",
+          "leaf_category": {
+            "id": 62,
+            "name": "Healthcare Devices",
+            "level": "l1"
+          },
+          "received_at_ts": 0,
+          "reviews": {
+            "reviews_list": [],
+            "show_new_badge": true,
+            "title": "Customer Reviews"
+          },
+          "rating_text_color": "#D23333",
+          "image_url": "https://cdn.grofers.com/app/images/products/normal/pro_480693.jpg?ts=1653037820",
+          "sbc_unit_price": 102.66666666666667,
+          "title": "",
+          "group_id": 617192,
+          "combo_flag": null,
+          "sliding_images": [
+            "https://cdn.grofers.com/app/images/products/full_screen/pro_480693.jpg?ts=1653037820",
+            "https://cdn.grofers.com/app/images/products/sliding_image/480693a.jpg?ts=1650977521",
+            "https://cdn.grofers.com/app/images/products/sliding_image/480693b.jpg?ts=1650977521",
+            "https://cdn.grofers.com/app/images/products/sliding_image/480693c.jpg?ts=1650977521",
+            "https://cdn.grofers.com/app/images/products/sliding_image/480693d.jpg?ts=1650977521",
+            "https://cdn.grofers.com/app/images/products/sliding_image/480693e.jpg?ts=1650977521",
+            "https://cdn.grofers.com/app/images/products/sliding_image/480693f.jpg?ts=1650977521"
+          ]
+        }
+      }
+    }
+  }
+]

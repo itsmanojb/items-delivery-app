@@ -5,11 +5,11 @@ import {
   FaInstagram,
   FaLinkedinIn,
 } from 'react-icons/fa';
-import { convertTextToURLSlug, getCategoryLink } from '../utils/helper';
-import AppStoreLogo from '../assets/images/app-store.webp';
-import PlayStoreLogo from '../assets/images/play-store.webp';
-import Brands from '../lib/data/brandsList.json';
-import Categories from '../lib/data/categories.json';
+import { convertTextToURLSlug, getCategoryLink } from '../../utils/helper';
+import AppStoreLogo from '../../assets/images/app-store.webp';
+import PlayStoreLogo from '../../assets/images/play-store.webp';
+import Brands from '../../lib/data/brandsList.json';
+import Categories from '../../lib/data/categories.json';
 
 type BrandLink = {
   text: string;
@@ -153,7 +153,7 @@ const Footer = () => {
                 <div className="w-[98px] h-[66px] border rounded-[4px] flex items-center justify-center p-2">
                   {partner.logoName ? (
                     <img
-                      src={`${partner.logoName}.webp`}
+                      src={`/${partner.logoName}.webp`}
                       alt={partner.alt}
                       className="h-14 w-14 object-cover"
                     />

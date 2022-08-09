@@ -89,7 +89,7 @@ html {
     box-shadow: var(--floatingBtn-shadow);
   }
   ._add_to_cart {
-    @apply h-9 w-[90px] rounded-lg uppercase font-bold text-sm text-green-700;
+    @apply h-full w-full rounded-lg uppercase font-bold text-green-700;
     background: rgb(247, 255, 249);
     border: 0.5px solid rgb(12, 131, 31);
   }
@@ -105,6 +105,15 @@ html {
   ._shadow_sticky {
     box-shadow: var(--sticky-bottom-shadow);
   }
+}
+
+._loader {
+  box-sizing: border-box;
+  animation: loading 1s linear infinite alternate;
+}
+
+input[type='radio'] {
+  accent-color: rgb(12, 131, 31);
 }
 
 @media screen and (max-width: 640px) {
@@ -158,5 +167,20 @@ html {
 
   100% {
     transform: rotate(0deg);
+  }
+}
+
+@keyframes loading {
+  0% {
+    box-shadow: -38px -6px, -14px 6px, 14px -6px;
+  }
+  33% {
+    box-shadow: -38px 6px, -14px -6px, 14px 6px;
+  }
+  66% {
+    box-shadow: -38px -6px, -14px 6px, 14px -6px;
+  }
+  100% {
+    box-shadow: -38px 6px, -14px -6px, 14px 6px;
   }
 }

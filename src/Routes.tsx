@@ -1,29 +1,49 @@
+import React, { Suspense } from 'react';
 import { Routes, Route } from 'react-router-dom';
-import {
-  Home,
-  BrandView,
-  CategoryView,
-  DealView,
-  ProductView,
-  UserAccount,
-  UserAddresses,
-  UserOrders,
-  Error404,
-} from './pages';
+import { Home, Error404 } from './pages';
+import { Loader } from './components/shared';
+import Layout from './components/Layout';
+
+const CategoryView = React.lazy(() => import('./pages/CategoryView'));
+const BrandView = React.lazy(() => import('./pages/BrandView'));
+const ProductView = React.lazy(() => import('./pages/ProductView'));
 
 const AppWithRouting = () => {
   return (
     <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path="*" element={<Error404 />} />
-      <Route path="/category/:cn" element={<CategoryView />} />
-      <Route path="/brand/:bn" element={<BrandView />} />
-      <Route path="/deals/:dn" element={<DealView />} />
-      <Route path="/product/:prn" element={<ProductView />} />
-      <Route path="/account" element={<UserAccount />}>
-        <Route path="addressess" element={<UserAddresses />} />
-        <Route path="orders" element={<UserOrders />} />
-      </Route>
+      <Route path="/" element={<Layout component={<Home />} />} />
+      <Route
+        path="/category/:cn"
+        element={
+          <Suspense fallback={<Loader fullscreen />}>
+            <Layout component={<CategoryView />} />
+          </Suspense>
+        }
+      />
+      <Route
+        path="/brand/:bn"
+        element={
+          <Suspense fallback={<Loader fullscreen />}>
+            <Layout component={<BrandView />} />
+          </Suspense>
+        }
+      />
+      <Route
+        path="/prn/:name/prid/:id"
+        element={
+          <Suspense fallback={<Loader fullscreen />}>
+            <Layout component={<ProductView />} />
+          </Suspense>
+        }
+      />
+      <Route
+        path="/not-found"
+        element={<Layout noFooter={true} component={<Error404 />} />}
+      />
+      <Route
+        path="*"
+        element={<Layout noFooter={true} component={<Error404 />} />}
+      />
     </Routes>
   );
 };

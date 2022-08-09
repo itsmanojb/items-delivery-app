@@ -1,8 +1,12 @@
-import AddToCartButton from './AddToCartButton';
+import { useNavigate } from 'react-router-dom';
+import AddToCartButton from './shared/AddToCartButton';
 import { CartProduct, ProductItem } from '../utils/types';
+import { convertTextToURLSlug } from '../utils/helper';
 
 const ProductCard = ({ data }: { data: ProductItem }) => {
+  const navigate = useNavigate();
   const { product_id, name, unit, price, mrp, image_url, discount } = data;
+
   const cartProduct: CartProduct = {
     id: product_id.toString(),
     title: name,
@@ -11,8 +15,19 @@ const ProductCard = ({ data }: { data: ProductItem }) => {
     price,
     mrp,
   };
+
+  const handleProductClick = () => {
+    const pname = convertTextToURLSlug(data.name);
+    navigate({
+      pathname: `/prn/${pname}/prid/${data.product_id}`,
+    });
+  };
+
   return (
-    <div className="_card h-[270px] w-[180px] relative flex cursor-pointer mb-2 mx-auto sm:mx-0">
+    <div
+      className="_card h-[270px] w-[180px] relative flex cursor-pointer mb-2 mx-auto sm:mx-0"
+      onClick={handleProductClick}
+    >
       {data.offer && (
         <div className="absolute bg-blue-600 text-white px-3 py-1 text-xs font-medium -left-[1px] top-4 rounded-tr-xl rounded-br-xl uppercase">
           {data.offer}
@@ -39,7 +54,7 @@ const ProductCard = ({ data }: { data: ProductItem }) => {
               <span className="text-[14px] _text-default">₹{mrp}</span>
             </div>
           )}
-          <div>
+          <div className="h-9 w-[90px]">
             <AddToCartButton product={cartProduct} />
           </div>
         </div>
