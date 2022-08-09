@@ -10,11 +10,11 @@ const responsive = {
     items: 5,
   },
   desktop: {
-    breakpoint: { max: 1440, min: 1024 },
+    breakpoint: { max: 1440, min: 992 },
     items: 4,
   },
   tablet: {
-    breakpoint: { max: 1024, min: 600 },
+    breakpoint: { max: 992, min: 600 },
     items: 3,
   },
   mobile: {
@@ -44,7 +44,7 @@ const VarientItem = ({
     >
       <div className="py-2 px-3 flex items-center">
         <div className="w-8 pl-1">
-          <input type="radio" checked={data.selected} />
+          <input type="radio" checked={data.selected} readOnly />
         </div>
         <div>
           <p className="font-bold text-[15px]">{data.unit}</p>
@@ -54,7 +54,7 @@ const VarientItem = ({
           </span>
         </div>
       </div>
-      {data.selected && (
+      {data.selected && data.offer && (
         <div className="text-[11px] text-center font-bold bg-[#ecffec] border-t border-[#b1dc9c] text-[#54b226] py-2 px-3">
           {data.offer}
         </div>

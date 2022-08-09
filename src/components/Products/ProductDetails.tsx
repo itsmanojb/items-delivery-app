@@ -21,9 +21,6 @@ const ProductDetails = (props: any) => {
   const currentProduct = allVarients[itemIndex];
   const productAsCartItem = getProductForCart(currentProduct);
 
-  console.log('product', product);
-  console.log('varients', varients);
-
   return (
     <div className="relative grid lg:grid-cols-2 lg:border-b _border-muted -mt-2">
       <div className="lg:border-r _border-muted">
@@ -35,7 +32,7 @@ const ProductDetails = (props: any) => {
       </div>
       <div className="static lg:block">
         <div className="relative top-0 lg:sticky lg:top-[100px]">
-          <div className="px-4 lg:pl-12 lg:pt-12">
+          <div className="px-4 lg:pl-12 lg:pt-8">
             <Breadcrumb {...currentProduct} />
             <h1 className="text-[28px] leading-tight py-3">
               {currentProduct.name}
@@ -55,7 +52,13 @@ const ProductDetails = (props: any) => {
             <div className="my-4 h-12 w-[130px]">
               <AddToCartButton size="lg" product={productAsCartItem} />
             </div>
-            <div className="pb-4">
+            <div className="lg:hidden mt-8">
+              <h4 className="text-2xl font-medium _text-muted">
+                Product Details
+              </h4>
+              <ProductInfoList {...currentProduct.attribute_collection} />
+            </div>
+            <div className="pb-4 hidden lg:block">
               <h4 className="font-bold _text-default text-[15px] py-3">
                 Why shop from bringit?
               </h4>

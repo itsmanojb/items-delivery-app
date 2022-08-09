@@ -37,6 +37,10 @@ const AppWithRouting = () => {
         }
       />
       <Route
+        path="/not-found"
+        element={<Layout noFooter={true} component={<Error404 />} />}
+      />
+      <Route
         path="*"
         element={<Layout noFooter={true} component={<Error404 />} />}
       />

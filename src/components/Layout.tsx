@@ -1,3 +1,4 @@
+import { useEffect } from 'react';
 import Header from './shared/Header';
 import Footer from './shared/Footer';
 import BrandPromotion from './BrandPromotion';
@@ -14,6 +15,10 @@ type Props = {
 const Layout = ({ noFooter, component }: Props) => {
   const modalShown = useAppSelector((state) => state.modal.visible);
   const cartShown = useAppSelector((state) => state.ui.cartPanel);
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
 
   return (
     <>

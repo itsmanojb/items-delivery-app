@@ -112,6 +112,10 @@ html {
   animation: loading 1s linear infinite alternate;
 }
 
+input[type='radio'] {
+  accent-color: rgb(12, 131, 31);
+}
+
 @media screen and (max-width: 640px) {
   ._nav {
     box-shadow: none;

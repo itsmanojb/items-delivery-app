@@ -4,46 +4,8 @@
     "product_data": {
       "objects": [
         {
-          "tracking": {
-            "widget_meta": {
-              "name": "Ptype Brand Collection",
-              "title": "Similar Products",
-              "minimum_time_between_impressions": 5000,
-              "variation_id": null,
-              "revision_id": null,
-              "id": null
-            }
-          },
-          "header_config": {
-            "title": "Similar Products",
-            "button_deeplink": "grofers://collection-products?collection_id=",
-            "theme": "LIGHT",
-            "title_image_url": null,
-            "background_image_url": null,
-            "bg_color": "#ffffff",
-            "show_header": true,
-            "show_button": false,
-            "button_text": "see more"
-          },
-          "type": 21,
-          "is_react_widget": false,
-          "action": {},
-          "grid_span": 12,
           "data": {
-            "merchant": {
-              "delivery_type": "",
-              "delivery_charge": 19,
-              "name": "Super Store - Kolkata NSC Bose Road ES30",
-              "min_order": 99,
-              "actual_name": "",
-              "id": 31189
-            },
-            "subtitle": "",
-            "cart_sync_required": true,
             "title": "Similar Products",
-            "title_action": "see more",
-            "show_view_all": false,
-            "theme": "LIGHT",
             "products": [
               {
                 "rating": 0,
@@ -413,63 +375,12 @@
                 "action": "grofers://product?expr=%7B%22and%22:%5B%22p390789%22,%22ch%22%5D%7D&restricted=true",
                 "partnership_offers": null
               }
-            ],
-            "collection_id": "",
-            "deeplink_action": "grofers://collection-products?collection_id=",
-            "product_name_no_of_lines": 2
-          },
-          "layout_config": {
-            "elevation": 4,
-            "bg_color": "#ffffff",
-            "height": 264,
-            "min_height": 264,
-            "margin_right": 0,
-            "margin_top": 8,
-            "margin_left": 0,
-            "visible_cards": 2.22
+            ]
           }
         },
         {
-          "tracking": {
-            "widget_meta": {
-              "name": "Ptype Collection",
-              "title": "You might also like",
-              "minimum_time_between_impressions": 5000,
-              "variation_id": null,
-              "revision_id": null,
-              "id": null
-            }
-          },
-          "header_config": {
-            "title": "You might also like",
-            "button_deeplink": "grofers://collection-products?collection_id=",
-            "theme": "LIGHT",
-            "title_image_url": null,
-            "background_image_url": null,
-            "bg_color": "#ffffff",
-            "show_header": true,
-            "show_button": false,
-            "button_text": "see more"
-          },
-          "type": 21,
-          "is_react_widget": false,
-          "action": {},
-          "grid_span": 12,
           "data": {
-            "merchant": {
-              "delivery_type": "",
-              "delivery_charge": 19,
-              "name": "Super Store - Kolkata NSC Bose Road ES30",
-              "min_order": 99,
-              "actual_name": "",
-              "id": 31189
-            },
-            "subtitle": "",
-            "cart_sync_required": true,
             "title": "You might also like",
-            "title_action": "see more",
-            "show_view_all": false,
-            "theme": "LIGHT",
             "products": [
               {
                 "rating": 0,
@@ -701,34 +612,11 @@
                 "action": "grofers://product?expr=%7B%22and%22:%5B%22p477840%22,%22ch%22%5D%7D&restricted=true",
                 "partnership_offers": null
               }
-            ],
-            "collection_id": "",
-            "deeplink_action": "grofers://collection-products?collection_id=",
-            "product_name_no_of_lines": 2
-          },
-          "layout_config": {
-            "elevation": 4,
-            "bg_color": "#ffffff",
-            "height": 264,
-            "min_height": 264,
-            "margin_right": 0,
-            "margin_top": 8,
-            "margin_left": 0,
-            "visible_cards": 2.22
+            ]
           }
         }
       ],
       "data": {
-        "merchant": {
-          "rating": 0,
-          "delivery_charge": 19,
-          "name": "Super Store - Kolkata NSC Bose Road ES30",
-          "delivered_by_text": "Delivered by Grofers",
-          "rating_flag": false,
-          "min_order": 99,
-          "delivered_by_type": "grofers",
-          "id": 31189
-        },
         "variants_info": [
           {
             "rating": 0,
@@ -1166,6 +1054,259 @@
             "https://cdn.grofers.com/app/images/products/sliding_image/434549i.jpg?ts=1633497471",
             "https://cdn.grofers.com/app/images/products/sliding_image/434549j.jpg?ts=1633497471",
             "https://cdn.grofers.com/app/images/products/sliding_image/434549k.jpg"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "990",
+    "product_data": {
+      "objects": [
+        {
+          "data": {
+            "title": "You might also like",
+            "products": [
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 10352,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94855962",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "30 ml",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 3,
+                "line_1": "",
+                "line_2": "",
+                "type": "Drops",
+                "brand": "Dabur",
+                "offer": "",
+                "price": 156,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 436306,
+                "sbc_enabled": false,
+                "name": "Dabur 100% Ayurvedic Immunity Booster Tulsi Drops",
+                "rating_flag": false,
+                "mrp": 195,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 287,
+                  "id": 308,
+                  "name": "Supplements",
+                  "level": "l1"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/436306a.jpg",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p436306%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              }
+            ]
+          }
+        }
+      ],
+      "data": {
+        "variants_info": [],
+        "product": {
+          "rating": 0,
+          "attribute_collection": [
+            {
+              "attributes": [
+                {
+                  "title": "Shelf Life",
+                  "url": null,
+                  "detail": "",
+                  "value": "24 months",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Marketed By",
+                  "url": null,
+                  "detail": "",
+                  "value": "Dabur India Ltd , 8/3 Asaf Ali Road , New Delhi -110002",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Disclaimer",
+                  "url": null,
+                  "detail": "",
+                  "value": "Every effort is made to maintain the accuracy of all information. However, actual product packaging and materials may contain more and/or different information. The color of the product displayed in the image may differ from that received in the order. It is recommended not to solely rely on the details presented.",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Country of Origin",
+                  "url": null,
+                  "detail": "",
+                  "value": "India",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Customer Care Details",
+                  "url": null,
+                  "detail": "",
+                  "value": "Email: info@blinkit.com\nCustomer Care Number: 1-800-208-8888",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Product Class",
+                  "url": null,
+                  "detail": "",
+                  "value": "Packaged Goods",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "value": "LOVEEY TRADING INDIA PRIVATE LIMITED",
+                  "title": "Seller"
+                },
+                {
+                  "value": "2024-07-29",
+                  "title": "Expiry Date"
+                }
+              ],
+              "title": "Info"
+            },
+            {
+              "attributes": [
+                {
+                  "title": "Description",
+                  "url": null,
+                  "detail": "",
+                  "value": "Pudin Hara Active has pudina ka satva, a known and powerful ayurvedic ingredient which is natural, provides cooling effect and helps effectively in stomach pain, gas and indigestion. It gives fast relief from stomach ache, indigestion and gas. Totally safe and natural, Pudin Hara is a fast-action cure for stomach disorders.",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Key Features",
+                  "url": null,
+                  "detail": "",
+                  "value": "Effective cooling relief from gas, indigestion and stomach ache\nSafe and natural",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Ingredients",
+                  "url": null,
+                  "detail": "",
+                  "value": "Each 1ml contains pudina satva ,excipients",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Unit",
+                  "url": null,
+                  "detail": "",
+                  "value": "30 ml",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                }
+              ],
+              "title": "Highlights"
+            }
+          ],
+          "mrp": 55,
+          "has_details": true,
+          "mapping_id": 94726713,
+          "brand_id": 7917,
+          "merchant_type": "Express",
+          "sbc_price": null,
+          "b2b_inventory": 3,
+          "badges": [],
+          "options": [
+            {
+              "values": [
+                {
+                  "mapping_id": 94726713,
+                  "selected": true,
+                  "enabled": true,
+                  "name": "30 ml",
+                  "value": null
+                }
+              ],
+              "type": 0,
+              "title": "Unit"
+            }
+          ],
+          "pid_mapping": {},
+          "derived_attributes": null,
+          "pricing_comment": "",
+          "level1_category": [
+            {
+              "id": 298,
+              "name": "Digestive Care"
+            }
+          ],
+          "unit_price": 1.7666666666666662,
+          "unit_type": "ml",
+          "rating_count": 0,
+          "unit": "30 ml",
+          "line_1": "",
+          "line_2": "",
+          "type": "Drops",
+          "brand": "Dabur Pudin Hara",
+          "inventory": 3,
+          "recommended_purchase_quantity": null,
+          "offer": "",
+          "price": 53,
+          "incentives": [],
+          "user_message_limit": 0,
+          "level0_category": [
+            {
+              "id": 287,
+              "name": "Pharma & Wellness"
+            }
+          ],
+          "rating_star_color": "#D23333",
+          "type_id": 10352,
+          "merchant_id": 31189,
+          "pl_flag": false,
+          "name": "Dabur Pudin Hara Active Drops",
+          "sbc_enabled": false,
+          "product_id": 990,
+          "rating_count_text": null,
+          "rating_flag": false,
+          "sbc_offer": "",
+          "leaf_category": {
+            "id": 298,
+            "name": "Digestive Care",
+            "level": "l1"
+          },
+          "received_at_ts": 0,
+          "reviews": {
+            "reviews_list": [],
+            "show_new_badge": true,
+            "title": "Customer Reviews"
+          },
+          "rating_text_color": "#D23333",
+          "image_url": "https://cdn.grofers.com/app/images/products/normal/pro_990.jpg?ts=1607583983",
+          "sbc_unit_price": 1.666666666666666,
+          "title": "",
+          "group_id": 525067,
+          "combo_flag": null,
+          "sliding_images": [
+            "https://cdn.grofers.com/app/images/products/full_screen/pro_990.jpg?ts=1607583983",
+            "https://cdn.grofers.com/app/images/products/sliding_image/990a.jpg",
+            "https://cdn.grofers.com/app/images/products/sliding_image/990b.jpg",
+            "https://cdn.grofers.com/app/images/products/sliding_image/990c.jpg",
+            "https://cdn.grofers.com/app/images/products/sliding_image/990d.jpg",
+            "https://cdn.grofers.com/app/images/products/sliding_image/990e.jpg"
           ]
         }
       }
