@@ -1,3 +1,6 @@
+import ChemistProducts from '../lib/data/products/chemistProducts.json';
+import DairyProducts from '../lib/data/products/dairyProducts.json';
+import SnacksProducts from '../lib/data/products/snacksProducts.json';
 import { CartProduct, Category, ProductItem, ProductItemDetailed } from "./types";
 
 const convertTextToURLSlug = (text: string): string => {
@@ -34,5 +37,17 @@ const getProductForCart = (product: ProductItem | ProductItemDetailed): CartProd
   }
 }
 
+const getProducts = () => {
+  const products = [...ChemistProducts, ...DairyProducts, ...SnacksProducts];
+  return products;
+}
 
-export { convertTextToURLSlug, getCategoryLink, shuffleItems, getProductForCart }
+const getProductById = (id: string | undefined ) => {
+  if(id) {
+    const product = getProducts().filter((item) => item.id === id)[0]
+    return product || null
+  }
+}
+
+
+export { convertTextToURLSlug, getCategoryLink, shuffleItems, getProductForCart, getProductById }

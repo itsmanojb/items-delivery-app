@@ -22,7 +22,7 @@ const CartButtonBig = () => {
           <span className="tracking-tight text-sm">
             ₹{billAmount}{' '}
             <span className="text-xs font-normal">
-              <del className="opacity-80">{totalAmount}</del> plus taxes
+              <del className="opacity-80">₹{totalAmount}</del> plus taxes
             </span>{' '}
           </span>
         </div>

@@ -1,0 +1,4139 @@
+[
+  {
+    "id": "406724",
+    "product_data": {
+      "objects": [
+        {
+          "data": {
+            "title": "Similar Products",
+            "products": [
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 12110,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94756608",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "1.2 kg",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 3,
+                "line_1": "Kellogg's With Protein & Fibre of 1 Roti in each bowl, High in Calcium & Protein, With 10 Essential Vitamins & Minerals, Breakfast Cereals Chocos",
+                "line_2": "",
+                "type": "Chocos",
+                "brand": "Kellogg's",
+                "offer": "",
+                "price": 499,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 247493,
+                "sbc_enabled": false,
+                "name": "Kellogg's With Protein & Fibre of 1 Roti in each bowl, High in Calcium & Protein, With 10 Essential Vitamins & Minerals, Breakfast Cereals Chocos",
+                "rating_flag": false,
+                "mrp": 499,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 954,
+                  "id": 1739,
+                  "name": "Kids Cereals",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/247493a.jpg",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p247493%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 12110,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94856351",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "375 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 3,
+                "line_1": "Kellogg's - Moons & Stars Chocos (Pouch)",
+                "line_2": "",
+                "type": "Chocos",
+                "brand": "Kellogg's",
+                "offer": "",
+                "price": 190,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 437238,
+                "sbc_enabled": false,
+                "name": "Kellogg's Chocos - Moons & Stars",
+                "rating_flag": false,
+                "mrp": 190,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 954,
+                  "id": 1739,
+                  "name": "Kids Cereals",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/437238a.jpg",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p437238%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 12110,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94856350",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "385 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 7,
+                "line_1": "Kellogg's Chocos (Pouch)",
+                "line_2": "",
+                "type": "Chocos",
+                "brand": "Kellogg's",
+                "offer": "",
+                "price": 185,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 437237,
+                "sbc_enabled": false,
+                "name": "Kellogg's Chocos",
+                "rating_flag": false,
+                "mrp": 185,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 954,
+                  "id": 1739,
+                  "name": "Kids Cereals",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/437237a.jpg",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p437237%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 12110,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94730272",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "700 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 6,
+                "line_1": "Kellogg's With Protein & Fibre of 1 Roti in each bowl, High in Calcium & Protein, With 10 Essential Vitamins & Minerals, Breakfast Cereals Chocos (Carton)",
+                "line_2": "",
+                "type": "Chocos",
+                "brand": "Kellogg's",
+                "offer": "",
+                "price": 330,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 19811,
+                "sbc_enabled": false,
+                "name": "Kellogg's With Protein & Fibre of 1 Roti in each bowl, High in Calcium & Protein, With 10 Essential Vitamins & Minerals, Breakfast Cereals Chocos",
+                "rating_flag": false,
+                "mrp": 330,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 954,
+                  "id": 1739,
+                  "name": "Kids Cereals",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/19811a.jpg?ts=1597985784",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p19811%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 12110,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94848011",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "325 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 6,
+                "line_1": "Kellogg's - Magic Hearts Chocos",
+                "line_2": "",
+                "type": "Chocos",
+                "brand": "Kellogg's",
+                "offer": "",
+                "price": 199,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 422810,
+                "sbc_enabled": false,
+                "name": "Kellogg's Chocos - Magic Hearts",
+                "rating_flag": false,
+                "mrp": 199,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 954,
+                  "id": 1739,
+                  "name": "Kids Cereals",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/422810a.jpg",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p422810%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 12110,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94856352",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "375 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 8,
+                "line_1": "Kellogg's Crunchy Bites Cereals Chocos (Pouch)",
+                "line_2": "",
+                "type": "Chocos",
+                "brand": "Kellogg's",
+                "offer": "",
+                "price": 190,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 437239,
+                "sbc_enabled": false,
+                "name": "Kellogg's Crunchy Bites Cereals Chocos",
+                "rating_flag": false,
+                "mrp": 190,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 954,
+                  "id": 1739,
+                  "name": "Kids Cereals",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/437239a.jpg",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p437239%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              }
+            ]
+          }
+        },
+        {
+          "data": {
+            "title": "You might also like",
+            "products": [
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 12110,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "112584197",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "375 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 2,
+                "line_1": "Tata Soulfull Ragi Bites (No Maida) Chocos (Box)",
+                "line_2": "",
+                "type": "Chocos",
+                "brand": "Tata Soulfull",
+                "offer": "",
+                "price": 213,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 480924,
+                "sbc_enabled": false,
+                "name": "Tata Soulfull Ragi Bites Chocos (No Maida)",
+                "rating_flag": false,
+                "mrp": 219,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 954,
+                  "id": 1098,
+                  "name": "Flakes",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/480924a.jpg?ts=1656335394",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p480924%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              }
+            ]
+          }
+        }
+      ],
+      "data": {
+        "variants_info": [],
+        "product": {
+          "rating": 0,
+          "attribute_collection": [
+            {
+              "attributes": [
+                {
+                  "title": "Description",
+                  "url": null,
+                  "detail": "",
+                  "value": "Nourishing & Solid Breakfast/Snack: Kellogg’s Chocos Moons & Stars is a nourishing & solid breakfast/evening snack option for kids. It makes milk chocolaty & crunchy and fills your kid’s tummy, giving them the Energy to stay active & fun! Packed with Nutrients: Kellogg’s Chocos Moons & Stars is made with Whole Grain & is source of Fibre that fills your kid’s tummy. It is high in Calcium & Protein that fuel your child’s growing body. It has 10 essential vitamins & minerals like Iron, Zinc, B Vitamins & Vitamin C for your active kids. Gives your kid 66% Calcium & 31% Protein of a Day’s Requirement: 30g Kellogg’s Chocos Moons & Stars + 200ml cow’s milk provides 66% of the day’s RDA for Calcium and 31% of the day’s RDA for Protein. Makes Milk Chocolaty & Crunchy: Kellogg’s Chocos Moons & Stars makes milk chocolaty and crunchy so your kid will love it!",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Key Features",
+                  "url": null,
+                  "detail": "",
+                  "value": "Kellogg’s Chocos Moons & Stars is a nourishing & solid breakfast for kids. It makes milk chocolaty and delicious \n\nKellogg’s Chocos Moons & Stars has the goodness of Whole Grain & is source of Fibre. It is high in Calcium & Protein that is essential for your child’s growing body.  \n\nKellogg’s Moons & Stars is enriched with 10 essential vitamins & minerals like Iron, Zinc, B Vitamins & Vitamin C for your active kids.  \n\nKellogg’s Chocos Moons & Stars + 200ml cow’s milk provides 66% of the day’s RDA for Calcium and 31% of the day’s RDA for Protein",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Ingredients",
+                  "url": null,
+                  "detail": "",
+                  "value": "Whole Wheat Flour (28%), Sugar, Wheat Flour, Corn Flour, Cocoa Solids (Defatted - 5%), Edible Vegetable Oil, Minerals, Malt Extract, Iodized Salt, Colour (INS 150D), Vitamins and Antioxidant (INS 320), Contains Permitted Natural Colour and Added Flavouring Substances - Cream, Contains Gluten, May Contain Traces Of Almond (Tree Nut)",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Unit",
+                  "url": null,
+                  "detail": "",
+                  "value": "1.2 kg",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Packaging Type",
+                  "url": null,
+                  "detail": "",
+                  "value": "Pouch",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                }
+              ],
+              "title": "Highlights"
+            },
+            {
+              "attributes": [
+                {
+                  "title": "Shelf Life",
+                  "url": null,
+                  "detail": "",
+                  "value": "9 months",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Manufacturer Details",
+                  "url": null,
+                  "detail": "",
+                  "value": "Kelloggs India Pvt Ltd, Plot No. L2 & L3, Taloja MIDC, Dist. Rajgad, Maharashtra - 410208",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Marketed By",
+                  "url": null,
+                  "detail": "",
+                  "value": "Kelloggs India Pvt Ltd, Plot No. L2 & L3, Taloja MIDC, Dist. Rajgad, Maharashtra - 410208",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Disclaimer",
+                  "url": null,
+                  "detail": "",
+                  "value": "Every effort is made to maintain the accuracy of all information. However, actual product packaging and materials may contain more and/or different information. It is recommended not to solely rely on the information presented.",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Country of Origin",
+                  "url": null,
+                  "detail": "",
+                  "value": "India",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Customer Care Details",
+                  "url": null,
+                  "detail": "",
+                  "value": "Email: info@blinkit.com\nCustomer Care Number: 1-800-208-8888",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Product Class",
+                  "url": null,
+                  "detail": "",
+                  "value": "Packaged Goods",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "value": "LOVEEY TRADING INDIA PRIVATE LIMITED",
+                  "title": "Seller"
+                },
+                {
+                  "value": "2023-05-06",
+                  "title": "Expiry Date"
+                }
+              ],
+              "title": "Info"
+            }
+          ],
+          "mrp": 674,
+          "has_details": true,
+          "mapping_id": 94840382,
+          "brand_id": 3474,
+          "merchant_type": "Express",
+          "sbc_price": null,
+          "b2b_inventory": 5,
+          "badges": [],
+          "options": [
+            {
+              "values": [
+                {
+                  "mapping_id": 94840382,
+                  "selected": true,
+                  "enabled": true,
+                  "name": "1.2 kg",
+                  "value": null
+                }
+              ],
+              "type": 0,
+              "title": "Unit"
+            }
+          ],
+          "pid_mapping": {},
+          "derived_attributes": null,
+          "pricing_comment": "",
+          "level1_category": [
+            {
+              "id": 954,
+              "name": "Breakfast Cereal"
+            }
+          ],
+          "unit_price": 0.3075,
+          "unit_type": "kg",
+          "rating_count": 0,
+          "unit": "1.2 kg",
+          "line_1": "Kellogg's Moons & Stars Cereals Chocos (Pouch)",
+          "line_2": "",
+          "type": "Chocos",
+          "brand": "Kellogg's",
+          "inventory": 7,
+          "recommended_purchase_quantity": null,
+          "offer": "40% OFF",
+          "price": 404,
+          "incentives": [],
+          "user_message_limit": 0,
+          "level0_category": [
+            {
+              "id": 15,
+              "name": "Breakfast & Instant Food"
+            }
+          ],
+          "rating_star_color": "#D23333",
+          "type_id": 12110,
+          "merchant_id": 31189,
+          "pl_flag": false,
+          "name": "Kellogg's Moons & Stars Cereals Chocos",
+          "sbc_enabled": false,
+          "product_id": 406724,
+          "rating_count_text": null,
+          "rating_flag": false,
+          "sbc_offer": "",
+          "leaf_category": {
+            "id": 1739,
+            "name": "Kids Cereals",
+            "level": "l2"
+          },
+          "received_at_ts": 0,
+          "reviews": {
+            "reviews_list": [],
+            "show_new_badge": true,
+            "title": "Customer Reviews"
+          },
+          "rating_text_color": "#D23333",
+          "image_url": "https://cdn.grofers.com/app/images/products/normal/pro_406724.jpg?ts=1624525137",
+          "sbc_unit_price": 0.3075,
+          "title": "",
+          "group_id": 548570,
+          "combo_flag": null,
+          "sliding_images": [
+            "https://cdn.grofers.com/app/images/products/full_screen/pro_406724.jpg?ts=1624525137",
+            "https://cdn.grofers.com/app/images/products/sliding_image/406724a.jpg?ts=1624525137",
+            "https://cdn.grofers.com/app/images/products/sliding_image/406724b.jpg?ts=1624525137",
+            "https://cdn.grofers.com/app/images/products/sliding_image/406724c.jpg?ts=1624525137",
+            "https://cdn.grofers.com/app/images/products/sliding_image/406724d.jpg?ts=1624525137",
+            "https://cdn.grofers.com/app/images/products/sliding_image/406724e.jpg?ts=1624525137",
+            "https://cdn.grofers.com/app/images/products/sliding_image/406724f.jpg?ts=1624525137",
+            "https://cdn.grofers.com/app/images/products/sliding_image/406724g.jpg?ts=1624525137",
+            "https://cdn.grofers.com/app/images/products/sliding_image/406724h.jpg?ts=1624525137",
+            "https://cdn.grofers.com/app/images/products/sliding_image/406724i.jpg?ts=1624525137"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "160",
+    "product_data": {
+      "objects": [
+        {
+          "data": {
+            "title": "Similar Products",
+            "products": [
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 4373,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94725952",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "100 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 50,
+                "line_1": "",
+                "line_2": "",
+                "type": "Butter",
+                "brand": "Amul",
+                "offer": "",
+                "price": 52,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 159,
+                "sbc_enabled": false,
+                "name": "Amul Butter (100 g)",
+                "rating_flag": false,
+                "mrp": 52,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 14,
+                  "id": 952,
+                  "name": "Butter & More",
+                  "level": "l1"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/159a.jpg?ts=1654778815",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p159%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 4373,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94739089",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "200 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 29,
+                "line_1": "",
+                "line_2": "",
+                "type": "Butter",
+                "brand": "Amul",
+                "offer": "",
+                "price": 106,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 63628,
+                "sbc_enabled": false,
+                "name": "Amul Butter (200 g)",
+                "rating_flag": false,
+                "mrp": 106,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 14,
+                  "id": 952,
+                  "name": "Butter & More",
+                  "level": "l1"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/63628a.jpg?ts=1590039976",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p63628%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 4373,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94737597",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "100 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 9,
+                "line_1": "",
+                "line_2": "",
+                "type": "Butter",
+                "brand": "Amul",
+                "offer": "",
+                "price": 33,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 55504,
+                "sbc_enabled": false,
+                "name": "Amul Garlic & Herbs Butter",
+                "rating_flag": false,
+                "mrp": 53,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 14,
+                  "id": 952,
+                  "name": "Butter & More",
+                  "level": "l1"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/55504a.jpg?ts=1634565829",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p55504%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              }
+            ]
+          }
+        },
+        {
+          "data": {
+            "title": "You might also like",
+            "products": [
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 4373,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94728895",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "500 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 3,
+                "line_1": "",
+                "line_2": "",
+                "type": "Butter",
+                "brand": "Gowardhan",
+                "offer": "",
+                "price": 285,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 15932,
+                "sbc_enabled": false,
+                "name": "Gowardhan Butter (500 g)",
+                "rating_flag": false,
+                "mrp": 285,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 14,
+                  "id": 952,
+                  "name": "Butter & More",
+                  "level": "l1"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/15932a.jpg?ts=1589182146",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p15932%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 4373,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "96948508",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "100 g (10 x 10 g)",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 7,
+                "line_1": "",
+                "line_2": "",
+                "type": "Butter",
+                "brand": "Milky Mist",
+                "offer": "",
+                "price": 65,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 479676,
+                "sbc_enabled": false,
+                "name": "Milky Mist Chiplet Butter",
+                "rating_flag": false,
+                "mrp": 65,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 14,
+                  "id": 952,
+                  "name": "Butter & More",
+                  "level": "l1"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/479676a.jpg?ts=1641300847",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p479676%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 4373,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "96948516",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "200 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 2,
+                "line_1": "",
+                "line_2": "",
+                "type": "Butter",
+                "brand": "Milky Mist",
+                "offer": "",
+                "price": 130,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 479674,
+                "sbc_enabled": false,
+                "name": "Milky Mist Unsalted Cooking Butter",
+                "rating_flag": false,
+                "mrp": 130,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 14,
+                  "id": 952,
+                  "name": "Butter & More",
+                  "level": "l1"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/479674a.jpg?ts=1641298530",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p479674%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 4373,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94862773",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "2 x 100 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 7,
+                "line_1": "",
+                "line_2": "",
+                "type": "Butter",
+                "brand": "Nutralite",
+                "offer": "",
+                "price": 86,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 457643,
+                "sbc_enabled": false,
+                "name": "Nutralite DoodhShakti Probiotic (Salted) Spread Butter - Pack of 2",
+                "rating_flag": false,
+                "mrp": 108,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 14,
+                  "id": 952,
+                  "name": "Butter & More",
+                  "level": "l1"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/457643a.jpg?ts=1653305517",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p457643%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 4373,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94734883",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "100 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 3,
+                "line_1": "",
+                "line_2": "",
+                "type": "Butter",
+                "brand": "Mother Dairy",
+                "offer": "",
+                "price": 52,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 36961,
+                "sbc_enabled": false,
+                "name": "Mother Dairy Butter",
+                "rating_flag": false,
+                "mrp": 52,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 14,
+                  "id": 952,
+                  "name": "Butter & More",
+                  "level": "l1"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/36961a.jpg?ts=1590758204",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p36961%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 4373,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "96948513",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "200 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 3,
+                "line_1": "",
+                "line_2": "",
+                "type": "Butter",
+                "brand": "Milky Mist",
+                "offer": "",
+                "price": 130,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 479675,
+                "sbc_enabled": false,
+                "name": "Milky Mist Salted Table Butter",
+                "rating_flag": false,
+                "mrp": 130,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 14,
+                  "id": 952,
+                  "name": "Butter & More",
+                  "level": "l1"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/479675a.jpg",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p479675%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              }
+            ]
+          }
+        }
+      ],
+      "data": {
+        "variants_info": [],
+        "product": {
+          "rating": 0,
+          "attribute_collection": [
+            {
+              "attributes": [
+                {
+                  "title": "Description",
+                  "url": null,
+                  "detail": "",
+                  "value": "Made from the freshest of cream, the Amul butter has lovely taste which is delicate and slightly salty. This finely processed butter is natural, pure and tastes best overwith toasts and sandwiches. Has a natural and pure formulation that gives it a great taste. Made from fresh cream that has a wonderful flavour. Spread it over toast or cook your curries in it for a heavenly taste.",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Key Features",
+                  "url": null,
+                  "detail": "",
+                  "value": "Made from the finest cream\nNatural and pure",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Unit",
+                  "url": null,
+                  "detail": "",
+                  "value": "500 g",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                }
+              ],
+              "title": "Highlights"
+            },
+            {
+              "attributes": [
+                {
+                  "title": "Shelf Life",
+                  "url": null,
+                  "detail": "",
+                  "value": "12 months",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Manufacturer Details",
+                  "url": null,
+                  "detail": "",
+                  "value": "Kaira District Co-operative Milk Producers' Union Limited, Anand 388 001. At Food Complex Mogar, Mogar. Lic. No. - 10014021001010.",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "FSSAI License",
+                  "url": null,
+                  "detail": "",
+                  "value": "10012021000071",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Disclaimer",
+                  "url": null,
+                  "detail": "",
+                  "value": "Every effort is made to maintain accuracy of all information. However, actual product packaging and materials may contain more and/or different information. It is recommended not to solely rely on the information presented.",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Country of Origin",
+                  "url": null,
+                  "detail": "",
+                  "value": "India",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Customer Care Details",
+                  "url": null,
+                  "detail": "",
+                  "value": "Customer Care No. 1-800-208-8888\nCustomer Care Mail Id: info@blinkit.com",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Product Class",
+                  "url": null,
+                  "detail": "",
+                  "value": "Packaged Goods",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "value": "LOVEEY TRADING INDIA PRIVATE LIMITED",
+                  "title": "Seller"
+                },
+                {
+                  "value": "2023-08-04",
+                  "title": "Expiry Date"
+                }
+              ],
+              "title": "Info"
+            }
+          ],
+          "mrp": 255,
+          "has_details": true,
+          "mapping_id": 94725954,
+          "brand_id": 1744,
+          "merchant_type": "Express",
+          "sbc_price": null,
+          "b2b_inventory": 40,
+          "badges": [],
+          "options": [
+            {
+              "values": [
+                {
+                  "mapping_id": 94725954,
+                  "selected": true,
+                  "enabled": true,
+                  "name": "500 g",
+                  "value": null
+                }
+              ],
+              "type": 0,
+              "title": "Unit"
+            }
+          ],
+          "pid_mapping": {},
+          "derived_attributes": null,
+          "pricing_comment": "",
+          "level1_category": [
+            {
+              "id": 952,
+              "name": "Butter & More"
+            }
+          ],
+          "unit_price": 0.504,
+          "unit_type": "g",
+          "rating_count": 0,
+          "unit": "500 g",
+          "line_1": "",
+          "line_2": "",
+          "type": "Butter",
+          "brand": "Amul",
+          "inventory": 29,
+          "recommended_purchase_quantity": null,
+          "offer": "",
+          "price": 252,
+          "incentives": [],
+          "user_message_limit": 0,
+          "level0_category": [
+            {
+              "id": 14,
+              "name": "Dairy, Bread & Eggs"
+            }
+          ],
+          "rating_star_color": "#D23333",
+          "type_id": 4373,
+          "merchant_id": 31189,
+          "pl_flag": false,
+          "name": "Amul Butter (500 g)",
+          "sbc_enabled": false,
+          "product_id": 160,
+          "rating_count_text": null,
+          "rating_flag": false,
+          "sbc_offer": "",
+          "leaf_category": {
+            "id": 952,
+            "name": "Butter & More",
+            "level": "l1"
+          },
+          "received_at_ts": 0,
+          "reviews": {
+            "reviews_list": [],
+            "show_new_badge": true,
+            "title": "Customer Reviews"
+          },
+          "rating_text_color": "#D23333",
+          "image_url": "https://cdn.grofers.com/app/images/products/normal/pro_160.jpg?ts=1654778815",
+          "sbc_unit_price": 0.504,
+          "title": "",
+          "group_id": 638439,
+          "combo_flag": null,
+          "sliding_images": [
+            "https://cdn.grofers.com/app/images/products/full_screen/pro_160.jpg?ts=1654778815",
+            "https://cdn.grofers.com/app/images/products/sliding_image/160a.jpg?ts=1654778815",
+            "https://cdn.grofers.com/app/images/products/sliding_image/160b.jpg?ts=1654778815",
+            "https://cdn.grofers.com/app/images/products/sliding_image/160c.jpg?ts=1654778815",
+            "https://cdn.grofers.com/app/images/products/sliding_image/160d.jpg?ts=1654778815",
+            "https://cdn.grofers.com/app/images/products/sliding_image/160e.jpg?ts=1654778815",
+            "https://cdn.grofers.com/app/images/products/sliding_image/160f.jpg",
+            "https://cdn.grofers.com/app/images/products/sliding_image/160g.jpg"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "373665",
+    "product_data": {
+      "objects": [
+        {
+          "data": {
+            "title": "Similar Products",
+            "products": [
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 7678,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94846381",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "500 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 2,
+                "line_1": "Kellogg's with 0% Added Sugar Muesli",
+                "line_2": "",
+                "type": "Muesli",
+                "brand": "Kellogg's",
+                "offer": "",
+                "price": 295,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 415766,
+                "sbc_enabled": false,
+                "name": "Kellogg's with 0% Added Sugar Muesli",
+                "rating_flag": false,
+                "mrp": 345,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 954,
+                  "id": 1307,
+                  "name": "Muesli & Other Cereals",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/415766a.jpg?ts=1588932191",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p415766%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 7678,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94846374",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "750 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 3,
+                "line_1": "Kellogg's with 20% Nuts Delight Muesli",
+                "line_2": "",
+                "type": "Muesli",
+                "brand": "Kellogg's",
+                "offer": "",
+                "price": 410,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 415762,
+                "sbc_enabled": false,
+                "name": "Kellogg's with 20% Nuts Delight Muesli",
+                "rating_flag": false,
+                "mrp": 440,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 954,
+                  "id": 1307,
+                  "name": "Muesli & Other Cereals",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/415762a.jpg?ts=1654688022",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p415762%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              }
+            ]
+          }
+        },
+        {
+          "data": {
+            "title": "You might also like",
+            "products": [
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 7678,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "119143959",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "200 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 3,
+                "line_1": "Monsoon Harvest Crunchy with Fruit, Nuts and Seeds Muesli (Pouch)",
+                "line_2": "",
+                "type": "Muesli",
+                "brand": "Monsoon Harvest",
+                "offer": "",
+                "price": 94,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 481587,
+                "sbc_enabled": false,
+                "name": "Monsoon Harvest Crunchy Muesli with Fruit, Nuts and Seeds",
+                "rating_flag": false,
+                "mrp": 185,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 954,
+                  "id": 1307,
+                  "name": "Muesli & Other Cereals",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/481587a.jpg",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p481587%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 7678,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "119144951",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "800 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 2,
+                "line_1": "Monsoon Harvest Crunchy with Fruits, Nuts and Seeds Muesli (Pouch)",
+                "line_2": "",
+                "type": "Muesli",
+                "brand": "Monsoon Harvest",
+                "offer": "",
+                "price": 289,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 481588,
+                "sbc_enabled": false,
+                "name": "Monsoon Harvest Crunchy Muesli with Fruits, Nuts and Seeds",
+                "rating_flag": false,
+                "mrp": 575,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 954,
+                  "id": 1307,
+                  "name": "Muesli & Other Cereals",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/481588a.jpg",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p481588%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 7678,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94867872",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "500 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 2,
+                "line_1": "Yoga Bar Dark Chocolate + Cranberry Muesli (Mono Carton)",
+                "line_2": "",
+                "type": "Muesli",
+                "brand": "Yoga Bar",
+                "offer": "",
+                "price": 269,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 478822,
+                "sbc_enabled": false,
+                "name": "Yoga Bar Dark Chocolate + Cranberry Muesli",
+                "rating_flag": false,
+                "mrp": 450,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 954,
+                  "id": 1307,
+                  "name": "Muesli & Other Cereals",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/478822a.jpg",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p478822%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 7678,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94863455",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "350 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 1,
+                "line_1": "The Whole Truth Nuts, Fruits & Seeds Muesli (Pouch)",
+                "line_2": "",
+                "type": "Muesli",
+                "brand": "The Whole Truth",
+                "offer": "",
+                "price": 260,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 460008,
+                "sbc_enabled": false,
+                "name": "The Whole Truth Nuts, Fruits & Seeds Muesli",
+                "rating_flag": false,
+                "mrp": 325,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 954,
+                  "id": 1307,
+                  "name": "Muesli & Other Cereals",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/460008a.jpg?ts=1643706538",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p460008%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 7678,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94859586",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "250 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 1,
+                "line_1": "Monsoon Harvest Toasted Millet Fig & Honey with Salted Pistachios Muesli",
+                "line_2": "",
+                "type": "Muesli",
+                "brand": "Monsoon Harvest",
+                "offer": "",
+                "price": 196,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 444951,
+                "sbc_enabled": false,
+                "name": "Monsoon Harvest Toasted Millet Fig & Honey with Salted Pistachios Muesli",
+                "rating_flag": false,
+                "mrp": 230,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 954,
+                  "id": 1307,
+                  "name": "Muesli & Other Cereals",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/444951a.jpg",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p444951%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 7678,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94839602",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "750 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 1,
+                "line_1": "Bagrry's Crunchy - Almonds, Raisins & Honey Muesli (Pouch)",
+                "line_2": "",
+                "type": "Muesli",
+                "brand": "Bagrry's",
+                "offer": "",
+                "price": 379,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 406288,
+                "sbc_enabled": false,
+                "name": "Bagrry's Crunchy - Almonds, Raisins & Honey Muesli",
+                "rating_flag": false,
+                "mrp": 475,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 954,
+                  "id": 1307,
+                  "name": "Muesli & Other Cereals",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/406288a.jpg?ts=1649840869",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p406288%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 7678,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94857020",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "700 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 2,
+                "line_1": "Yoga Bar Dark Chocolate Cranberry Muesli",
+                "line_2": "",
+                "type": "Muesli",
+                "brand": "Yoga Bar",
+                "offer": "",
+                "price": 470,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 438609,
+                "sbc_enabled": false,
+                "name": "Yoga Bar Dark Chocolate Cranberry Muesli",
+                "rating_flag": false,
+                "mrp": 499,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 954,
+                  "id": 1307,
+                  "name": "Muesli & Other Cereals",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/438609a.jpg",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p438609%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              }
+            ]
+          }
+        }
+      ],
+      "data": {
+        "variants_info": [],
+        "product": {
+          "rating": 0,
+          "attribute_collection": [
+            {
+              "attributes": [
+                {
+                  "title": "Description",
+                  "url": null,
+                  "detail": "",
+                  "value": "‘New Kellogg’s Muesli with 21% Fruit, Nut & Seeds’, with the goodness of five baked grains (Wheat, Corn, Rice, Barley and Oats) and an abundance of dried fruits, nuts & seeds is carefully crafted for flavor and texture. Say Hello to a delightful breakfast, filled with multigrain goodness that will jump-start your mornings and get you ready for the day. It has the goodness of multigrain and 21% fruit, nut & seeds making for a nourishing and a tasty meal. Its beauty lies in its simplicity! Have it right out of the bag or have it in a bowl and pour some milk on it or couple it with yogurt. Just take a handful of Kellogg’s Muesli and feel nature’s bounty in its grainy, nutty and fruity goodness!",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Key Features",
+                  "url": null,
+                  "detail": "",
+                  "value": "Nourishing & Tasty Breakfast Cereal –Say Hello to a delightful breakfast, filled with multigrain goodness that will jump-start your mornings and get you ready for the day. It has the goodness of multigrain and 21% fruit, nut & seeds making for a nourishing and a tasty meal.\nMade of Five Nutritious Grains & delicious inclusions –‘New Kellogg’s Muesli with 21% Fruit, Nut & Seeds’ comes with the goodness of five baked grains (Wheat, Corn, Rice, Barley and Oats) and an abundance of dried fruits, nuts and seeds is carefully crafted for flavor and texture.\n3 Ways to Enjoy Muesli – Its beauty lies in its simplicity! Have it right out of the bag or have it in a bowl and pour some milk on it or couple it with yogurt. Just take a handful of Kellogg’s Muesli and feel nature’s bounty in its grainy, nutty and fruity goodness!\nPacked with Nutrients –‘New Kellogg's Muesli with 21% Fruit, Nut & Seeds’ is high in Vitamin C, Vitamin B1, B2, B3, B6, Folate & Iron. \nSource of Protein & Fibre – New Kellogg’s Muesli with 21% Fruit, Nut & Seeds is a source of Protein & fibre. You can count on Kellogg’s for a great-tasting, convenient and a nourishing breakfast.",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Ingredients",
+                  "url": null,
+                  "detail": "",
+                  "value": "Wheat, Barley, Corn Grits, Oats, Rice",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Unit",
+                  "url": null,
+                  "detail": "",
+                  "value": "750 g",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Packaging Type",
+                  "url": null,
+                  "detail": "",
+                  "value": "Pouch",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                }
+              ],
+              "title": "Highlights"
+            },
+            {
+              "attributes": [
+                {
+                  "title": "Shelf Life",
+                  "url": null,
+                  "detail": "",
+                  "value": "9 months",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Manufacturer Details",
+                  "url": null,
+                  "detail": "",
+                  "value": "Kelloggs India Pvt Ltd, Plot No. L2 & L3, Taloja MIDC, Dist. Rajgad, Maharashtra - 410208",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Marketed By",
+                  "url": null,
+                  "detail": "",
+                  "value": "Kelloggs India Pvt Ltd, Plot No. L2 & L3, Taloja MIDC, Dist. Rajgad, Maharashtra - 410208",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Disclaimer",
+                  "url": null,
+                  "detail": "",
+                  "value": "Every effort is made to maintain the accuracy of all information. However, actual product packaging and materials may contain more and/or different information. It is recommended not to solely rely on the information presented.",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Country of Origin",
+                  "url": null,
+                  "detail": "",
+                  "value": "India",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Customer Care Details",
+                  "url": null,
+                  "detail": "",
+                  "value": "Email: info@blinkit.com\nCustomer Care Number: 1-800-208-8888",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Product Class",
+                  "url": null,
+                  "detail": "",
+                  "value": "Packaged Goods",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "value": "LOVEEY TRADING INDIA PRIVATE LIMITED",
+                  "title": "Seller"
+                },
+                {
+                  "value": "2023-05-06",
+                  "title": "Expiry Date"
+                }
+              ],
+              "title": "Info"
+            }
+          ],
+          "mrp": 460,
+          "has_details": true,
+          "mapping_id": 94782481,
+          "brand_id": 3474,
+          "merchant_type": "Express",
+          "sbc_price": null,
+          "b2b_inventory": 0,
+          "badges": [],
+          "options": [
+            {
+              "values": [
+                {
+                  "mapping_id": 94782481,
+                  "selected": true,
+                  "enabled": true,
+                  "name": "750 g",
+                  "value": null
+                }
+              ],
+              "type": 0,
+              "title": "Unit"
+            }
+          ],
+          "pid_mapping": {},
+          "derived_attributes": null,
+          "pricing_comment": "",
+          "level1_category": [
+            {
+              "id": 954,
+              "name": "Breakfast Cereal"
+            }
+          ],
+          "unit_price": 0.518666666666666,
+          "unit_type": "g",
+          "rating_count": 0,
+          "unit": "750 g",
+          "line_1": "Kellogg's with 21% Fruit, Nut & Seeds Muesli (Pouch)",
+          "line_2": "",
+          "type": "Muesli",
+          "brand": "Kellogg's",
+          "inventory": 8,
+          "recommended_purchase_quantity": null,
+          "offer": "8% OFF",
+          "price": 420,
+          "incentives": [],
+          "user_message_limit": 0,
+          "level0_category": [
+            {
+              "id": 15,
+              "name": "Breakfast & Instant Food"
+            }
+          ],
+          "rating_star_color": "#D23333",
+          "type_id": 7678,
+          "merchant_id": 31189,
+          "pl_flag": false,
+          "name": "Kellogg's Muesli with 21% Fruit, Nut & Seeds",
+          "sbc_enabled": false,
+          "product_id": 373665,
+          "rating_count_text": null,
+          "rating_flag": false,
+          "sbc_offer": "",
+          "leaf_category": {
+            "id": 1307,
+            "name": "Muesli & Other Cereals",
+            "level": "l2"
+          },
+          "received_at_ts": 0,
+          "reviews": {
+            "reviews_list": [],
+            "show_new_badge": true,
+            "title": "Customer Reviews"
+          },
+          "rating_text_color": "#D23333",
+          "image_url": "https://cdn.grofers.com/app/images/products/normal/pro_373665.jpg?ts=1635495081",
+          "sbc_unit_price": 0.46533333333333304,
+          "title": "",
+          "group_id": 548700,
+          "combo_flag": null,
+          "sliding_images": [
+            "https://cdn.grofers.com/app/images/products/full_screen/pro_373665.jpg?ts=1635495081",
+            "https://cdn.grofers.com/app/images/products/sliding_image/373665a.jpg?ts=1620650940",
+            "https://cdn.grofers.com/app/images/products/sliding_image/373665b.jpg?ts=1620650940",
+            "https://cdn.grofers.com/app/images/products/sliding_image/373665c.jpg?ts=1620650940",
+            "https://cdn.grofers.com/app/images/products/sliding_image/373665d.jpg?ts=1620650940",
+            "https://cdn.grofers.com/app/images/products/sliding_image/373665e.jpg?ts=1620650940",
+            "https://cdn.grofers.com/app/images/products/sliding_image/373665f.jpg?ts=1620650940",
+            "https://cdn.grofers.com/app/images/products/sliding_image/373665g.jpg?ts=1620650940",
+            "https://cdn.grofers.com/app/images/products/sliding_image/373665h.jpg?ts=1620650940",
+            "https://cdn.grofers.com/app/images/products/sliding_image/373665i.jpg?ts=1620650940",
+            "https://cdn.grofers.com/app/images/products/sliding_image/373665j.jpg?ts=1620650940"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "176",
+    "product_data": {
+      "objects": [
+        {
+          "data": {
+            "title": "Similar Products",
+            "products": [
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 3768,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94746186",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "200 ml",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 50,
+                "line_1": "Amul Taaza Toned Milk (Tetra Pak)",
+                "line_2": "",
+                "type": "Milk",
+                "brand": "Amul",
+                "offer": "",
+                "price": 15,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 113945,
+                "sbc_enabled": false,
+                "name": "Amul Taaza Toned Milk",
+                "rating_flag": false,
+                "mrp": 15,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 922,
+                  "id": 37,
+                  "name": "Tetra Milk",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/113945a.jpg?ts=1613137896",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p113945%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              }
+            ]
+          }
+        },
+        {
+          "data": {
+            "title": "You might also like",
+            "products": [
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 3768,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94753270",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "450 ml",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 50,
+                "line_1": "Mother Dairy FIT Life Double Toned Milk",
+                "line_2": "",
+                "type": "Milk",
+                "brand": "Mother Dairy",
+                "offer": "",
+                "price": 30,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 207766,
+                "sbc_enabled": false,
+                "name": "Mother Dairy FIT Life Double Toned Milk",
+                "rating_flag": false,
+                "mrp": 30,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 922,
+                  "id": 1090,
+                  "name": "Poly Milk",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/207766a.jpg?ts=1619344074",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p207766%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 3768,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94754164",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "1 l",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 18,
+                "line_1": "Go Supremo Cow Milk (Tetra Pak)",
+                "line_2": "",
+                "type": "Milk",
+                "brand": "Go",
+                "offer": "",
+                "price": 76,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 216105,
+                "sbc_enabled": false,
+                "name": "Go Supremo Cow Milk",
+                "rating_flag": false,
+                "mrp": 76,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 922,
+                  "id": 37,
+                  "name": "Tetra Milk",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/216105a.jpg?ts=1590931065",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p216105%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 3768,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94732499",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "1 l",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 10,
+                "line_1": "Go Daily Milk (Tetra Pak)",
+                "line_2": "",
+                "type": "Milk",
+                "brand": "Go",
+                "offer": "",
+                "price": 68,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 26915,
+                "sbc_enabled": false,
+                "name": "Go Daily Milk",
+                "rating_flag": false,
+                "mrp": 68,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 922,
+                  "id": 37,
+                  "name": "Tetra Milk",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/26915a.jpg?ts=1589348966",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p26915%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 3768,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "127521336",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "1 l",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 3,
+                "line_1": "",
+                "line_2": "",
+                "type": "Milk",
+                "brand": "Urban Platter",
+                "offer": "",
+                "price": 225,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 488041,
+                "sbc_enabled": false,
+                "name": "Urban Platter OatWOW Classic Oat Milk",
+                "rating_flag": false,
+                "mrp": 250,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 175,
+                  "id": 655,
+                  "name": "Beverages",
+                  "level": "l1"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/488041a.jpg",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p488041%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 3768,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94749272",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "1 l",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 13,
+                "line_1": "Nestle a+ Nourish Toned Milk (Tetra Pak)",
+                "line_2": "",
+                "type": "Milk",
+                "brand": "Nestle a+",
+                "offer": "",
+                "price": 85,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 138836,
+                "sbc_enabled": false,
+                "name": "Nestle a+ Nourish Toned Milk",
+                "rating_flag": false,
+                "mrp": 85,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 922,
+                  "id": 37,
+                  "name": "Tetra Milk",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/138836a.jpg",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p138836%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 3768,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94740734",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "1 l",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 13,
+                "line_1": "Nestle a+ Slim Skimmed Milk (Tetra Pack)",
+                "line_2": "",
+                "type": "Milk",
+                "brand": "Nestle a+",
+                "offer": "",
+                "price": 89,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 74690,
+                "sbc_enabled": false,
+                "name": "Nestle a+ Slim Skimmed Milk",
+                "rating_flag": false,
+                "mrp": 89,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 922,
+                  "id": 37,
+                  "name": "Tetra Milk",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/74690a.jpg?ts=1589350564",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p74690%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 3768,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94761218",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "140 ml",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 42,
+                "line_1": "Mother Dairy Fit Life Double Toned (Low Fat) Milk (Polypack)",
+                "line_2": "",
+                "type": "Milk",
+                "brand": "Mother Dairy",
+                "offer": "",
+                "price": 10,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 313420,
+                "sbc_enabled": false,
+                "name": "Mother Dairy Fit Life Double Toned Milk (Low Fat)",
+                "rating_flag": false,
+                "mrp": 10,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 922,
+                  "id": 1090,
+                  "name": "Poly Milk",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/313420a.jpg?ts=1656402920",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p313420%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              }
+            ]
+          }
+        }
+      ],
+      "data": {
+        "variants_info": [],
+        "product": {
+          "rating": 0,
+          "attribute_collection": [
+            {
+              "attributes": [
+                {
+                  "title": "Description",
+                  "url": null,
+                  "detail": "",
+                  "value": "Amul Taaza Toned (Tetrapak) Milk is pasteurized with great nutritional value. It can be consumed directly or can be used for preparing tea, coffee, sweets, khoya, curd, buttermilk, ghee etc.",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Key Features",
+                  "url": null,
+                  "detail": "",
+                  "value": "Wholesome taste\nHealthy and nutritious milk\nRich in calcium",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Unit",
+                  "url": null,
+                  "detail": "",
+                  "value": "1 l",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Packaging Type",
+                  "url": null,
+                  "detail": "",
+                  "value": "Tetra Pak",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                }
+              ],
+              "title": "Highlights"
+            },
+            {
+              "attributes": [
+                {
+                  "title": "Shelf Life",
+                  "url": null,
+                  "detail": "",
+                  "value": "6 months",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Manufacturer Details",
+                  "url": null,
+                  "detail": "",
+                  "value": "Kaira District Co-operative Milk Producers' Union Limited, Anand 388 001. At Food Complex Mogar, Mogar. Lic. No. - 10014021001010.",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "FSSAI License",
+                  "url": null,
+                  "detail": "",
+                  "value": "10012021000071",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Disclaimer",
+                  "url": null,
+                  "detail": "",
+                  "value": "Every effort is made to maintain accuracy of all information. However, actual product packaging and materials may contain more and/or different information. It is recommended not to solely rely on the information presented.",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Country of Origin",
+                  "url": null,
+                  "detail": "",
+                  "value": "India",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Customer Care Details",
+                  "url": null,
+                  "detail": "",
+                  "value": "Email: info@blinkit.com\nCustomer Care Number: 1-800-208-8888",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Product Class",
+                  "url": null,
+                  "detail": "",
+                  "value": "Packaged Goods",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "value": "LOVEEY TRADING INDIA PRIVATE LIMITED",
+                  "title": "Seller"
+                },
+                {
+                  "value": "2023-02-05",
+                  "title": "Expiry Date"
+                }
+              ],
+              "title": "Info"
+            }
+          ],
+          "mrp": 68,
+          "has_details": true,
+          "mapping_id": 94725979,
+          "brand_id": 1744,
+          "merchant_type": "Express",
+          "sbc_price": null,
+          "b2b_inventory": 0,
+          "badges": [],
+          "options": [
+            {
+              "values": [
+                {
+                  "mapping_id": 94725979,
+                  "selected": true,
+                  "enabled": true,
+                  "name": "1 l",
+                  "value": null
+                }
+              ],
+              "type": 0,
+              "title": "Unit"
+            }
+          ],
+          "pid_mapping": {},
+          "derived_attributes": null,
+          "pricing_comment": "",
+          "level1_category": [
+            {
+              "id": 922,
+              "name": "Milk"
+            }
+          ],
+          "unit_price": 0.068,
+          "unit_type": "l",
+          "rating_count": 0,
+          "unit": "1 l",
+          "line_1": "Amul Taaza Homogenised Toned Milk (Tetra Pak)",
+          "line_2": "",
+          "type": "Milk",
+          "brand": "Amul",
+          "inventory": 50,
+          "recommended_purchase_quantity": null,
+          "offer": "",
+          "price": 68,
+          "incentives": [],
+          "user_message_limit": 0,
+          "level0_category": [
+            {
+              "id": 14,
+              "name": "Dairy, Bread & Eggs"
+            }
+          ],
+          "rating_star_color": "#D23333",
+          "type_id": 3768,
+          "merchant_id": 31189,
+          "pl_flag": false,
+          "name": "Amul Taaza Homogenised Toned Milk",
+          "sbc_enabled": false,
+          "product_id": 176,
+          "rating_count_text": null,
+          "rating_flag": false,
+          "sbc_offer": "",
+          "leaf_category": {
+            "id": 37,
+            "name": "Tetra Milk",
+            "level": "l2"
+          },
+          "received_at_ts": 0,
+          "reviews": {
+            "reviews_list": [],
+            "show_new_badge": true,
+            "title": "Customer Reviews"
+          },
+          "rating_text_color": "#D23333",
+          "image_url": "https://cdn.grofers.com/app/images/products/normal/pro_176.jpg?ts=1655801915",
+          "sbc_unit_price": 0.068,
+          "title": "",
+          "group_id": 549012,
+          "combo_flag": null,
+          "sliding_images": [
+            "https://cdn.grofers.com/app/images/products/full_screen/pro_176.jpg?ts=1655801915",
+            "https://cdn.grofers.com/app/images/products/sliding_image/176a.jpg?ts=1624537541",
+            "https://cdn.grofers.com/app/images/products/sliding_image/176b.jpg?ts=1624537541",
+            "https://cdn.grofers.com/app/images/products/sliding_image/176c.jpg?ts=1654778816",
+            "https://cdn.grofers.com/app/images/products/sliding_image/176d.jpg?ts=1654778816",
+            "https://cdn.grofers.com/app/images/products/sliding_image/176e.jpg?ts=1654778816",
+            "https://cdn.grofers.com/app/images/products/sliding_image/176f.jpg?ts=1654778816",
+            "https://cdn.grofers.com/app/images/products/sliding_image/176g.jpg?ts=1654778816",
+            "https://cdn.grofers.com/app/images/products/sliding_image/176h.jpg"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "390998",
+    "product_data": {
+      "objects": [
+        {
+          "data": {
+            "title": "Similar Products",
+            "products": [
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 6801,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94754152",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "38 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 31,
+                "line_1": "Saffola Classic Masala Oats",
+                "line_2": "",
+                "type": "Oats",
+                "brand": "Saffola",
+                "offer": "",
+                "price": 16,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 216024,
+                "sbc_enabled": false,
+                "name": "Saffola Classic Masala Oats",
+                "rating_flag": false,
+                "mrp": 16,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 954,
+                  "id": 32,
+                  "name": "Oats",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/216024a.jpg",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p216024%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 6801,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94809847",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "500 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 5,
+                "line_1": "Saffola Masala Peppy Tomato Oats",
+                "line_2": "",
+                "type": "Oats",
+                "brand": "Saffola",
+                "offer": "",
+                "price": 186,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 390999,
+                "sbc_enabled": false,
+                "name": "Saffola Masala Peppy Tomato Oats",
+                "rating_flag": false,
+                "mrp": 202,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 954,
+                  "id": 32,
+                  "name": "Oats",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/390999a.jpg?ts=1623234688",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p390999%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 6801,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94809844",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "500 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 5,
+                "line_1": "Saffola Masala Veggie Twist Oats",
+                "line_2": "",
+                "type": "Oats",
+                "brand": "Saffola",
+                "offer": "",
+                "price": 186,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 390998,
+                "sbc_enabled": false,
+                "name": "Saffola Masala Veggie Twist Oats",
+                "rating_flag": false,
+                "mrp": 202,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 954,
+                  "id": 32,
+                  "name": "Oats",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/390998a.jpg?ts=1623234687",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p390998%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 6801,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94731719",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "1 kg + 400 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 8,
+                "line_1": "Saffola Natural Oats",
+                "line_2": "",
+                "type": "Oats",
+                "brand": "Saffola",
+                "offer": "",
+                "price": 213,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 24625,
+                "sbc_enabled": false,
+                "name": "Saffola Natural Oats",
+                "rating_flag": false,
+                "mrp": 215,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 954,
+                  "id": 32,
+                  "name": "Oats",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/24625a.jpg?ts=1643083632",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p24625%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              }
+            ]
+          }
+        },
+        {
+          "data": {
+            "title": "You might also like",
+            "products": [
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 6801,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94731376",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "1 kg",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 10,
+                "line_1": "Bagrry's White Oats (Pouch)",
+                "line_2": "",
+                "type": "Oats",
+                "brand": "Bagrry's",
+                "offer": "",
+                "price": 163,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 24097,
+                "sbc_enabled": false,
+                "name": "Bagrry's White Oats",
+                "rating_flag": false,
+                "mrp": 205,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 954,
+                  "id": 32,
+                  "name": "Oats",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/24097a.jpg?ts=1620909202",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p24097%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 6801,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94859628",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "200 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 2,
+                "line_1": "Quaker Flavour Mix Rolled Oats (Packet)",
+                "line_2": "",
+                "type": "Oats",
+                "brand": "Quaker",
+                "offer": "",
+                "price": 45,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 444994,
+                "sbc_enabled": false,
+                "name": "Quaker Flavour Mix Rolled Oats",
+                "rating_flag": false,
+                "mrp": 49,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 954,
+                  "id": 32,
+                  "name": "Oats",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/444994a.jpg?ts=1654491182",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p444994%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 6801,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94735022",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "400 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 9,
+                "line_1": "Quaker Rolled Oats",
+                "line_2": "",
+                "type": "Oats",
+                "brand": "Quaker",
+                "offer": "",
+                "price": 79,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 37264,
+                "sbc_enabled": false,
+                "name": "Quaker Rolled Oats",
+                "rating_flag": false,
+                "mrp": 79,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 954,
+                  "id": 32,
+                  "name": "Oats",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/37264a.jpg?ts=1644470833",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p37264%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              }
+            ]
+          }
+        }
+      ],
+      "data": {
+        "variants_info": [],
+        "product": {
+          "rating": 0,
+          "attribute_collection": [
+            {
+              "attributes": [
+                {
+                  "title": "Description",
+                  "url": null,
+                  "detail": "",
+                  "value": "Saffola Masala Oats brings to you a range of delightful flavours making for a perfect evening snack. Made with wholegrain oats, real vegetables & a tasty mix of authentic desi spices, Saffola Masala Oats forms a delectable warm bowl of joy.\nWhat's more is that it is ready to eat in just 3 minutes - super convenient to make, super tasty to eat, and super hard to resist! You can also enjoy Saffola Masala Oats in a variety of tasty recipes like Crispy Cutlets, Penne Pasta, or just as a delicious bowl of joy with crunchy topping like namkeen, peanuts or crushed papad.\nSaffola Masala Oats is available in a range of lip-smacking flavours - Classic Masala for the classic masaledar experience | Veggie Twist for the comforting blend of spices and vegetables | Peppy tomato for a tangy indulgence | Masala Coriander for the tasty mix of desi spices with coriander notes | Curry & Pepper with a lingering aroma of curry leaves.\nMade with wholegrain Oats & real vegetables, Saffola Masala Oats is high in fibre and protein keeping you fuller for longer, helping you control your hunger pangs and manage weight.",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Key Features",
+                  "url": null,
+                  "detail": "",
+                  "value": "Saffola Masala Oats is a tasty blend of authentic Indian spices which is a perfect answer to your chatpata evening cravings!\nReady in just 3 minutes, Saffola Masala Oats is super easy to make and super tasty to eat!\nVeggie Twist from Saffola Masala Oats has a rich and creamy blend of aromatic spices with a crunchy mix of carrots, peas and french beans.\nMade with wholegrain Oats & real vegetables, Saffola Masala Oats is high in fibre and protein keeping you fuller for longer, helping you control your hunger pangs and manage weight.\nEnjoy Saffola Masala Oats in a variety of tasty recipes like Crispy Cutlets, Penne Pasta, or just as a delicious bowl of joy with crunchy topping like namkeen or peanuts.\nAlso try our other drool-worthy flavours - Classic Masala, Peppy Tomato, Curry & Pepper, and Masala & Coriander.",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Unit",
+                  "url": null,
+                  "detail": "",
+                  "value": "1 kg",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                }
+              ],
+              "title": "Highlights"
+            },
+            {
+              "attributes": [
+                {
+                  "title": "Shelf Life",
+                  "url": null,
+                  "detail": "",
+                  "value": "9 months",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Manufacturer Details",
+                  "url": null,
+                  "detail": "",
+                  "value": "Marico Ltd C/O -  Ameya Foods (unit 4), no. 3/275, Kittampalayam, Annur Road, Karumathampatti, Coimbatore - 641659",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Marketed By",
+                  "url": null,
+                  "detail": "",
+                  "value": "Marico Ltd, 7th floor, Grande Palladium, 175, CST Road, Kolivery Village, MMRDA Area, Kalina, Santa Cruz East, Mumbai, Maharashtra 400098",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "FSSAI License",
+                  "url": null,
+                  "detail": "",
+                  "value": "10012022000258",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Disclaimer",
+                  "url": null,
+                  "detail": "",
+                  "value": "Every effort is made to maintain the accuracy of all information. However, actual product packaging and materials may contain more and/or different information. It is recommended not to solely rely on the information presented.",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Country of Origin",
+                  "url": null,
+                  "detail": "",
+                  "value": "India",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Customer Care Details",
+                  "url": null,
+                  "detail": "",
+                  "value": "Email: info@blinkit.com\nCustomer Care Number: 1-800-208-8888",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Product Class",
+                  "url": null,
+                  "detail": "",
+                  "value": "Packaged Goods",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "value": "LOVEEY TRADING INDIA PRIVATE LIMITED",
+                  "title": "Seller"
+                },
+                {
+                  "value": "2023-05-06",
+                  "title": "Expiry Date"
+                }
+              ],
+              "title": "Info"
+            }
+          ],
+          "mrp": 395,
+          "has_details": true,
+          "mapping_id": 94819088,
+          "brand_id": 4949,
+          "merchant_type": "Express",
+          "sbc_price": null,
+          "b2b_inventory": 0,
+          "badges": [],
+          "options": [
+            {
+              "values": [
+                {
+                  "mapping_id": 94819088,
+                  "selected": true,
+                  "enabled": true,
+                  "name": "1 kg",
+                  "value": null
+                }
+              ],
+              "type": 0,
+              "title": "Unit"
+            }
+          ],
+          "pid_mapping": {},
+          "derived_attributes": null,
+          "pricing_comment": "",
+          "level1_category": [
+            {
+              "id": 954,
+              "name": "Breakfast Cereal"
+            }
+          ],
+          "unit_price": 0.356,
+          "unit_type": "kg",
+          "rating_count": 0,
+          "unit": "1 kg",
+          "line_1": "Saffola Veggie Twist Masala Oats",
+          "line_2": "",
+          "type": "Oats",
+          "brand": "Saffola",
+          "inventory": 1,
+          "recommended_purchase_quantity": null,
+          "offer": "9% OFF",
+          "price": 356,
+          "incentives": [],
+          "user_message_limit": 0,
+          "level0_category": [
+            {
+              "id": 15,
+              "name": "Breakfast & Instant Food"
+            }
+          ],
+          "rating_star_color": "#D23333",
+          "type_id": 6801,
+          "merchant_id": 31189,
+          "pl_flag": false,
+          "name": "Saffola Veggie Twist Masala Oats",
+          "sbc_enabled": false,
+          "product_id": 395122,
+          "rating_count_text": null,
+          "rating_flag": false,
+          "sbc_offer": "",
+          "leaf_category": {
+            "id": 32,
+            "name": "Oats",
+            "level": "l2"
+          },
+          "received_at_ts": 0,
+          "reviews": {
+            "reviews_list": [],
+            "show_new_badge": true,
+            "title": "Customer Reviews"
+          },
+          "rating_text_color": "#D23333",
+          "image_url": "https://cdn.grofers.com/app/images/products/normal/pro_395122.jpg",
+          "sbc_unit_price": 0.356,
+          "title": "",
+          "group_id": 158566,
+          "combo_flag": null,
+          "sliding_images": [
+            "https://cdn.grofers.com/app/images/products/full_screen/pro_395122.jpg",
+            "https://cdn.grofers.com/app/images/products/sliding_image/395122a.jpg",
+            "https://cdn.grofers.com/app/images/products/sliding_image/395122b.jpg",
+            "https://cdn.grofers.com/app/images/products/sliding_image/395122c.jpg",
+            "https://cdn.grofers.com/app/images/products/sliding_image/395122d.jpg",
+            "https://cdn.grofers.com/app/images/products/sliding_image/395122e.jpg",
+            "https://cdn.grofers.com/app/images/products/sliding_image/395122f.jpg",
+            "https://cdn.grofers.com/app/images/products/sliding_image/395122g.jpg",
+            "https://cdn.grofers.com/app/images/products/sliding_image/395122h.jpg",
+            "https://cdn.grofers.com/app/images/products/sliding_image/395122i.jpg"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "320685",
+    "product_data": {
+      "objects": [
+        {
+          "data": {
+            "title": "Similar Products",
+            "products": [
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 1197,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94831655",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "2 x 180 ml",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 6,
+                "line_1": "Hershey's Cookies 'n' Creme Milk Shake - Pack of 2",
+                "line_2": "",
+                "type": "Milk Shake",
+                "brand": "Hershey's",
+                "offer": "",
+                "price": 69,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 403109,
+                "sbc_enabled": false,
+                "name": "Hershey's Cookies 'n' Creme Milk Shake - Pack of 2",
+                "rating_flag": false,
+                "mrp": 70,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 1184,
+                  "id": 36,
+                  "name": "Flavoured Milk & Milk Shake",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/403109a.jpg?ts=1653630608",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p403109%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 1197,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94797750",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "2 x 180 ml",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 7,
+                "line_1": "Hershey's Chocolate Milk Shake - Pack of 2",
+                "line_2": "",
+                "type": "Milk Shake",
+                "brand": "Hershey's",
+                "offer": "",
+                "price": 69,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 382244,
+                "sbc_enabled": false,
+                "name": "Hershey's Chocolate Milk Shake - Pack of 2",
+                "rating_flag": false,
+                "mrp": 70,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 1184,
+                  "id": 36,
+                  "name": "Flavoured Milk & Milk Shake",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/382244a.jpg?ts=1653630607",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p382244%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 1197,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94831649",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "2 x 180 ml",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 5,
+                "line_1": "Hershey's Strawberry Milk Shake - Pack of 2",
+                "line_2": "",
+                "type": "Milk Shake",
+                "brand": "Hershey's",
+                "offer": "",
+                "price": 69,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 403107,
+                "sbc_enabled": false,
+                "name": "Hershey's Strawberry Milk Shake - Pack of 2",
+                "rating_flag": false,
+                "mrp": 70,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 1184,
+                  "id": 36,
+                  "name": "Flavoured Milk & Milk Shake",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/403107a.jpg?ts=1653630610",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p403107%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 1197,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94860279",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "180 ml",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 2,
+                "line_1": "Hershey's Vanilla Milk Shake (Tetra Pak)",
+                "line_2": "",
+                "type": "Milk Shake",
+                "brand": "Hershey's",
+                "offer": "",
+                "price": 35,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 446988,
+                "sbc_enabled": false,
+                "name": "Hershey's Vanilla Milk Shake",
+                "rating_flag": false,
+                "mrp": 35,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 1184,
+                  "id": 36,
+                  "name": "Flavoured Milk & Milk Shake",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/446988a.jpg",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p446988%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              }
+            ]
+          }
+        },
+        {
+          "data": {
+            "title": "You might also like",
+            "products": [
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 1197,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94860517",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "180 ml",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 10,
+                "line_1": "Sunfeast Dark Fantasy with Belgian Chocolate Milk Shake (Bottle)",
+                "line_2": "",
+                "type": "Milk Shake",
+                "brand": "Sunfeast",
+                "offer": "",
+                "price": 34,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 447987,
+                "sbc_enabled": false,
+                "name": "Sunfeast Dark Fantasy Milk Shake with Belgian Chocolate",
+                "rating_flag": false,
+                "mrp": 40,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 1184,
+                  "id": 36,
+                  "name": "Flavoured Milk & Milk Shake",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/447987a.jpg?ts=1627473574",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p447987%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 1197,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94860482",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "180 ml",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 14,
+                "line_1": "Sunfeast Strawberry Milk Shake (Bottle)",
+                "line_2": "",
+                "type": "Milk Shake",
+                "brand": "Sunfeast",
+                "offer": "",
+                "price": 32,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 447858,
+                "sbc_enabled": false,
+                "name": "Sunfeast Strawberry Milk Shake",
+                "rating_flag": false,
+                "mrp": 35,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 1184,
+                  "id": 36,
+                  "name": "Flavoured Milk & Milk Shake",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/447858a.jpg?ts=1627473574",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p447858%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 1197,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94729023",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "200 ml",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 3,
+                "line_1": "Cavin's Vanilla Milk Shake (Tetra Pak)",
+                "line_2": "",
+                "type": "Milk Shake",
+                "brand": "Cavin's",
+                "offer": "",
+                "price": 29,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 16728,
+                "sbc_enabled": false,
+                "name": "Cavin's Vanilla Milk Shake",
+                "rating_flag": false,
+                "mrp": 35,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 1184,
+                  "id": 36,
+                  "name": "Flavoured Milk & Milk Shake",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/16728a.jpg?ts=1640162258",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p16728%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 1197,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94729022",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "200 ml",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 2,
+                "line_1": "Cavin's Strawberry Milk Shake (Tetra Pak)",
+                "line_2": "",
+                "type": "Milk Shake",
+                "brand": "Cavin's",
+                "offer": "",
+                "price": 29,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 16727,
+                "sbc_enabled": false,
+                "name": "Cavin's Strawberry Milk Shake",
+                "rating_flag": false,
+                "mrp": 35,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 1184,
+                  "id": 36,
+                  "name": "Flavoured Milk & Milk Shake",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/16727a.jpg?ts=1640162258",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p16727%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 1197,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94797272",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "1 l",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 5,
+                "line_1": "Cavin's Chocolate Milk Shake (Tetra Pak)",
+                "line_2": "",
+                "type": "Milk Shake",
+                "brand": "Cavin's",
+                "offer": "",
+                "price": 146,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 381969,
+                "sbc_enabled": false,
+                "name": "Cavin's Chocolate Milk Shake",
+                "rating_flag": false,
+                "mrp": 199,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 1184,
+                  "id": 36,
+                  "name": "Flavoured Milk & Milk Shake",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/381969a.jpg?ts=1640162258",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p381969%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              },
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 1197,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94860483",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "180 ml",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 6,
+                "line_1": "Sunfeast Vanilla Milk Shake (Bottle)",
+                "line_2": "",
+                "type": "Milk Shake",
+                "brand": "Sunfeast",
+                "offer": "",
+                "price": 32,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 447859,
+                "sbc_enabled": false,
+                "name": "Sunfeast Vanilla Milk Shake",
+                "rating_flag": false,
+                "mrp": 35,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 1184,
+                  "id": 36,
+                  "name": "Flavoured Milk & Milk Shake",
+                  "level": "l2"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/447859a.jpg?ts=1627473574",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p447859%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              }
+            ]
+          }
+        }
+      ],
+      "data": {
+        "variants_info": [
+          {
+            "rating": 0,
+            "attribute_collection": [
+              {
+                "attributes": [
+                  {
+                    "title": "Offer",
+                    "url": null,
+                    "detail": "",
+                    "value": "Pack of 2",
+                    "help_text": "",
+                    "type": "shown_to_customer"
+                  },
+                  {
+                    "title": "Key Features",
+                    "url": null,
+                    "detail": "",
+                    "value": "Rich, creamy and scrumptious chocolate flavoured milk \nFortified with the goodness of milk\nDeliciously healthy and nutritious drink\nIndulging and tempting treat for the taste buds",
+                    "help_text": "",
+                    "type": "shown_to_customer"
+                  },
+                  {
+                    "title": "Unit",
+                    "url": null,
+                    "detail": "",
+                    "value": "2 x 180 ml",
+                    "help_text": "",
+                    "type": "shown_to_customer"
+                  }
+                ],
+                "title": "Highlights"
+              },
+              {
+                "attributes": [
+                  {
+                    "title": "Disclaimer",
+                    "url": null,
+                    "detail": "",
+                    "value": "Every effort is made to maintain the accuracy of all information. However, actual product packaging and materials may contain more and/or different information. It is recommended not to solely rely on the information presented.",
+                    "help_text": "",
+                    "type": "shown_to_customer"
+                  },
+                  {
+                    "title": "Country of Origin",
+                    "url": null,
+                    "detail": "",
+                    "value": "India",
+                    "help_text": "",
+                    "type": "shown_to_customer"
+                  },
+                  {
+                    "title": "Customer Care Details",
+                    "url": null,
+                    "detail": "",
+                    "value": "Email: info@blinkit.com\nCustomer Care Number: 1-800-208-8888",
+                    "help_text": "",
+                    "type": "shown_to_customer"
+                  },
+                  {
+                    "title": "Offer",
+                    "url": null,
+                    "detail": "",
+                    "value": "Pack of 2",
+                    "help_text": "",
+                    "type": "shown_to_customer"
+                  },
+                  {
+                    "title": "Product Class",
+                    "url": null,
+                    "detail": "",
+                    "value": "Packaged Goods",
+                    "help_text": "",
+                    "type": "shown_to_customer"
+                  },
+                  {
+                    "title": "Image Sequence",
+                    "url": null,
+                    "detail": "",
+                    "value": "0",
+                    "help_text": "",
+                    "type": "not_shown_to_customer"
+                  },
+                  {
+                    "value": "LOVEEY TRADING INDIA PRIVATE LIMITED",
+                    "title": "Seller"
+                  },
+                  {
+                    "value": "2023-05-06",
+                    "title": "Expiry Date"
+                  }
+                ],
+                "title": "Info"
+              }
+            ],
+            "mrp": 70,
+            "has_details": true,
+            "mapping_id": 94797750,
+            "brand_id": 3194,
+            "merchant_type": "Express",
+            "sbc_price": null,
+            "b2b_inventory": 7,
+            "badges": [],
+            "pid_mapping": {},
+            "title": "",
+            "pricing_comment": "",
+            "level1_category": [
+              {
+                "parent_id": 12,
+                "level": null,
+                "id": 1184,
+                "name": "Milk Drinks",
+                "m_score": null
+              }
+            ],
+            "unit_price": 0.191666666666666,
+            "unit_type": "ml",
+            "rating_count": 0,
+            "inventory": 7,
+            "line_1": "Hershey's Chocolate Milk Shake - Pack of 2",
+            "line_2": "",
+            "type": "Milk Shake",
+            "brand": "Hershey's",
+            "offer": "",
+            "price": 69,
+            "unit": "2 x 180 ml",
+            "incentives": [],
+            "user_message_limit": 0,
+            "level0_category": [
+              {
+                "parent_id": 12,
+                "level": null,
+                "id": 12,
+                "name": "Tea, Coffee & Health Drinks",
+                "m_score": null
+              }
+            ],
+            "rating_star_color": "#D23333",
+            "type_id": 1197,
+            "merchant_id": 31189,
+            "pl_flag": false,
+            "name": "Hershey's Chocolate Milk Shake - Pack of 2",
+            "sbc_enabled": false,
+            "product_id": 382244,
+            "rating_count_text": null,
+            "rating_flag": false,
+            "sbc_offer": "",
+            "leaf_category": {
+              "parent_id": 1184,
+              "level": "l2",
+              "id": 36,
+              "name": "Flavoured Milk & Milk Shake",
+              "m_score": null
+            },
+            "received_at_ts": 0,
+            "reviews": {
+              "reviews_list": [],
+              "show_new_badge": true,
+              "title": "Customer Reviews"
+            },
+            "highlight_images": [],
+            "rating_text_color": "#D23333",
+            "image_url": "https://cdn.grofers.com/app/images/products/normal/pro_382244.jpg?ts=1653630607",
+            "sbc_unit_price": 0.191666666666666,
+            "group_id": 302784,
+            "options": [
+              {
+                "type": 0,
+                "values": [
+                  {
+                    "mapping_id": 94762109,
+                    "selected": false,
+                    "enabled": true,
+                    "name": "180 ml",
+                    "value": null
+                  },
+                  {
+                    "mapping_id": 94797750,
+                    "selected": true,
+                    "enabled": true,
+                    "name": "2 x 180 ml",
+                    "value": null
+                  }
+                ],
+                "title": "Unit"
+              },
+              {
+                "type": 0,
+                "values": [
+                  {
+                    "mapping_id": 94797750,
+                    "selected": true,
+                    "enabled": true,
+                    "name": "Pack of 2",
+                    "value": null
+                  }
+                ],
+                "title": "Offer"
+              }
+            ],
+            "sliding_images": [
+              "https://cdn.grofers.com/app/images/products/full_screen/pro_382244.jpg?ts=1653630607",
+              "https://cdn.grofers.com/app/images/products/sliding_image/382244a.jpg?ts=1653630607",
+              "https://cdn.grofers.com/app/images/products/sliding_image/382244b.jpg?ts=1652168745",
+              "https://cdn.grofers.com/app/images/products/sliding_image/382244c.jpg?ts=1652168745",
+              "https://cdn.grofers.com/app/images/products/sliding_image/382244d.jpg?ts=1652168745",
+              "https://cdn.grofers.com/app/images/products/sliding_image/382244e.jpg?ts=1652169988",
+              "https://cdn.grofers.com/app/images/products/sliding_image/382244f.jpg?ts=1652169988",
+              "https://cdn.grofers.com/app/images/products/sliding_image/382244g.jpg?ts=1652169988",
+              "https://cdn.grofers.com/app/images/products/sliding_image/382244h.jpg?ts=1652169988"
+            ]
+          }
+        ],
+        "product": {
+          "rating": 0,
+          "attribute_collection": [
+            {
+              "attributes": [
+                {
+                  "title": "Key Features",
+                  "url": null,
+                  "detail": "",
+                  "value": "Rich, creamy and scrumptious chocolate flavoured milk \nFortified with the goodness of milk\nDeliciously healthy and nutritious drink\nIndulging and tempting treat for the taste buds",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Unit",
+                  "url": null,
+                  "detail": "",
+                  "value": "180 ml",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                }
+              ],
+              "title": "Highlights"
+            },
+            {
+              "attributes": [
+                {
+                  "title": "Disclaimer",
+                  "url": null,
+                  "detail": "",
+                  "value": "Every effort is made to maintain the accuracy of all information. However, actual product packaging and materials may contain more and/or different information. It is recommended not to solely rely on the information presented.",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Country of Origin",
+                  "url": null,
+                  "detail": "",
+                  "value": "India",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Customer Care Details",
+                  "url": null,
+                  "detail": "",
+                  "value": "Email: info@blinkit.com\nCustomer Care Number: 1-800-208-8888",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Product Class",
+                  "url": null,
+                  "detail": "",
+                  "value": "Packaged Goods",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "value": "LOVEEY TRADING INDIA PRIVATE LIMITED",
+                  "title": "Seller"
+                },
+                {
+                  "value": "2023-05-06",
+                  "title": "Expiry Date"
+                }
+              ],
+              "title": "Info"
+            }
+          ],
+          "mrp": 35,
+          "has_details": true,
+          "mapping_id": 94762109,
+          "brand_id": 3194,
+          "merchant_type": "Express",
+          "sbc_price": null,
+          "b2b_inventory": 0,
+          "badges": [],
+          "options": [
+            {
+              "values": [
+                {
+                  "mapping_id": 94762109,
+                  "selected": true,
+                  "enabled": true,
+                  "name": "180 ml",
+                  "value": null
+                },
+                {
+                  "mapping_id": 94797750,
+                  "selected": false,
+                  "enabled": true,
+                  "name": "2 x 180 ml",
+                  "value": null
+                }
+              ],
+              "type": 0,
+              "title": "Unit"
+            },
+            {
+              "values": [
+                {
+                  "mapping_id": 94797750,
+                  "selected": false,
+                  "enabled": true,
+                  "name": "Pack of 2",
+                  "value": null
+                }
+              ],
+              "type": 0,
+              "title": "Offer"
+            }
+          ],
+          "pid_mapping": {},
+          "derived_attributes": null,
+          "pricing_comment": "",
+          "level1_category": [
+            {
+              "id": 1184,
+              "name": "Milk Drinks"
+            }
+          ],
+          "unit_price": 0.194444444444444,
+          "unit_type": "ml",
+          "rating_count": 0,
+          "unit": "180 ml",
+          "line_1": "Hershey's Chocolate Milk Shake",
+          "line_2": "",
+          "type": "Milk Shake",
+          "brand": "Hershey's",
+          "inventory": 14,
+          "recommended_purchase_quantity": null,
+          "offer": "",
+          "price": 35,
+          "incentives": [],
+          "user_message_limit": 0,
+          "level0_category": [
+            {
+              "id": 12,
+              "name": "Tea, Coffee & Health Drinks"
+            }
+          ],
+          "rating_star_color": "#D23333",
+          "type_id": 1197,
+          "merchant_id": 31189,
+          "pl_flag": false,
+          "name": "Hershey's Chocolate Milk Shake",
+          "sbc_enabled": false,
+          "product_id": 320685,
+          "rating_count_text": null,
+          "rating_flag": false,
+          "sbc_offer": "",
+          "leaf_category": {
+            "id": 36,
+            "name": "Flavoured Milk & Milk Shake",
+            "level": "l2"
+          },
+          "received_at_ts": 0,
+          "reviews": {
+            "reviews_list": [],
+            "show_new_badge": true,
+            "title": "Customer Reviews"
+          },
+          "rating_text_color": "#D23333",
+          "image_url": "https://cdn.grofers.com/app/images/products/normal/pro_320685.jpg",
+          "sbc_unit_price": 0.194444444444444,
+          "title": "",
+          "group_id": 302784,
+          "combo_flag": null,
+          "sliding_images": [
+            "https://cdn.grofers.com/app/images/products/full_screen/pro_320685.jpg",
+            "https://cdn.grofers.com/app/images/products/sliding_image/320685a.jpg",
+            "https://cdn.grofers.com/app/images/products/sliding_image/320685b.jpg",
+            "https://cdn.grofers.com/app/images/products/sliding_image/320685c.jpg",
+            "https://cdn.grofers.com/app/images/products/sliding_image/320685d.jpg",
+            "https://cdn.grofers.com/app/images/products/sliding_image/320685e.jpg",
+            "https://cdn.grofers.com/app/images/products/sliding_image/320685f.jpg",
+            "https://cdn.grofers.com/app/images/products/sliding_image/320685g.jpg",
+            "https://cdn.grofers.com/app/images/products/sliding_image/320685h.jpg"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "369084",
+    "product_data": {
+      "objects": [
+        {
+          "data": {
+            "title": "Similar Products",
+            "products": [
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 5018,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94863576",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "800 g",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 2,
+                "line_1": "",
+                "line_2": "",
+                "type": "Batter",
+                "brand": "Rishta",
+                "offer": "",
+                "price": 81,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 460685,
+                "sbc_enabled": false,
+                "name": "Rishta Multigrain Speciality Idli Dosa Batter",
+                "rating_flag": false,
+                "mrp": 105,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 15,
+                  "id": 1425,
+                  "name": "Batter",
+                  "level": "l1"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/460685a.jpg",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p460685%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              }
+            ]
+          }
+        },
+        {
+          "data": {
+            "title": "You might also like",
+            "products": [
+              {
+                "rating": 0,
+                "message_length": 0,
+                "subscription_price": null,
+                "type_id": 5018,
+                "sbc_offer": "",
+                "is_subscribable": false,
+                "mapping_id": "94729354",
+                "merchant_type": "Express",
+                "pl_badge": null,
+                "sbc_price": null,
+                "unit": "1 kg",
+                "grofers_points": 0,
+                "should_display_atc_button": true,
+                "level1_category": null,
+                "monthly_cost": null,
+                "inventory": 1,
+                "line_1": "",
+                "line_2": "",
+                "type": "Batter",
+                "brand": "iD",
+                "offer": "",
+                "price": 90,
+                "incentives": [],
+                "level0_category": null,
+                "rating_star_color": null,
+                "pl_flag": false,
+                "eta_tag": null,
+                "product_id": 17772,
+                "sbc_enabled": false,
+                "name": "iD Idli & Dosa Batter (1 kg)",
+                "rating_flag": false,
+                "mrp": 90,
+                "expected_renewal_date": null,
+                "leaf_category": {
+                  "m_score": null,
+                  "parent_id": 15,
+                  "id": 1425,
+                  "name": "Batter",
+                  "level": "l1"
+                },
+                "image_url": "https://cdn.grofers.com/app/images/products/sliding_image/17772a.jpg?ts=1640345763",
+                "lightning_enabled": false,
+                "action": "grofers://product?expr=%7B%22and%22:%5B%22p17772%22,%22ch%22%5D%7D&restricted=true",
+                "partnership_offers": null
+              }
+            ]
+          }
+        }
+      ],
+      "data": {
+        "variants_info": [],
+        "product": {
+          "rating": 0,
+          "attribute_collection": [
+            {
+              "attributes": [
+                {
+                  "title": "Key Features",
+                  "url": null,
+                  "detail": "",
+                  "value": "Made from best quality Rice and Urad dal from South\nContains all natural ingredients\nPerfect mix to savour soft idlis and crispy dosas instantly\nAuthentic taste \nComes in an easy zip-lock pouch to keep batter fresh after every usage\nIdeal to relish traditional and healthy feast at home",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Unit",
+                  "url": null,
+                  "detail": "",
+                  "value": "1 kg",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                }
+              ],
+              "title": "Highlights"
+            },
+            {
+              "attributes": [
+                {
+                  "title": "Shelf Life",
+                  "url": null,
+                  "detail": "",
+                  "value": "8 days",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Disclaimer",
+                  "url": null,
+                  "detail": "",
+                  "value": "Every effort is made to maintain accuracy of all information. However, actual product packaging and materials may contain more and/or different information. It is recommended not to solely rely on the information presented.",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Country of Origin",
+                  "url": null,
+                  "detail": "",
+                  "value": "India",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Customer Care Details",
+                  "url": null,
+                  "detail": "",
+                  "value": "Email: info@blinkit.com\nCustomer Care Number: 1-800-208-8888",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "title": "Product Class",
+                  "url": null,
+                  "detail": "",
+                  "value": "Perishables",
+                  "help_text": "",
+                  "type": "shown_to_customer"
+                },
+                {
+                  "value": "LOVEEY TRADING INDIA PRIVATE LIMITED",
+                  "title": "Seller"
+                },
+                {
+                  "value": "2022-08-17",
+                  "title": "Expiry Date"
+                }
+              ],
+              "title": "Info"
+            }
+          ],
+          "mrp": 105,
+          "has_details": true,
+          "mapping_id": 94777702,
+          "brand_id": 4851,
+          "merchant_type": "Express",
+          "sbc_price": null,
+          "b2b_inventory": 0,
+          "badges": [],
+          "options": [
+            {
+              "values": [
+                {
+                  "mapping_id": 94777702,
+                  "selected": true,
+                  "enabled": true,
+                  "name": "1 kg",
+                  "value": null
+                }
+              ],
+              "type": 0,
+              "title": "Unit"
+            }
+          ],
+          "pid_mapping": {},
+          "derived_attributes": null,
+          "pricing_comment": "",
+          "level1_category": [
+            {
+              "id": 1425,
+              "name": "Batter"
+            }
+          ],
+          "unit_price": 0.088,
+          "unit_type": "kg",
+          "rating_count": 0,
+          "unit": "1 kg",
+          "line_1": "",
+          "line_2": "",
+          "type": "Batter",
+          "brand": "Rishta",
+          "inventory": 2,
+          "recommended_purchase_quantity": null,
+          "offer": "16% OFF",
+          "price": 88,
+          "incentives": [],
+          "user_message_limit": 0,
+          "level0_category": [
+            {
+              "id": 15,
+              "name": "Breakfast & Instant Food"
+            }
+          ],
+          "rating_star_color": "#D23333",
+          "type_id": 5018,
+          "merchant_id": 31189,
+          "pl_flag": false,
+          "name": "Rishta Fresh & Tasty Idli & Dosa Batter",
+          "sbc_enabled": false,
+          "product_id": 369084,
+          "rating_count_text": null,
+          "rating_flag": false,
+          "sbc_offer": "",
+          "leaf_category": {
+            "id": 1425,
+            "name": "Batter",
+            "level": "l1"
+          },
+          "received_at_ts": 0,
+          "reviews": {
+            "reviews_list": [],
+            "show_new_badge": true,
+            "title": "Customer Reviews"
+          },
+          "rating_text_color": "#D23333",
+          "image_url": "https://cdn.grofers.com/app/images/products/normal/pro_369084.jpg?ts=1626959780",
+          "sbc_unit_price": 0.088,
+          "title": "",
+          "group_id": 407630,
+          "combo_flag": null,
+          "sliding_images": [
+            "https://cdn.grofers.com/app/images/products/full_screen/pro_369084.jpg?ts=1626959780",
+            "https://cdn.grofers.com/app/images/products/sliding_image/369084a.jpg?ts=1626959780",
+            "https://cdn.grofers.com/app/images/products/sliding_image/369084b.jpg?ts=1626959780",
+            "https://cdn.grofers.com/app/images/products/sliding_image/369084c.jpg?ts=1626959780",
+            "https://cdn.grofers.com/app/images/products/sliding_image/369084d.jpg?ts=1626959780",
+            "https://cdn.grofers.com/app/images/products/sliding_image/369084e.jpg?ts=1626959780",
+            "https://cdn.grofers.com/app/images/products/sliding_image/369084f.jpg",
+            "https://cdn.grofers.com/app/images/products/sliding_image/369084g.jpg"
+          ]
+        }
+      }
+    }
+  }
+]

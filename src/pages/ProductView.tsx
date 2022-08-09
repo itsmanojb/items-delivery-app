@@ -1,14 +1,15 @@
 import { useParams } from 'react-router-dom';
-import NotAvailable from '../components/NotAvailable';
 import { ProductDetails, MoreProducts } from '../components/Products';
-import Products from '../lib/data/products.json';
+import NotAvailable from '../components/NotAvailable';
+import { getProductById } from '../utils/helper';
+
 
 const ProductView = () => {
   let { id } = useParams();
 
-  const productFound = Products.filter((item) => item.id === id)[0];
+  const productFound = getProductById(id);
 
-  if (productFound === undefined) {
+  if (!productFound) {
     window.scrollTo(0, 0);
     return <NotAvailable />;
   }
@@ -17,6 +18,7 @@ const ProductView = () => {
     product: productItem.data.product,
     varients: productItem.data.variants_info,
   };
+  // console.log('productInfo', productInfo)
 
   const moreProducts = productItem.objects.map((obj) => {
     const { products, title } = obj.data;

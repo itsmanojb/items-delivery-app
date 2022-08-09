@@ -7,11 +7,11 @@ import { ProductItemDetailed } from '../../utils/types';
 const responsive = {
   lgdesktop: {
     breakpoint: { max: 1920, min: 1440 },
-    items: 5,
+    items: 4,
   },
   desktop: {
     breakpoint: { max: 1440, min: 992 },
-    items: 4,
+    items: 3,
   },
   tablet: {
     breakpoint: { max: 992, min: 600 },
@@ -38,9 +38,13 @@ const VarientItem = ({
   return (
     <div
       onClick={() => onSelect()}
-      className={`rounded-lg max-w-[120px] border overflow-hidden leading-none cursor-pointer ${
+      className={`rounded-lg max-w-[150px] border overflow-hidden leading-none ${
         data.selected ? 'border-[#b1dc9c]' : '_border-muted'
-      } `}
+      } ${
+        data.out_of_stock
+          ? 'bg-gray-50 pointer-events-none'
+          : 'bg-white cursor-pointer'
+      }`}
     >
       <div className="py-2 px-3 flex items-center">
         <div className="w-8 pl-1">
@@ -48,10 +52,14 @@ const VarientItem = ({
         </div>
         <div>
           <p className="font-bold text-[15px]">{data.unit}</p>
-          <span className="text-xs">
-            {data.price}
-            <del className="ml-1 opacity-80">{data.mrp}</del>
-          </span>
+          {data.out_of_stock ? (
+            <span className="text-[10px] text-red-500">Out of stock</span>
+          ) : (
+            <span className="text-xs">
+              ₹{data.price}
+              <del className="ml-1 opacity-80">₹{data.mrp}</del>
+            </span>
+          )}
         </div>
       </div>
       {data.selected && data.offer && (
@@ -65,8 +73,15 @@ const VarientItem = ({
 
 const ProductVarients = ({ data, onSelect }: Props) => {
   const varientList = data.map((item) => {
-    const { product_id, price, mrp, unit, offer } = item;
-    return { product_id, price, mrp, unit, offer };
+    const { product_id, price, mrp, unit, offer, inventory } = item;
+    return {
+      product_id,
+      price,
+      mrp,
+      unit,
+      offer,
+      out_of_stock: inventory === 0,
+    };
   });
 
   const [currentIndex, setCurrentIndex] = useState<number>(0);
@@ -75,10 +90,9 @@ const ProductVarients = ({ data, onSelect }: Props) => {
     onSelect(e);
   };
 
-  console.log('varientList', varientList);
   return (
-    <div className="relative">
-      <div className="overflow-auto w-full max-w-[400px] md:max-w-[500px] -mx-2">
+    <div className="h-full flex items-center">
+      <div className="relative w-full flex-1 max-w-[400px] md:max-w-[500px] mx-4 lg:-ml-2">
         <Carousel
           swipeable={false}
           draggable={false}
@@ -88,7 +102,7 @@ const ProductVarients = ({ data, onSelect }: Props) => {
           customButtonGroup={<CarouselButtonGroup />}
           shouldResetAutoplay={false}
           infinite={false}
-          itemClass="mx-1"
+          itemClass="mx-2"
         >
           {varientList.map((varient, i) => (
             <VarientItem
