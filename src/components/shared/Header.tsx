@@ -15,7 +15,7 @@ const Header = () => {
             </span>
           </Link>
         </div>
-        <div className="sm:w-[150px] md:w-[240px] xl:w-[320px] py-4 px-1 sm:p-0 _header_loc flex items-center sm:justify-center cursor-pointer sm:hover:bg-gray-50">
+        <div className="w-full sm:w-[240px] xl:w-[320px] py-4 px-1 sm:p-0 _header_loc flex items-center sm:justify-center cursor-pointer sm:hover:bg-gray-50">
           <LocationPicker />
         </div>
         <div className="flex-1 relative _header_search">

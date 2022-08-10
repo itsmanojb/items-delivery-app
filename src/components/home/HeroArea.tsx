@@ -13,7 +13,7 @@ const HeroArea = () => {
   ];
 
   return (
-    <section>
+    <section className="mt-4 md:mt-0">
       {ads.map((ad) => (
         <div key={ad.id}>
           <img
