@@ -162,14 +162,14 @@ const CartPanel = () => {
               </div>
             </div>
             <div className="sticky bottom-0 bg-white px-4 pt-2 pb-4 min-h-[68px] _shadow_sticky">
-              <div className="bg-[#0c831f] cursor-pointer text-white flex items-center px-3 py-3 rounded-[4px] font-semibold text-[15px]">
-                <div className="font-extrabold">{totalQuantity} Items</div>
-                <div className="font-extrabold">&nbsp; &middot; &nbsp;</div>
+              <div className="bg-[#0c831f] cursor-pointer text-white flex items-center px-3 py-3 rounded-[4px] font-medium text-[14px]">
+                <div className="font-bold">{totalQuantity} Items</div>
+                <div className="font-bold">&nbsp; &middot; &nbsp;</div>
                 <div>
                   <span className="font-extrabold">₹{billAmount}</span>
                   <del className="text-sm ml-1">₹{totalAmount}</del>
                 </div>
-                <div className="ml-auto flex items-center font-extrabold">
+                <div className="ml-auto flex items-center font-bold">
                   Proceed <FiChevronRight size={18} className="ml-2" />
                 </div>
               </div>
